@@ -1,0 +1,75 @@
+/*
+* Noto Sans Japanese (japanese) http://www.google.com/fonts/earlyaccess
+* Downloaded fonts from //fonts.gstatic.com/ea/notosansjapanese/v3/ to local
+* Roboto had 200, 300, 400, 500, 700 only
+*/
+
+/*
+* @font-face {
+*  font-family: 'MyWebFont';
+*  src: url('webfont.eot'); /* IE9 Compat Modes */
+/*
+  src: url('webfont.eot?#iefix') format('embedded-opentype'),
+       url('webfont.woff2') format('woff2'),
+       url('webfont.woff') format('woff'),
+       url('webfont.ttf')  format('truetype'),
+       url('webfont.svg#svgFontName') format('svg');
+}*/
+
+/*
+first eot is ie9 compatible
+eot?#iefix is ie6-8
+woff2 super modern
+woff pretty modern
+ttf safari android ios
+svg legacy ios
+*/
+
+@font-face {
+  font-family: 'Noto Sans Japanese';
+  font-style: normal;
+  font-weight: 200;
+  src: url(/font/noto/NotoSansJP-Light.eot);
+  src: url(/font/noto/NotoSansJP-Light.eot?#iefix) format('embedded-opentype'),
+       url(/font/noto/NotoSansJP-Light.woff) format('woff'),
+       url(/font/noto/NotoSansJP-Light.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Sans Japanese';
+  font-style: normal;
+  font-weight: 300;
+  src: url(/font/noto/NotoSansJP-DemiLight.eot);
+  src: url(/font/noto/NotoSansJP-DemiLight.eot?#iefix) format('embedded-opentype'),
+       url(/font/noto/NotoSansJP-DemiLight.woff) format('woff'),
+       url(/font/noto/NotoSansJP-DemiLight.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Noto Sans Japanese';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/font/noto/NotoSansJP-Regular.eot);
+  src: url(/font/noto/NotoSansJP-Regular.eot?#iefix) format('embedded-opentype'),
+       url(/font/noto/NotoSansJP-Regular.woff) format('woff'),
+       url(/font/noto/NotoSansJP-Regular.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Noto Sans Japanese';
+  font-style: normal;
+  font-weight: 500;
+  src: url(/font/noto/NotoSansJP-Medium.eot);
+  src: url(/font/noto/NotoSansJP-Medium.eot?#iefix) format('embedded-opentype'),
+       url(/font/noto/NotoSansJP-Medium.woff) format('woff'),
+       url(/font/noto/NotoSansJP-Medium.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Noto Sans Japanese';
+  font-style: normal;
+  font-weight: 700;
+  src: url(/font/noto/NotoSansJP-Bold.eot);
+  src: url(/font/noto/NotoSansJP-Bold.eot?#iefix) format('embedded-opentype'),
+       url(/font/noto/NotoSansJP-Bold.woff) format('woff'),
+       url(/font/noto/NotoSansJP-Bold.otf) format('opentype');
+}
