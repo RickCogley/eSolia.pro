@@ -2,16 +2,17 @@
 author: eSolia
 date: 2015-06-29T00:05:19.000Z
 publishdate: 2015-06-29T00:05:19.000Z
-description: セキュリティと利便性
+description: Security and Convenience
 draft: false
 slug: testtesttest
 subtitle: サブタイトル for セキュリティと利便性
+postsummary: Frontmatter summary. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 weight: 9999
 alternatelocales:
   - en-US
 tags:
   - asdf
-title: セキュリティと利便性
+title: Security and Convenience
 topics:
   - TEST
 images:
@@ -20,12 +21,16 @@ menu:
   side:
     Name: testtesttest
     Weight: 10
-    Identifier: testtesttest
+    Identifier: testtesttesten
     Url: /testtesttest
     Parent: about-us
 ---
 
-## はじめに
+## Intro
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+
 近年さまざまなクラウド化が進み、いつでもどこでも仕事ができる環境が増えている。
 いつの時代も利便性は常にセキュリティと相反し、一方を高めれば一方に影響が出るものだ。今後クラウドサービスを検討するにあたりＩＴはどのような判断をしていく必要があるだろうか。
 
