@@ -144,7 +144,7 @@ $('#divRss2').FeedEk({
 });
 
 $('#divRss4').FeedEk({
-    FeedUrl:'http://esolia.co.jp/topics/サービス/index.xml',
+    FeedUrl:'http://esolia.co.jp/topics/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/index.xml',
     MaxCount : 4,
     ShowDesc : false,
     ShowPubDate:true,
