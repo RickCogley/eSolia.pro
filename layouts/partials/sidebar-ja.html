@@ -30,7 +30,7 @@
         </ul>
         {{ end }}
         <!-- END LANGUAGE SWITCHER -->
-        {{ $currentNode := . }}{{ range .Site.Menus.sideen }}{{ if .HasChildren }}
+        {{ $currentNode := . }}{{ range .Site.Menus.sideja }}{{ if .HasChildren }}
         <li class="bold"><a class="collapsible-header waves-effect waves-light-blue{{if or ($currentNode.IsMenuCurrent "side" .) ($currentNode.HasMenuCurrent "side" .) }} active{{end}}" target="{{ .Post }}">{{ .Pre }}<span>{{ .Name }}</span></a>
           <div class="collapsible-body">
             <ul>{{ range .Children }}
@@ -62,7 +62,7 @@
         <!-- END LANGUAGE SWITCHER -->
 
         {{ $currentNode := . }}
-        {{ range .Site.Menus.sideen }}{{ if .HasChildren }}
+        {{ range .Site.Menus.sideja }}{{ if .HasChildren }}
         <li class="bold"><a class="collapsible-header waves-effect waves-light-blue{{if or ($currentNode.IsMenuCurrent "side" .) ($currentNode.HasMenuCurrent "side" .) }} active{{end}}" target="{{ .Post }}">{{ .Pre }}<span>{{ .Name }}</span></a>
           <div class="collapsible-body">
             <ul>{{ range .Children }}
