@@ -46,18 +46,25 @@
 
         <!--   CARD SECTION   -->
         <!--   ROW 1   -->
-        <div class="row center">
-          <h2><i class="large mdi-social-whatshot deep-orange-text text-accent-3"></i></h2>
-          <h2>{{ ( index $.Site.Data.translations $.Site.Params.locale ).topsectionwwd }}</h2>
-          <p class="left-align">{{ ( index $.Site.Data.translations $.Site.Params.locale ).topsectionwwdtext }}</p>
-          <div class="posts">
-            {{ $Site := .Site }}
-            {{ range .Paginator.Pages }}
-                {{ .Render "summary" }}
-            {{ end }}
+        <div class="row">
+          <div class="col s12 m6">
+            <h2><i class="small mdi-social-whatshot purple-text text-accent-3"></i> Latest Posts</h2>
+            <div class="posts">
+              {{ $Site := .Site }}
+              {{ range where .Data.Pages "Section" "en" }}
+                  {{ .Render "summary" }}
+              {{ end }}
+            </div>
           </div>
-
-
+          <div class="col s12 m6">
+            <h2><i class="small mdi-social-whatshot purple-text text-accent-3"></i> 最新記事</h2>
+            <div class="posts">
+              {{ $Site := .Site }}
+              {{ range where .Data.Pages "Section" "ja" }}
+                  {{ .Render "summary" }}
+              {{ end }}
+            </div>
+          </div>
       </div>
     </div>
   </div>
@@ -135,18 +142,12 @@
   <div class="container">
     <div class="section">
       <div class="row">
-        <div class="col s12 m8 center">
+        <div class="col s12 m6 center">
           {{ if eq .Site.Params.locale "en-US" }}
 
           <h3><i class="mdi-content-send blue-text"></i></h3>
           <h4>{{ ( index $.Site.Data.translations $.Site.Params.locale ).topsectioncus }}</h4>
-          <div class="row">
-            <div class="col s12 m3 center-on-small-only">
-              <div class="image-container">
-                <img class="materialboxed left responsive-img" data-caption="{{ ( index $.Site.Data.translations $.Site.Params.locale ).photocaptionesoliaofficefront1 }}" alt="{{ ( index $.Site.Data.translations $.Site.Params.locale ).altphotoesoliaofficefront1 }}" width="100" src="/img/eSolia-Cogley-eSolia-Office-Exterior-20130530.jpg">
-              </div>
-            </div>
-            <div class="col s12 m9 left-align light">
+          <div class="left-align">
               <strong>Tel:</strong>&nbsp;<a href="tel:+81-3-6273-3510">+81-3-6273-3510</a> (+81 &#8594; 0 inside Japan)
               <br>
               <strong>Email:</strong>&nbsp;<a href="mailto:info@esolia.co.jp">info@esolia.co.jp</a>
@@ -160,20 +161,13 @@
               <br>
               &nbsp;&nbsp;&nbsp;... or use our <a href="/info-request">info request</a> form.
               <p><a class="waves-effect waves-light blue btn" href="https://www.google.co.jp/maps/place/eSolia+Inc./@35.667716,139.751462,17z/data=!4m6!1m3!3m2!1s0x60188b933eb5098d:0xb799ee788fa28eb7!2seSolia+Inc.!3m1!1s0x60188b933eb5098d:0xb799ee788fa28eb7?hl=en" target="_blank"><i class="mdi-maps-place left"></i>{{ ( index $.Site.Data.translations $.Site.Params.locale ).genviewgooglemap }}</a></p>
-            </div>
           </div>
 
           {{ else if eq .Site.Params.locale "ja-JP" }}
 
           <h3><i class="mdi-content-send blue-text"></i></h3>
           <h4>{{ ( index $.Site.Data.translations $.Site.Params.locale ).topsectioncus }}</h4>
-          <div class="row">
-            <div class="col s12 m3 center-on-small-only">
-              <div class="image-container">
-                <img class="materialboxed left responsive-img" data-caption="{{ ( index $.Site.Data.translations $.Site.Params.locale ).photocaptionesoliaofficefront1 }}" alt="{{ ( index $.Site.Data.translations $.Site.Params.locale ).altphotoesoliaofficefront1 }}" width="100" src="/img/eSolia-Cogley-eSolia-Office-Exterior-20130530.jpg">
-              </div>
-            </div>
-            <div class="col s12 m9 left-align light">
+          <div class="left-align">
               <strong>代表電話:</strong>&nbsp;<a href="tel:03-6273-3510">03-6273-3510</a>
               <br>
               <strong>メール:</strong>&nbsp;<a href="mailto:info@esolia.co.jp">info@esolia.co.jp</a>
@@ -186,16 +180,22 @@
               <br>
               &nbsp;&nbsp;&nbsp;... 又は<a href="/info-request">お問い合わせ</a>フォームをご利用ください。
               <p><a class="waves-effect waves-light blue btn" href="https://www.google.co.jp/maps/place/eSolia+Inc./@35.667716,139.751462,17z/data=!4m6!1m3!3m2!1s0x60188b933eb5098d:0xb799ee788fa28eb7!2seSolia+Inc.!3m1!1s0x60188b933eb5098d:0xb799ee788fa28eb7?hl=en" target="_blank"><i class="mdi-maps-place left"></i>{{ ( index $.Site.Data.translations $.Site.Params.locale ).genviewgooglemap }}</a></p>
-            </div>
           </div>
 
           {{ end }}
         </div>
-        <div class="col s12 m4 center">
+        <div class="col s12 m3 center">
           <h3><i class="mdi-communication-comment blue-text"></i></h3>
-          <h4 class="center">{{ ( index $.Site.Data.translations $.Site.Params.locale ).genlatestposts }}</h4>
+          <h4 class="center">Latest Services</h4>
           <p class="light">
             <div id="divRss2"></div>
+          </p>
+        </div>
+        <div class="col s12 m3 center">
+          <h3><i class="mdi-communication-comment blue-text"></i></h3>
+          <h4 class="center">最新サービス</h4>
+          <p class="light">
+            <div id="divRss4"></div>
           </p>
         </div>
       </div>

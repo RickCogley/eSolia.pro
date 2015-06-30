@@ -122,7 +122,7 @@ $('.dropdown-button').dropdown({
 // TEST CNN Feed: http://rss.cnn.com/rss/edition.rss
 
 $('#divRss1').FeedEk({
-    FeedUrl:'http://rick.cogley.info/topics/sysadmin/index.xml',
+    FeedUrl:'http://esolia.com/topics/services/index.xml',
     MaxCount : 4,
     ShowDesc : false,
     ShowPubDate:true,
@@ -133,7 +133,18 @@ $('#divRss1').FeedEk({
 });
 
 $('#divRss2').FeedEk({
-    FeedUrl:'http://rick.cogley.info/index.xml',
+    FeedUrl:'http://esolia.com/topics/services/index.xml',
+    MaxCount : 4,
+    ShowDesc : false,
+    ShowPubDate:true,
+    DescCharacterLimit:50,
+    TitleLinkTarget:'_blank',
+    DateFormat: 'DD-MMM-YYYY, ddd, HH:MM',
+    DateFormatLang:'en'
+});
+
+$('#divRss4').FeedEk({
+    FeedUrl:'http://esolia.co.jp/topics/サービス/index.xml',
     MaxCount : 4,
     ShowDesc : false,
     ShowPubDate:true,
@@ -144,7 +155,7 @@ $('#divRss2').FeedEk({
 });
 
 $('#divRss3').FeedEkMinimal({
-    FeedUrl:'http://rick.cogley.info/index.xml',
+    FeedUrl:'http://esolia.com/topics/services/index.xml',
     MaxCount : 2,
     ShowDesc : false,
     ShowPubDate: false,

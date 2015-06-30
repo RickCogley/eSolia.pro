@@ -7,7 +7,7 @@
             </div>
             {{ end }}
             <h3 class="post-title">
-              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
             </h3>
             </header>
             <p class="post-meta">
@@ -32,7 +32,7 @@
       				{{ end }}
             </p>
             <div class="post-summary">
-                {{ .Summary }}
+                {{ .Params.postsummary }}
             </div>
 			<footer class="read-more-link">
 				<a href="{{ .RelPermalink }}"><span class="read-more-separator">&#10087;</span>Read More...</a>
