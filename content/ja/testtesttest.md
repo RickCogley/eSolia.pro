@@ -11,7 +11,7 @@ weight: 9999
 alternatelocales:
   - en-US
 tags:
-  - asdf
+  - テスト
 title: セキュリティと<wbr><nobr>利便性</nobr>
 topics:
   - TEST
