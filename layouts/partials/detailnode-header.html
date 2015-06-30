@@ -1,6 +1,6 @@
 {{ "<!-- ENTERING layouts/partials/detailnode-header.html -->" | safeHTML }}
 <header>
-  <div class="section amber" id="index-banner">
+  <div class="section green darken-4" id="index-banner">
     <div class="container">
       <div class="row">
         <div class="col s12 m9">
@@ -17,7 +17,7 @@
             {{ if eq .Title "Esolia" }}eSolia{{ else }}{{ .Title }}{{ end }}
             {{ end }}
           </h1>
-          <h4 class="light light-blue-text center-on-small-only">
+          <h4 class="light purple-text text-accent-3 center-on-small-only">
             {{ if in "tags タグ" $taxoname }}
             {{ ( index $.Site.Data.translations $.Site.Params.locale ).taxotagbrowse }}
             {{ else if in "topics トピック" $taxoname }}
