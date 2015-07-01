@@ -4,26 +4,18 @@ date: 2015-06-29T00:05:19.000Z
 publishdate: 2015-06-29T00:05:19.000Z
 description: セキュリティと利便性
 draft: false
-slug: testtesttest
+slug: security-and-convenience
 subtitle: サブタイトル for セキュリティと利便性
 postsummary: 近年さまざまなクラウド化が進み、いつでもどこでも仕事ができる環境が増えている。いつの時代も利便性は常にセキュリティと相反し、一方を高めれば一方に影響が出るものだ。今後クラウドサービスを検討するにあたりＩＴはどのような判断をしていく必要があるだろうか。
-weight: 9999
 alternatelocales:
   - en-US
 tags:
-  - テスト
+  - 利便性
 title: セキュリティと<wbr><nobr>利便性</nobr>
 topics:
-  - TEST
+  - セキュリティ
 images:
   - /img/service2.png
-menu:
-  side:
-    Name: testtesttest
-    Weight: 10
-    Identifier: testtesttestja
-    Url: /testtesttest
-    Parent: about-us
 ---
 
 ## はじめに

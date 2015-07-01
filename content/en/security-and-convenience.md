@@ -4,27 +4,18 @@ date: 2015-06-29T00:05:19.000Z
 publishdate: 2015-06-29T00:05:19.000Z
 description: Security and Convenience
 draft: false
-slug: testtesttest
+slug: security-and-convenience
 subtitle: cool subtitle
 postsummary: Frontmatter summary. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-weight: 9999
 alternatelocales:
   - en-US
 tags:
-  - asdf
-  - テスト
+  - Convenience
 title: Security and Convenience
 topics:
-  - TEST
+  - Security
 images:
   - /img/service2.png
-menu:
-  side:
-    Name: testtesttest
-    Weight: 10
-    Identifier: testtesttesten
-    Url: /testtesttest
-    Parent: about-us
 ---
 
 ## Intro
