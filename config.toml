@@ -79,22 +79,17 @@ languageCode = "en-US"
 [[menu.sideen]]
     name = "About eSolia"
     identifier = "aboutesolia"
-    url = "/topics/esolia"
+    url = "http://esolia.com/about"
+    post = "_blank"
     parent = "topics"
     weight = 10
 
 [[menu.sideen]]
-    name = "Services"
+    name = "eSolia Services"
     identifier = "ourservices"
     weight = 20
-    url = "/topics/services"
-    parent = "topics"
-
-[[menu.sideen]]
-    name = "Telephone"
-    identifier = "telephonetopic"
-    weight = 30
-    url = "/topics/telephone"
+    url = "http://esolia.com/topics/services"
+    post = "_blank"
     parent = "topics"
 
 [[menu.sideen]]
@@ -118,80 +113,80 @@ languageCode = "en-US"
     parent = "tools"
     weight = 33
 
+[[menu.sideja]]
+    name = "ポスト"
+    identifier = "postsja"
+    weight = 1
 
-    [[menu.sideja]]
-        name = "ポスト"
-        identifier = "postsja"
-        weight = 1
+[[menu.sideja]]
+    name = "English"
+    identifier = "englishja"
+    url = "/en"
+    parent = "postsja"
+    weight = 10
 
-    [[menu.sideja]]
-        name = "English"
-        identifier = "englishja"
-        url = "/en"
-        parent = "postsja"
-        weight = 10
+[[menu.sideja]]
+    name = "日本語"
+    identifier = "japaneseja"
+    url = "/ja"
+    parent = "postsja"
+    weight = 20
 
-    [[menu.sideja]]
-        name = "日本語"
-        identifier = "japaneseja"
-        url = "/ja"
-        parent = "postsja"
-        weight = 20
+[[menu.sideja]]
+    name = "トピック"
+    identifier = "topicsja"
+    weight = 111
 
-    [[menu.sideja]]
-        name = "トピック"
-        identifier = "topicsja"
-        weight = 111
+[[menu.sideja]]
+    name = "全トピック"
+    identifier = "alltopicsja"
+    url = "/topics"
+    parent = "topicsja"
+    weight = 1
 
-    [[menu.sideja]]
-        name = "全トピック"
-        identifier = "alltopicsja"
-        url = "/topics"
-        parent = "topicsja"
-        weight = 1
+[[menu.sideja]]
+    name = "全タグ"
+    identifier = "alltagsja"
+    url = "/tags"
+    parent = "topicsja"
+    weight = 2
 
-    [[menu.sideja]]
-        name = "全タグ"
-        identifier = "alltagsja"
-        url = "/tags"
-        parent = "topicsja"
-        weight = 2
+[[menu.sideja]]
+    name = "イソリアについて"
+    identifier = "aboutesoliaja"
+    url = "http://esolia.co.jp/about"
+    post = "_blank"
+    parent = "topicsja"
+    weight = 10
 
-    [[menu.sideja]]
-        name = "イソリアについて"
-        identifier = "aboutesoliaja"
-        url = "/topics/esolia"
-        parent = "topicsja"
-        weight = 10
+[[menu.sideja]]
+    name = "イソリア サービス"
+    identifier = "ourservicesja"
+    weight = 20
+    url = "http://esolia.co.jp/topics/サービス"
+    post = "_blank"
+    parent = "topicsja"
 
-    [[menu.sideja]]
-        name = "サービス"
-        identifier = "ourservicesja"
-        weight = 20
-        url = "/topics/services"
-        parent = "topicsja"
+[[menu.sideja]]
+    name = "便利ツール"
+    identifier = "toolsja"
+    weight = 222
 
-    [[menu.sideja]]
-        name = "便利ツール"
-        identifier = "toolsja"
-        weight = 222
+[[menu.sideja]]
+    name = "ゼロビン"
+    identifier = "zerobinja"
+    url = "https://zerobin.esolia.com"
+    post = "_blank"
+    parent = "toolsja"
+    weight = 22
 
-    [[menu.sideja]]
-        name = "ゼロビン"
-        identifier = "zerobinja"
-        url = "https://zerobin.esolia.com"
-        post = "_blank"
-        parent = "toolsja"
-        weight = 22
-
-    [[menu.sideja]]
-        name = "イソリア コネクト"
-        identifier = "connectja"
-        url = "http://connect.esolia.com"
-        post = "_blank"
-        parent = "toolsja"
-        weight = 33
-
+[[menu.sideja]]
+    name = "イソリア コネクト"
+    identifier = "connectja"
+    url = "http://connect.esolia.com"
+    post = "_blank"
+    parent = "toolsja"
+    weight = 33
 
 [[menu.detailfooter1]]
     name = "All Topics"
