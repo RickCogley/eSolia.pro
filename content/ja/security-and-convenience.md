@@ -1,5 +1,5 @@
 ---
-author: eSolia
+author: 堀内ひであき
 date: 2015-06-29T00:05:19.000Z
 publishdate: 2015-06-29T00:05:19.000Z
 description: セキュリティと利便性

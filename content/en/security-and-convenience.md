@@ -1,17 +1,17 @@
 ---
-author: eSolia
+author: Hideaki Horiuchi
 date: 2015-06-29T00:05:19.000Z
 publishdate: 2015-06-29T00:05:19.000Z
 description: Security and Convenience
 draft: false
+title: Security & Convenience
+subtitle: some cool subtitle
 slug: security-and-convenience
-subtitle: cool subtitle
 postsummary: Frontmatter summary. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 alternatelocales:
   - en-US
 tags:
   - Convenience
-title: Security and Convenience
 topics:
   - Security
 images:
