@@ -6,13 +6,11 @@
         <img id="front-page-logo" class="esolia-logo responsive-img" src="img/eSolia-Logo-Flat-2015.svg">
       </a>
       <ul class="right hide-on-med-and-down">
-        <li><a href="/about" class="blue-text text-darken-3">{{ ( index $.Site.Data.translations $.Site.Params.locale ).menuabout }}</a></li>
+        <li><a href="http://esolia.com" class="blue-text text-darken-3">{{ ( index $.Site.Data.translations "en-US" ).menumainsitename }}</a></li>
+        <li><a href="http://esolia.co.jp" class="blue-text text-darken-3">{{ ( index $.Site.Data.translations "ja-JP" ).menumainsitename }}</a></li>
         <li>
           <a href="tel:+81-3-6273-3510" class="green-text text-accent-4">
             <em>Tel:</em>&nbsp;+81-3-6273-3510</a>
-        </li>
-        <li>
-          <a href="{{ ( index $.Site.Data.translations $.Site.Params.locale ).menulanguageswitchurl }}" class="green-text text-accent-4">{{ ( index $.Site.Data.translations $.Site.Params.locale ).menulanguageswitch }}</a>
         </li>
       </ul>
 
@@ -28,10 +26,10 @@
       <div class="container">
         <br>
         <br>
-        <h1 class="header center orange-text text-lighten-1">{{ upper ( index $.Site.Data.translations $.Site.Params.locale ).topslogan | markdownify }}</h1>
+        <h1 class="header center purple-text text-accent-3"><strong>{{ upper ( index $.Site.Data.translations $.Site.Params.locale ).topslogan | markdownify }}</strong></h1>
 
         <div class="row center">
-          <h3 class="header col s12 light">{{ ( index $.Site.Data.translations $.Site.Params.locale ).topsubslogan }}</h3>
+          <h3 class="header col s12 white-text">{{ ( index $.Site.Data.translations $.Site.Params.locale ).topsubslogan }}</h3>
         </div>
       </div>
     </div>
@@ -48,7 +46,7 @@
         <!--   ROW 1   -->
         <div class="row">
           <div class="col s12 m6">
-            <h2><i class="small mdi-social-whatshot purple-text text-accent-3"></i> Latest Posts</h2>
+            <h2 class="purple-text"><i class="material-icons small">whatshot</i> Latest Posts</h2>
             <div class="posts">
               {{ $Site := .Site }}
               {{ range where .Data.Pages "Section" "en" }}
@@ -57,11 +55,11 @@
             </div>
           </div>
           <div class="col s12 m6">
-            <h2><i class="small mdi-social-whatshot purple-text text-accent-3"></i> 最新記事</h2>
+            <h2 class="purple-text"><i class="material-icons small">whatshot</i> 最新記事</h2>
             <div class="posts">
               {{ $Site := .Site }}
               {{ range where .Data.Pages "Section" "ja" }}
-                  {{ .Render "summary" }}
+                  {{ .Render "summary-ja" }}
               {{ end }}
             </div>
           </div>
@@ -75,62 +73,72 @@
       <div class="section">
 
         <div class="row">
-          <div class="col s12 m4">
-            <div class="icon-block">
-              <h2 class="center amber-text text-darken-4"><i class="mdi-action-stars"></i></h2>
-              <h5 class="center">{{ ( index $.Site.Data.translations $.Site.Params.locale ).genfeature }}</h5>
 
+          <div class="col s12 m6 l4">
               <div class="card">
-                <div class="card-image waves-effect waves-block waves-light">
-                  <img class="activator" src="{{ ( index $.Site.Data.translations $.Site.Params.locale ).genfeature1img }}">
+                <div class="card-image">
+                  <img src="{{ ( index $.Site.Data.translations $.Site.Params.locale ).author1img }}">
+                  <span class="card-title">{{ ( index $.Site.Data.translations $.Site.Params.locale ).author1name }}</span>
                 </div>
-                <div class="card-content">
-                  <span class="card-title activator grey-text text-darken-4">{{ ( index $.Site.Data.translations $.Site.Params.locale ).genfeature1 }}<i class="mdi-navigation-more-vert right"></i></span>
-                  <p><a href="{{ ( index $.Site.Data.translations $.Site.Params.locale ).genfeature1url }}">{{ ( index $.Site.Data.translations $.Site.Params.locale ).genmoreinfo }}</a></p>
-                </div>
-                <div class="card-reveal">
-                  <span class="card-title grey-text text-darken-4">{{ ( index $.Site.Data.translations $.Site.Params.locale ).genfeature1 }} <i class="mdi-navigation-close right"></i></span>
-                  <p class="grey-text text-darken-4">{{ ( index $.Site.Data.translations $.Site.Params.locale ).genfeature1text }}</p>
+                <div class="card-action">
+                  <a class="purple-text" href="{{ ( index $.Site.Data.translations $.Site.Params.locale ).author1url }}">{{ ( index $.Site.Data.translations $.Site.Params.locale ).genbio }}</a>
                 </div>
               </div>
-            </div>
           </div>
 
-          <div class="col s12 m4">
-            <div class="icon-block">
-              <h2 class="center amber-text text-darken-4"><i class="mdi-action-stars"></i></h2>
-              <h5 class="center">{{ ( index $.Site.Data.translations $.Site.Params.locale ).genfeature }}</h5>
+          <div class="col s12 m6 l4">
 
               <div class="card">
-                <div class="card-image waves-effect waves-block waves-light">
-                  <img class="activator" src="{{ ( index $.Site.Data.translations $.Site.Params.locale ).genfeature2img }}">
+                <div class="card-image">
+                  <img src="{{ ( index $.Site.Data.translations $.Site.Params.locale ).author2img }}">
+                  <span class="card-title">{{ ( index $.Site.Data.translations $.Site.Params.locale ).author2name }}</span>
                 </div>
-                <div class="card-content">
-                  <span class="card-title activator grey-text text-darken-4">{{ ( index $.Site.Data.translations $.Site.Params.locale ).genfeature2 }} <i class="mdi-navigation-more-vert right"></i></span>
-                  <p><a href="{{ ( index $.Site.Data.translations $.Site.Params.locale ).genfeature2url }}">{{ ( index $.Site.Data.translations $.Site.Params.locale ).genmoreinfo }}</a></p>
-                </div>
-                <div class="card-reveal">
-                  <span class="card-title grey-text text-darken-4">{{ ( index $.Site.Data.translations $.Site.Params.locale ).genfeature2 }} <i class="mdi-navigation-close right"></i></span>
-                  <p class="grey-text text-darken-4">{{ ( index $.Site.Data.translations $.Site.Params.locale ).genfeature2text }}</p>
+                <div class="card-action">
+                  <a class="purple-text" href="{{ ( index $.Site.Data.translations $.Site.Params.locale ).author2url }}">{{ ( index $.Site.Data.translations $.Site.Params.locale ).genbio }}</a>
                 </div>
               </div>
-            </div>
           </div>
 
-          <div class="col s12 m4 center">
-            <div class="icon-block">
-              <h2 class="center amber-text text-darken-4"><i class="mdi-social-notifications-on"></i></h2>
-              <h5 class="center">{{ ( index $.Site.Data.translations $.Site.Params.locale ).genlatestfeature }}</h5>
-                <ul class="esList grey darken-2">
-                  {{ $series := index .Site.Taxonomies.series "top1" }}
-                  {{ range first 5 $series.Pages }}
-                    <li>
-                    <div class="esListItemTitle blue-text text-darken-1"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></div>
-                    <div class="esListItemDate grey-text text-lighten-2">{{ .Date.Format "02 Jan, 2006" }}</div>
-                    </li>
-                  {{ end }}
-                </ul>
-            </div>
+          <div class="col s12 m6 l4">
+
+              <div class="card">
+                <div class="card-image">
+                  <img src="{{ ( index $.Site.Data.translations $.Site.Params.locale ).author3img }}">
+                  <span class="card-title">{{ ( index $.Site.Data.translations $.Site.Params.locale ).author3name }}</span>
+                </div>
+                <div class="card-action">
+                  <a class="purple-text" href="{{ ( index $.Site.Data.translations $.Site.Params.locale ).author3url }}">{{ ( index $.Site.Data.translations $.Site.Params.locale ).genbio }}</a>
+                </div>
+              </div>
+          </div>
+
+          </div>
+          <div class="row">
+
+          <div class="col s12 m6 l4">
+
+              <div class="card">
+                <div class="card-image">
+                  <img src="{{ ( index $.Site.Data.translations $.Site.Params.locale ).author5img }}">
+                  <span class="card-title">{{ ( index $.Site.Data.translations $.Site.Params.locale ).author5name }}</span>
+                </div>
+                <div class="card-action">
+                  <a class="purple-text" href="{{ ( index $.Site.Data.translations $.Site.Params.locale ).author5url }}">{{ ( index $.Site.Data.translations $.Site.Params.locale ).genbio }}</a>
+                </div>
+              </div>
+          </div>
+
+          <div class="col s12 m6 l4">
+
+              <div class="card">
+                <div class="card-image">
+                  <img src="{{ ( index $.Site.Data.translations $.Site.Params.locale ).author6img }}">
+                  <span class="card-title">{{ ( index $.Site.Data.translations $.Site.Params.locale ).author6name }}</span>
+                </div>
+                <div class="card-action">
+                  <a class="purple-text" href="{{ ( index $.Site.Data.translations $.Site.Params.locale ).author6url }}">{{ ( index $.Site.Data.translations $.Site.Params.locale ).genbio }}</a>
+                </div>
+              </div>
           </div>
         </div>
 
