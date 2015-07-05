@@ -38,6 +38,7 @@ gencolophonname: 奥付
 genlatestfeature: 最新おすすめ
 genlatestposts: 最新プロ ブログ
 genmoreinfo: つづきを読む
+genbio: バイオ
 genviewgooglemap: グーグルマップで見る
 languagename: 日本語
 languageswitch: 言語切り替え
@@ -45,6 +46,7 @@ languageurl: http://esolia.co.jp
 menuabout: イソリアについて
 menulanguageswitch: English
 menulanguageswitchurl: http://esolia.com
+menumainsitename: メイン サイト
 month:
   1: 睦月
   2: 如月

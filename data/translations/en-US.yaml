@@ -2,6 +2,24 @@ altphotoatagotunnel: Photo of Atago Tunnel, by Rick Cogley
 altphotoesoliaofficefront1: Photo of eSolia office exterior, by Rick Cogley
 altphotonetworkswitch: Photo of Network Switch, by Rick Cogley
 altphototemplecolumn: Photo of Iikura Temple column, by Rick Cogley
+author1name: R. Cogley
+author1url: /pages/rick-cogley
+author1img: /img/eSolia-CEO-Rick-Cogley.jpg
+author2name: T. Fukuoka
+author2url: /pages/takumi-fukuoka
+author2img: /img/eSolia-COO-Takumi-Fukuoka.jpg
+author3name: H. Horiuchi
+author3url: /pages/hideaki-horiuchi
+author3img: /img/eSolia-Hideaki-Horiuchi.jpg
+author4name: E. Ishikawa
+author4url: /pages/ena-ishikawa
+author4img: /img/eSolia-Ena-Ishikawa.jpg
+author5name: Y. Nakada
+author5url: /pages/yorihisa-nakada
+author5img: /img/eSolia-Yorihisa-Nakada.jpg
+author6name: Y. Akiyama
+author6url: /pages/yasuyoshi-akiyama
+author6img: /img/eSolia-Yasuyoshi-Akiyama.jpg
 footerallrightsreserved: eSolia Inc., All Rights Reserved.
 footerlinks1title: General
 footerlinks1text: eSolia is a "virtual IT department", building strong foundations for your business since 1999.
@@ -38,6 +56,7 @@ gencolophonname: Colophon
 genlatestfeature: Latest Features
 genlatestposts: Latest Pro Blog
 genmoreinfo: More Info
+genbio: Bio
 genviewgooglemap: View on Google Maps
 languagename: English
 languageswitch: Language
@@ -45,6 +64,7 @@ languageurl: http://esolia.com
 menuabout: About
 menulanguageswitch: 日本語
 menulanguageswitchurl: http://esolia.co.jp
+menumainsitename: Main Site
 photocaptionesoliaofficefront1: Photo of eSolia Toranomon office exterior
 taxobrowse: Browse Labeled Content
 taxodraft: DRAFT
