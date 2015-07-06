@@ -9,7 +9,7 @@ MetaDataFormat = "yaml"
 languageCode = "en-US"
 
 [author]
-    name = "Rick Cogley"
+    name = "eSolia Inc."
 
 [permalinks]
     # Optional. Change the permalink format for the 'post' content type.
@@ -27,8 +27,8 @@ languageCode = "en-US"
 [params]
     locale = "en-US"
     alternatelocales = ["ja-JP"]
-    description = "Website of eSolia Inc. - a Tokyo-based IT Management and support firm."
-    keywords = ["Japan","IT","Management","Support","Outsourcing","Helpdesk","Website","Development","Operations"]
+    description = "Blog site of eSolia Inc. - a Tokyo-based IT Management and support firm."
+    keywords = ["Blog","Japan","ICT","IT","Tokyo","Greater Tokyo","Kanto","IT","Management","Support","Outsourcing","Helpdesk","Website","Project Management","Consulting","Development","Operations"]
     author = "Team eSolia"
     accountableperson = "Rick Cogley"
     entityname = "eSolia Inc."
