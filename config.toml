@@ -37,7 +37,6 @@ languageCode = "en-US"
     defaultKeywords = "eSolia"
     ISO8601 = "2006-01-02T15:04:05JST"
     googleAnalytics = "UA-1040233-7"
-    discourseURL = "http://discourse.esolia.pro"
 
 [[menu.sideen]]
     name = "eSolia Inc"
