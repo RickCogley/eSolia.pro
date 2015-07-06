@@ -7,6 +7,7 @@ slug: yorihisa-nakada
 title: Yorihisa Nakada
 subtitle: teamITMS
 weight: 50
+hidecomments: true
 alternatelocales:
   - ja-JP
 tags:

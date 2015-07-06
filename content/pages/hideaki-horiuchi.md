@@ -7,6 +7,7 @@ slug: hideaki-horiuchi
 title: Hideaki Horiuchi
 subtitle: teamITMS
 weight: 30
+hidecomments: true
 alternatelocales:
   - ja-JP
 tags:

@@ -6,6 +6,7 @@ draft: false
 slug: form-thanks
 subtitle: We'll be in touch
 weight: 9999
+hidecomments: true
 alternatelocales:
   - ja-JP
 tags:

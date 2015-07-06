@@ -7,6 +7,7 @@ slug: takumi-fukuoka
 title: Takumi Fukuoka
 subtitle: Keeping things running smoothly
 weight: 20
+hidecomments: true
 alternatelocales:
   - ja-JP
 tags:

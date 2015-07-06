@@ -7,6 +7,7 @@ slug: yasuyoshi-akiyama
 title: Yasuyoshi Akiyama
 subtitle: teamITMS
 weight: 60
+hidecomments: true
 alternatelocales:
   - ja-JP
 tags:
