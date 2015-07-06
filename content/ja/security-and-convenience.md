@@ -1,7 +1,7 @@
 ---
 author: 堀内ひであき
-date: 2015-06-29T00:05:19.000Z
-publishdate: 2015-06-29T00:05:19.000Z
+date: 2015-07-06T08:46:15+09:00
+publishdate: 2015-07-06T08:46:15+09:00
 description: イソリアから、eSolia.proのブログポスト、セキュリティと利便性
 draft: false
 slug: security-and-convenience
