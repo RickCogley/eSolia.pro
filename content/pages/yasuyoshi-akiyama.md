@@ -5,7 +5,7 @@ description: eSolia Yasuyoshi Akiyama Author Page
 draft: false
 slug: yasuyoshi-akiyama
 title: Yasuyoshi Akiyama
-subtitle: asdf asdf asdf asdf asdf
+subtitle: teamITMS
 weight: 60
 alternatelocales:
   - ja-JP
