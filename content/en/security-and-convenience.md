@@ -2,8 +2,8 @@
 author: Hideaki Horiuchi
 date: 2015-06-29T00:05:19.000Z
 publishdate: 2015-06-29T00:05:19.000Z
-description: Security and Convenience
-draft: false
+description: Security and Convenience - a blog post on eSolia.pro from eSolia Inc.
+draft: true
 title: Security & Convenience
 subtitle: some cool subtitle
 slug: security-and-convenience
