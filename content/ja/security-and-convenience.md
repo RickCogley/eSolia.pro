@@ -2,7 +2,7 @@
 author: 堀内ひであき
 date: 2015-06-29T00:05:19.000Z
 publishdate: 2015-06-29T00:05:19.000Z
-description: セキュリティと利便性
+description: イソリアから、eSolia.proのブログポスト、セキュリティと利便性
 draft: false
 slug: security-and-convenience
 subtitle: サブタイトル for セキュリティと利便性
@@ -15,7 +15,8 @@ title: セキュリティと<wbr><nobr>利便性</nobr>
 topics:
   - セキュリティ
 images:
-  - /img/service2.png
+  - /img/eSolia-Post-Security-vs-Convenience.png
+  - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
 ## はじめに
