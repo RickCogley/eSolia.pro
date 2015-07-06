@@ -204,28 +204,110 @@ languageCode = "en-US"
     url = "/topics"
     weight = 55
 
-[[menu.homefooter2]]
+[[menu.homefooter3]]
     name = "Zerobin"
     identifier = "zerobin"
     url = "https://zerobin.esolia.com"
     post = "_blank"
     weight = 22
 
-[[menu.homefooter2]]
+[[menu.homefooter3]]
     name = "eSolia Connect"
     identifier = "connect"
     url = "http://connect.esolia.com"
     post = "_blank"
     weight = 33
 
-[[menu.homefooter2]]
+[[menu.homefooter3]]
     name = "All Topics"
     identifier = "topics"
     url = "/topics"
     weight = 44
 
-[[menu.homefooter2]]
+[[menu.homefooter3]]
     name = "All Tags"
+    identifier = "tags"
+    url = "/tags"
+    weight = 55
+
+[[menu.homefooter1]]
+    name = "eSolia Main"
+    identifier = "esoliamain"
+    url = "http://esolia.com"
+    post = "_blank"
+    weight = 10
+
+[[menu.homefooter1]]
+    name = "About eSolia"
+    identifier = "aboutesolia"
+    url = "http://esolia.com/about"
+    post = "_blank"
+    weight = 20
+
+[[menu.homefooter1]]
+    name = "Message"
+    identifier = "esoliamessage"
+    url = "http://esolia.com/message-from-esolia"
+    post = "_blank"
+    weight = 30
+
+[[menu.homefooter1]]
+    name = "Info Request"
+    identifier = "esoliainforequest"
+    url = "http://esolia.com/info-request"
+    post = "_blank"
+    weight = 40
+
+[[menu.homefooter2]]
+    name = "イソリア メイン"
+    identifier = "esoliamain"
+    url = "http://esolia.co.jp"
+    post = "_blank"
+    weight = 10
+
+[[menu.homefooter2]]
+    name = "イソリアについて"
+    identifier = "aboutesolia"
+    url = "http://esolia.co.jp/about"
+    post = "_blank"
+    weight = 20
+
+[[menu.homefooter2]]
+    name = "メッセージ"
+    identifier = "esoliamessage"
+    url = "http://esolia.co.jp/message-from-esolia"
+    post = "_blank"
+    weight = 30
+
+[[menu.homefooter2]]
+    name = "お問い合わせ"
+    identifier = "esoliainforequest"
+    url = "http://esolia.co.jp/info-request"
+    post = "_blank"
+    weight = 40
+
+[[menu.homefooter4]]
+    name = "ゼロビン"
+    identifier = "zerobin"
+    url = "https://zerobin.esolia.com/?language=jp"
+    post = "_blank"
+    weight = 22
+
+[[menu.homefooter4]]
+    name = "イソリア コネクト"
+    identifier = "connect"
+    url = "http://connect.esolia.com"
+    post = "_blank"
+    weight = 33
+
+[[menu.homefooter4]]
+    name = "全てのトピック一覧"
+    identifier = "topics"
+    url = "/topics"
+    weight = 44
+
+[[menu.homefooter4]]
+    name = "全てのタブ一覧"
     identifier = "tags"
     url = "/tags"
     weight = 55
