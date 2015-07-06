@@ -22,4 +22,4 @@ aliases:
 
 ## About Hideaki Horiuchi
 
-More information coming soon.
+Hello World.
