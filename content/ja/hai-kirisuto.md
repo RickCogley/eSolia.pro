@@ -13,12 +13,12 @@ tags:
   - 再インストール
 title: はいキリスト
 topics:
-  - プラニング
+  - 経験談
 images:
 - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
-『はいキリスト』
+## 『はいキリスト』
 
 まるで信仰心の強い者がその主に従う様な言葉が、私のPCモニターに映った。
 
