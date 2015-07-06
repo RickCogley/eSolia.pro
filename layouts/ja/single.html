@@ -12,6 +12,20 @@
           <!--  Material Design -->
           <div id="materialdesign" class="section scrollspy">
 
+            {{ if not .Params.hideheaderblock }}
+            <div class="card-panel grey lighten-4">
+            {{ if not .Params.hidedate }}<span class="post-date grey-text"><i class="tiny material-icons">today</i>&nbsp;{{ .Date.Format "2-Jan-2006" }}</span>{{ end }}{{ if not .Params.hideauthor }}&nbsp;<span class="post-date grey-text"><i class="tiny material-icons">perm_identity</i>&nbsp;{{ .Params.author }}</span>{{ end }}
+            {{ $Site := .Site }}
+            {{ if .Params.topics }}
+                <div class="post-topics grey-text"><i class="tiny material-icons">label_outline</i>&nbsp;
+                {{ range .Params.topics }}
+                    <a class="post-topic post-topic-{{ . | urlize }}" href="{{ $Site.BaseURL}}/topics/{{ . | urlize }}">{{ . }}</a>
+                {{ end }}
+                </div>
+            {{ end }}
+            </div>
+            {{ end }}
+
             {{ .Content }}
             {{if isset .Params "showtopics" }}
               {{ partial "detailpage-topics.html" . }}
