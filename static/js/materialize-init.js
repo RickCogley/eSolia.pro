@@ -165,6 +165,17 @@ $('#divRss3').FeedEkMinimal({
     DateFormatLang:'en'
 });
 
+$('#divRss5').FeedEkMinimal({
+    FeedUrl:'http://esolia.co.jp/topics/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/index.xml',
+    MaxCount : 2,
+    ShowDesc : false,
+    ShowPubDate:false,
+    DescCharacterLimit:50,
+    TitleLinkTarget:'_blank',
+    DateFormat: 'DD-MMM-YYYY, ddd, HH:MM',
+    DateFormatLang:'ja'
+});
+
 // Lazy-loading Google Map
 
 // $( '.google-map' ).lazyLoadGoogleMaps(
