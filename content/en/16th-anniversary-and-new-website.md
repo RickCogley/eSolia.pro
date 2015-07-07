@@ -4,18 +4,20 @@ date: 2015-07-07T08:45:15+09:00
 publishdate: 2015-07-07T08:45:15+09:00
 description: 16th Anniversary and New Website - a blog post on eSolia.pro from eSolia Inc.
 draft: false
-slug: 16th-anniversary-and-new-website
+slug: 16th-anniversary-and-new-web-site
 subtitle: It's been a sweet 16
 postsummary: Join eSolia in celebrating our 16th anniversary on 7th July 2015, and the launch of our new website.
 alternatelocales:
   - en-US
 tags:
   - 16th Anniversary
-title: Our 16th Anniversary & New Website
+title: Our 16th Anniversary and New Web-site
 topics:
   - Announcements
 images:
   - /img/eSolia-Chicklet-Color-1024px.png
+aliases:
+  - /16th-anniversary-and-new-website
 ---
 
 ## Thank you
