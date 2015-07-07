@@ -20,6 +20,7 @@ languageCode = "en-US"
     tag = "tags"
     topic = "topics"
     series = "series"
+    author = "authors"
 
 [blackfriday]
     plainIdAnchors = true
@@ -96,6 +97,13 @@ languageCode = "en-US"
     url = "/tags"
     parent = "topics"
     weight = 2
+
+[[menu.sideen]]
+    name = "All Authors"
+    identifier = "allauthors"
+    url = "/authors"
+    parent = "topics"
+    weight = 3
 
 [[menu.sideen]]
     name = "Tools"

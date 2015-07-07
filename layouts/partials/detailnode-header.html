@@ -13,6 +13,8 @@
             {{ ( index $.Site.Data.translations $.Site.Params.locale ).topics }}
             {{ else if in "Series シリーズ" $nodetitle }}
             {{ ( index $.Site.Data.translations $.Site.Params.locale ).series }}
+            {{ else if in "Authors 作者" $nodetitle }}
+            {{ ( index $.Site.Data.translations $.Site.Params.locale ).authors }}
             {{ else }}
             {{ if eq .Title "Esolia" }}eSolia{{ else }}{{ .Title }}{{ end }}
             {{ end }}
@@ -24,6 +26,8 @@
             {{ ( index $.Site.Data.translations $.Site.Params.locale ).taxotopicbrowse }}
             {{ else if in "series シリーズ" $taxoname }}
             {{ ( index $.Site.Data.translations $.Site.Params.locale ).taxoseriesbrowse }}
+            {{ else if in "authors 作者" $taxoname }}
+            {{ ( index $.Site.Data.translations $.Site.Params.locale ).taxoauthorsbrowse }}
             {{ else }}
             {{ ( index $.Site.Data.translations $.Site.Params.locale ).taxobrowse }}
             {{ end }}

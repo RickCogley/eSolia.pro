@@ -78,10 +78,14 @@ taxotopicalltopics: all topics.
 taxoseriesbrowse: Browse Series Content
 taxoseriesorbrowse: ...or browse
 taxoseriesallseries: all series.
+taxoauthorsbrowse: Browse Authors' Content
+taxoauthorsorbrowse: ...or browse
+taxoauthorsallauthors: all authors.
 topics: Topics
 tags: Tags
 series: Series
 labels: Labels
+authors: Authors
 topsectionbsf: Building Strong Foundations
 topsectioncus: Contact Us
 topsectionwhy: Why eSolia?

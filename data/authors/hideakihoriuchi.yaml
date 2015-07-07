@@ -1,0 +1,31 @@
+en-US:
+  given_name: Hideaki
+  family_name: Horiuchi
+  display_name: Hideaki Horiuchi
+  short_bio: asdfasdf
+  long_bio: asdfasfdasdfasdfasdfasdfasdfasdfasdfasdf
+  bio_url: /pages/hideaki-horiuchi
+ja-JP:
+  given_name: 秀朗
+  family_name: 堀内
+  display_name: 堀内 秀朗
+  short_bio: asdfasdfasdfasdfasdf
+  long_bio: asdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdf
+  bio_url: /pages/hideaki-horiuchi
+common:
+  personal_email: asdf@asdf.com
+  work_email: hideaki.horiuchi@esolia.co.jp
+  main_img: /img/eSolia-Hideaki-Horiuchi.jpg
+  thumbnail: /img/hide.png
+  images:
+    - /img/eSolia-Hideaki-Horiuchi.jpg
+    - /img/hide.png
+social:
+  website: http://esolia.com
+  blog_rss: http://esolia.pro/index.xml
+  about_page: http://esolia.com/about
+  twitter: http://www.twitter.com/eSolia_Inc
+  google_plus: https://plus.google.com/+Esolia?rel=author
+  facebook: http://www.facebook.com/eSolia
+  linkedin: http://www.linkedin.com/company/esolia-inc
+  vimeo: https://vimeo.com/channels/esolia

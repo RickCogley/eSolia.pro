@@ -21,6 +21,8 @@
                  {{ ( index $.Site.Data.translations $.Site.Params.locale ).topics }}
                  {{ else if in "series シリーズ" $taxoname }}
                  {{ ( index $.Site.Data.translations $.Site.Params.locale ).series }}
+                 {{ else if in "authors 作者" $taxoname }}
+                 {{ ( index $.Site.Data.translations $.Site.Params.locale ).authors }}
                  {{ else }}
                  {{ ( index $.Site.Data.translations $.Site.Params.locale ).labels }}
                  {{ end }}

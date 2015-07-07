@@ -1,0 +1,31 @@
+en-US:
+  given_name: Ena
+  family_name: Ishikawa
+  display_name: Ena Ishikawa
+  short_bio: asdfasdf
+  long_bio: asdfasfdasdfasdfasdfasdfasdfasdfasdfasdf
+  bio_url: /pages/ena-ishikawa
+ja-JP:
+  given_name: 絵奈
+  family_name: 石川
+  display_name: 石川 絵奈
+  short_bio: asdfasdfasdfasdfasdf
+  long_bio: asdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdf
+  bio_url: /pages/ena-ishikawa
+common:
+  personal_email: asdf@asdf.com
+  work_email: ena.ishikawa@esolia.co.jp
+  main_img: /img/eSolia-Ena-Ishikawa.jpg
+  thumbnail: /img/ena.png
+  images:
+    - /img/eSolia-Ena-Ishikawa.jpg
+    - /img/ena.png
+social:
+  website: http://esolia.com
+  blog_rss: http://esolia.pro/index.xml
+  about_page: http://esolia.com/about
+  twitter: http://www.twitter.com/eSolia_Inc
+  google_plus: https://plus.google.com/+Esolia?rel=author
+  facebook: http://www.facebook.com/eSolia
+  linkedin: http://www.linkedin.com/company/esolia-inc
+  vimeo: https://vimeo.com/channels/esolia
