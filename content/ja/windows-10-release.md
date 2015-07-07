@@ -2,23 +2,28 @@
 author: Hideaki Horiuchi
 date: 2015-07-07T14:46:15+09:00
 publishdate: 2015-07-06T08:46:15+09:00
-description: イソリアから、eSolia.proのブログポスト、Windows10リリース
+description: イソリアから、eSolia.proのブログポスト、Windows 10 リリース
 draft: true
-slug: windows10
-subtitle: Windows10のリリース
-postsummary: Wind
+slug: windows-10-release
+subtitle: 7月29日についに配布が開始される
+postsummary: 7月29日についにWindows10の配布が開始される。既に多くのメディアで紹介されている通り、MicrosoftはWindows10を最後のOSとすると発表している。今後はMacOSなどと同じように、無料でのパッチという形で更新されると思われる。
 alternatelocales:
   - en-US
 tags:
-  - Windows10
+  - Windows 10
 title: Windows10にむけて
 topics:
-  - Windows10
+  - ソフトウェア
 images:
-
+  - /img/eSolia-Post-Windows-10_orange.jpg
+  - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
-# Windows10にむけて #
+## 配布の開始
+
+<figure class="image-container">
+<img class="materialboxed right responsive-img z-depth-1" width="200" data-caption="Windows 10 Logo" alt="Logo for Windows 10" src="/img/eSolia-Post-Windows-10_orange.jpg" >
+</figure>
 
 7月29日についにWindows10の配布が開始される。　　
 
@@ -26,24 +31,22 @@ images:
 
 今後はMacOSなどと同じように、無料でのパッチという形で更新されると思われる。
 
-# Windows10の新機能 #
-
+## Windows10の新機能
 
 Windows10には様々な新機能が搭載されるが、いくつかの機能を紹介してみよう。
 
-* スタート機能の復活
+### スタート機能の復活
 
 Windows8で消えてしまったスタートメニューが10で復活する。
 これにより8でわざわざ二つのUIを使い分けいていた人も、7の頃のように階層メニュー化されたUIで操作することができる。
 これを求めていた人はきっと少なくはないだろう。
 
-
-* コルタナの実装
+### コルタナの実装
 
 Windows Phone8で既に搭載されている、いわばiPhoneのSiriと同じ機能だ。
 音声認識によって操作を簡略することが可能になるそうだが、現在の技術レベルを見る限りそこまで期待できるものではないのかもしれない。
 
-* 新ブラウザ、Spartanの実装
+### 新ブラウザ、Spartanの実装
 
 従来のIEに代わる新ブラウザが実装される。
 注目する機能としては、メモ書き機能と読書モードだろうか。
@@ -51,14 +54,14 @@ Windows Phone8で既に搭載されている、いわばiPhoneのSiriと同じ�
 メモ書き機能は表示したWebページにペンやマーカーで直接書き込みができるようになり、ファイルとして共有できるようになる。
 また、読書モードでは余分なレイアウトを排除した簡易テキストモードで表示することができるようになる。
 
-* スマートフォン、PC等の共有
+### スマートフォン、PC等の共有
 
 Windows10が乗る端末同士での共有がとても簡単になる。
 これにより、どこ端末でも同じドキュメントや情報を見る事ができるようになる。
 
 ただ、ビジネス利用としては昨今のウィルス・スパイウェアの攻撃が激増している中、セキュリティの面では不安が残る。
 
-# Windows10への準備 #
+## Windows10への準備
 
 今回のOSのアップグレードがどのような形で提供されるかはまだ不明だが、
 基本的には従来通りアップグレードインストールという形をまず推奨されると思われる。
@@ -72,7 +75,7 @@ Windows10が乗る端末同士での共有がとても簡単になる。
 また上記でも述べたが、Windows10からは他端末との共有が容易になる事から、
 セキュリティ面でのポリシーを見直し、ユーザに十分なトレーニングをする必要がある。
 
-# Windows10へ移行のタイミング #
+## Windows10へ移行のタイミング
 
 知っての通りどんなシステムにでもいえる事だが、最初の1年は使い物にならないケースがほとんどだ。
 ただ、Microsoft Windowsは常に2バージョン毎にテスト版と安定板を繰り返している。
@@ -86,3 +89,4 @@ MEの後のXP、Vistaの後の7といったように。
 
 ちなみに、なぜWindows8から9を飛び越えて10になったかというと、どうやらWindows9xシリーズとの混同を避けるためらしい。
 
+PUT SOMETHING HERE ABOUT HOW ESOLIA CAN HELP WITH THIS...PUT SOMETHING HERE ABOUT HOW ESOLIA CAN HELP WITH THIS...PUT SOMETHING HERE ABOUT HOW ESOLIA CAN HELP WITH THIS...PUT SOMETHING HERE ABOUT HOW ESOLIA CAN HELP WITH THIS...PUT SOMETHING HERE ABOUT HOW ESOLIA CAN HELP WITH THIS...
