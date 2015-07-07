@@ -1,4 +1,5 @@
 ---
+authorkey: hideakihoriuchi
 author: Hideaki Horiuchi
 date: 2015-07-07T14:46:15+09:00
 publishdate: 2015-07-06T08:46:15+09:00
@@ -14,6 +15,8 @@ tags:
 title: セキュリティと<wbr><nobr>利便性</nobr>
 topics:
   - セキュリティ
+authors:
+  - Hideaki Horiuchi
 images:
   - /img/eSolia-Post-Security-vs-Convenience.png
   - /img/eSolia-Chicklet-Color-1024px.png

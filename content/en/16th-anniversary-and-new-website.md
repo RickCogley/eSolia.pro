@@ -1,5 +1,6 @@
 ---
 author: eSolia
+authorkey: esolia
 date: 2015-07-07T08:45:15+09:00
 publishdate: 2015-07-07T08:45:15+09:00
 description: 16th Anniversary and New Website - a blog post on eSolia.pro from eSolia Inc.
@@ -14,6 +15,8 @@ tags:
 title: Our 16th Anniversary and New Web-site
 topics:
   - Announcements
+authors:
+  - eSolia
 images:
   - /img/eSolia-Chicklet-Color-1024px.png
 aliases:

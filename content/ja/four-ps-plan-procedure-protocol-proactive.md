@@ -1,5 +1,6 @@
 ---
 author: Yorihisa Nakada
+authorkey: yorihisanakada
 date: 2015-07-04T08:45:15+09:00
 publishdate: 2015-07-04T08:45:15+09:00
 description: イソリアから、eSolia.proのブログポスト、備えあれば憂いなし
@@ -16,6 +17,8 @@ tags:
 title: ４つのP
 topics:
   - プラニング
+authors:
+  - Yorihisa Nakada
 images:
 - /img/eSolia-Chicklet-Color-1024px.png
 ---

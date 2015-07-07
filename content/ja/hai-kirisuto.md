@@ -1,5 +1,6 @@
 ---
 author: Yasuyoshi Akiyama
+authorkey: yasuyoshiakiyama
 date: 2015-07-04T08:45:15+09:00
 publishdate: 2015-07-04T08:45:15+09:00
 description: イソリアから、eSolia.proのブログポスト、備えあれば憂いなし
@@ -14,6 +15,8 @@ tags:
 title: はいキリスト
 topics:
   - 経験談
+authors:
+  - Yasuyoshi Akiyama
 images:
 - /img/eSolia-Chicklet-Color-1024px.png
 ---

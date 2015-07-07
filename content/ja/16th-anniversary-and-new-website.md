@@ -1,5 +1,6 @@
 ---
-author: イソリア
+author: eSolia
+authorkey: esolia
 date: 2015-07-07T08:45:15+09:00
 publishdate: 2015-07-07T08:45:15+09:00
 description: イソリアより - 創立記念日と新ウェブサイトのお知らせ。
@@ -16,6 +17,8 @@ tags:
 title: 創業１６周年、<wbr><nobr>ウェブサイトリニューアル</nobr>
 topics:
   - アナウンス
+authors:
+  - eSolia
 images:
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
