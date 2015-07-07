@@ -21,7 +21,7 @@ aliases:
   - /hideaki-horiuchi
 ---
 
-## About Hideaki Horiuchi
+## About Hideaki Horiuchi、ITMS Manager
 
 Hideaki Horiuchi studied English in Toront Canada, and Started IT carieer in bilingal helpdesk team in a major consulting company.
 After experimencing Callcenter staff, Network/Server Engineer, Internal IT Manager and etc, Joined eSOLIA in September 2007, and assumed the position of ITMS Manager in 2010.
@@ -30,6 +30,8 @@ Focusing on a communication most, because any great system or consulting are mea
 Most priority is Customer's profit and endeavoring best substantive service for it.
 
 Hobby is Pazzul games, favorite sports is swimming.
+
+## 堀内 秀朗
 
 学生時代にカナダ・トロントにて英語を習得し、帰国後大手コンサルティング会社にてヘルプデスクを経験。
 その後コールセンター、ネットワークやサーバエンジニア、社内インフラマネージャーなど経験し、2007年イソリアに入社、2010年よりITMS部のマネージャーに就任。
