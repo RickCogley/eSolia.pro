@@ -3,7 +3,7 @@ author: Hideaki Horiuchi
 date: 2015-07-06T08:46:15+09:00
 publishdate: 2015-07-06T08:46:15+09:00
 description: Security and Convenience - a blog post on eSolia.pro from eSolia Inc.
-draft: false
+draft: true
 title: Security & Convenience
 subtitle: Deciding the Balance Between
 slug: security-and-convenience
