@@ -2,10 +2,10 @@
 author: Hideaki Horiuchi
 date: 2015-07-07T14:46:15+09:00
 publishdate: 2015-07-06T08:46:15+09:00
-description: イソリアから、eSolia.proのブログポスト、Windows10
+description: イソリアから、eSolia.proのブログポスト、Windows10リリース
 draft: true
 slug: windows10
-subtitle: Windowsへのアップグレード
+subtitle: Windows10のリリース
 postsummary: Wind
 alternatelocales:
   - en-US
