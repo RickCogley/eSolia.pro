@@ -5,8 +5,9 @@ description: eSolia Hideaki Horiuchi Author Page
 draft: false
 slug: hideaki-horiuchi
 title: Hideaki Horiuchi
-subtitle: asdf asdf asdf asdf asdf
+subtitle: teamITMS
 weight: 30
+hidecomments: true
 alternatelocales:
   - ja-JP
 tags:

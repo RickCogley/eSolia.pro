@@ -7,6 +7,7 @@ slug: rick-cogley
 title: Rick Cogley
 subtitle: Experienced Expat Helping People in Japan
 weight: 10
+hidecomments: true
 alternatelocales:
   - ja-JP
 tags:

@@ -1,13 +1,13 @@
 ---
 author: Hideaki Horiuchi
-date: 2015-06-29T00:05:19.000Z
-publishdate: 2015-06-29T00:05:19.000Z
-description: Security and Convenience
+date: 2015-07-06T08:46:15+09:00
+publishdate: 2015-07-06T08:46:15+09:00
+description: Security and Convenience - a blog post on eSolia.pro from eSolia Inc.
 draft: false
 title: Security & Convenience
-subtitle: some cool subtitle
+subtitle: Deciding the Balance Between
 slug: security-and-convenience
-postsummary: Frontmatter summary. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+postsummary: Security and convenience are always at odds with each other. When one side increases or is strengthened, the other decreases and is weakened naturally. To get the balance right, we have to continually search for the latest information, and it's probably best to get some help from a company with a wide range of knowledge and experience, like eSolia.
 alternatelocales:
   - en-US
 tags:
@@ -15,37 +15,34 @@ tags:
 topics:
   - Security
 images:
-  - /img/service2.png
+  - /img/eSolia-Post-Security-vs-Convenience.png
+  - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
 ## Intro
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+In recent years, we have seen an increase in "cloudifications" that are allowing people to work anywhere, any time.
 
+However, no matter what period of history you are discussing, security and convenience are always at odds with each other. When one side increases or is strengthened, the other decreases and is weakened naturally. When a company is considering cloud services, the IT department needs to carefully consider security matters.
 
-近年さまざまなクラウド化が進み、いつでもどこでも仕事ができる環境が増えている。
-いつの時代も利便性は常にセキュリティと相反し、一方を高めれば一方に影響が出るものだ。今後クラウドサービスを検討するにあたりＩＴはどのような判断をしていく必要があるだろうか。
+## Examining the Proportions
 
-## 割合を見極める
-セキュリティを高めるに一番手っ取り早いのは誰にもアクセスさせないことだ。
-ただ当然ながらこれでは仕事にならない。逆に利便性を重視するあまりパスワードや暗号化なしにシステムを構築するのは危険すぎる。
+Of course, the fastest way to ensure high security is to simply disconnect and disallow any access. But that's not the answer, since you won't be able to get any work done. Conversely, allowing too much access, for example allowing blank passwords or unencrypted systems, is not the answer either, and is simply too risky.
 
 <div class="image-container">
 <img class="materialboxed right responsive-img" data-caption="Security vs Convenience" width="300" src="/img/eSolia-Post-Security-vs-Convenience.png">
 </div>
 
-業種によっても割合は多く変わってくる。資産運用など他人の資産を預かる会社はセキュリティは万全なものでなくてはならない。
-しかし個人情報などを一切扱わないような業種の場合は利便性を重視し、業務効率を促進するべきである。
+The proportion depends upon the type of company. Companies managing peoples' financial assets will obviously need to have a heavy emphasis on strict security, and will therefore have to deal with inconvenience. But a company that for example, does not deal with any privacy concerns will be able to put the emphasis on convenience.
 
-### ITのあり方
-基本的にITは会社の利益を促進し、守るものでなければならない。
-逆に言うと会社の稼ぎを妨害するような、そして会社の資産を損なうようなＩＴは意味がない。
-いつの時代でもＩＴはユーザが使いやすいものでなければ意味はない。
+> How can security co-exist with convenience?
 
-> どうやって利便性とセキュリティを両立するの？
+### How IT Should Be
 
-## 最後に
-セキュリティレベルを決めるコンプライアンスとＩＴを熟知していなければならなく、
-世の中のそれはめまぐるしいスピードで変わっていく。
+Basically, an IT department must protect its company's profits, and would have no meaning if it is somehow blocking a company's profit-making activities, or causing asset losses. An IT department must always strive to create a user environment that helps users be as productive for the company as they can be.
 
-こういった場合は絶えず最新の情報に触れ、幅広い知識と経験を持つ会社に委託する事が最善の策なのかもしれない。
+## In closing
+
+The compliance decision of the proper "level" of security for the situation, and the knowledge within IT to make that happen in a practical manner, are two areas that change at breakneck speed.
+
+In this sort of case, we have to continually search for the latest information, and it's probably best to get some help from a company with a wide range of knowledge and experience, like eSolia.

@@ -5,8 +5,9 @@ description: eSolia Yorihisa Nakada Author Page
 draft: false
 slug: yorihisa-nakada
 title: Yorihisa Nakada
-subtitle: asdf asdf asdf asdf asdf
+subtitle: teamITMS
 weight: 50
+hidecomments: true
 alternatelocales:
   - ja-JP
 tags:

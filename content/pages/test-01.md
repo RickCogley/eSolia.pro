@@ -7,6 +7,7 @@ draft: false
 slug: test-01
 subtitle: Test01
 weight: 9999
+hidecomments: true
 alternatelocales:
   - ja-JP
 title: Test01
