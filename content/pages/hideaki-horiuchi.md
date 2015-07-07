@@ -22,16 +22,20 @@ aliases:
 
 ## About Hideaki Horiuchi
 
-カナダ・トロントにて英語を習得し、帰国後大手コンサルティング会社にてITサポートを経験。
-その後コールセンターのオペレーターや、大規模ネットワークのエンジニアなど経験し、2008年イソリアに入社。
+Hideaki Horiuchi studied English in Toront Canada, and Started IT carieer in bilingal helpdesk team in a major consulting company.
+After experimencing Callcenter staff, Network/Server Engineer, Internal IT Manager and etc, Joined eSOLIA in September 2007, and assumed the position of ITMS Manager in 2010.
 
-2012年よりITMS部のマネージャとして業務につく。
+Focusing on a communication most, because any great system or consulting are meanless without users' correct understanding.
+Most priority is Customer's profit and endeavoring best substantive service for it.
 
-何よりもお客様の利益を第一に考え、実のあるサポートを意識すること大事。
+Hobby is Pazzul games, favorite sports is swimming.
 
-得意スポーツは水泳だが、体系ではデブである。
+学生時代にカナダ・トロントにて英語を習得し、帰国後大手コンサルティング会社にてヘルプデスクを経験。
+その後コールセンター、ネットワークやサーバエンジニア、社内インフラマネージャーなど経験し、2007年イソリアに入社、2010年よりITMS部のマネージャーに就任。
 
-（Edit途中です。）
+どんなに優れたシステムや提案であっても利用者に正しく理解して頂けなければ無意味と考え、コミュニケーションに重点を置いてます。
+何よりもお客様の利益を第一に考え、実のあるサービスを心掛けております。
+
+趣味はスマホのパズルゲーム、得意なスポーツは水泳。
 
 
-200
