@@ -1,6 +1,6 @@
 ---
 author: Hideaki Horiuchi
-date: 2015-07-06T08:46:15+09:00
+date: 2015-07-07T14:46:15+09:00
 publishdate: 2015-07-06T08:46:15+09:00
 description: Security and Convenience - a blog post on eSolia.pro from eSolia Inc.
 draft: false
@@ -45,4 +45,4 @@ Basically, an IT department must protect its company's profits, and would have n
 
 The compliance decision of the proper "level" of security for the situation, and the knowledge within IT to make that happen in a practical manner, are two areas that change at breakneck speed.
 
-In this sort of case, we have to continually search for the latest information, and it's probably best to get some help from a company with a wide range of knowledge and experience, like eSolia.
+In this sort of case, we have to continually search for the latest information, and it's probably best to get some help from a company with a wide range of knowledge and experience, _like eSolia_.

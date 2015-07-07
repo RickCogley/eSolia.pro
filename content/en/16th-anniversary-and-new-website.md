@@ -1,7 +1,7 @@
 ---
 author: eSolia
-date: 2015-07-06T08:45:15+09:00
-publishdate: 2015-07-06T08:45:15+09:00
+date: 2015-07-07T08:45:15+09:00
+publishdate: 2015-07-07T08:45:15+09:00
 description: 16th Anniversary and New Website - a blog post on eSolia.pro from eSolia Inc.
 draft: false
 slug: 16th-anniversary-and-new-website
