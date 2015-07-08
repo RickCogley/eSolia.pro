@@ -6,12 +6,14 @@ publishdate: 2015-07-06T08:46:15+09:00
 description: イソリアから、eSolia.proのブログポスト、Windows 10 リリース
 draft: true
 slug: windows-10-release
-subtitle: 7月29日についに配布が開始される
+subtitle: 2015年7月29日についに配布が開始される
 postsummary: 7月29日についにWindows10の配布が開始される。既に多くのメディアで紹介されている通り、MicrosoftはWindows10を最後のOSとすると発表している。今後はMacOSなどと同じように、無料でのパッチという形で更新されると思われる。
 alternatelocales:
   - en-US
 tags:
   - Windows 10
+  - 2015
+  - アップグレード
 title: Windows10にむけて
 topics:
   - ソフトウェア
