@@ -34,64 +34,64 @@ On 29th July, 2015, Windows 10 distribution will begin. As has been reported in 
 
 ## New Features in Windows 10
 
+Following is the some new features in Windows10.
 Windows10には様々な新機能が搭載されるが、いくつかの機能を紹介してみよう。
 
-### スタート機能の復活
+### Start Menu is back.
 
-Windows8で消えてしまったスタートメニューが10で復活する。
-これにより8でわざわざ二つのUIを使い分けいていた人も、7の頃のように階層メニュー化されたUIで操作することができる。
-これを求めていた人はきっと少なくはないだろう。
+Start Menu, that has been deleted in Windows8, is coming back.
+For users were using 2 different UI in Win8 but from Win10, OS can be operated hierarchially just like Windows7.
+Many people are desiring this feacure back for sure.
 
-### コルタナの実装
+### Cortana is ready
 
-Windows Phone8で既に搭載されている、いわばiPhoneのSiriと同じ機能だ。
-音声認識によって操作を簡略することが可能になるそうだが、現在の技術レベルを見る限りそこまで期待できるものではないのかもしれない。
+Cortana, was implimented in Windows Phone8, is coming with Windows10.
+It is basically same feature as Siri in iPhone.
+Unfortunately it is hard to say "usuful" in current vocal recognition technology nowdays though.
 
-### 新ブラウザ、Spartanの実装
+### Spartan, the new browser
 
-従来のIEに代わる新ブラウザが実装される。
-注目する機能としては、メモ書き機能と読書モードだろうか。
+We are finally getting away of IE! new defaulted brouswer, Spartan is coming out.
+The remarked function of Spartan, 1. notes writing, 2. Text Reading mode.
 
-メモ書き機能は表示したWebページにペンやマーカーで直接書き込みができるようになり、ファイルとして共有できるようになる。
-また、読書モードでは余分なレイアウトを排除した簡易テキストモードで表示することができるようになる。
+Regarding noteswriting, you can write down notes on the browser and can be shared with other users as the file format.
+and regarding Test reading mode, you can eliminate all layouts or pictures and can speed up showing in text.
 
-### スマートフォン、PC等の共有
+### Easy share to Smartphone, PC and others
 
-Windows10が乗る端末同士での共有がとても簡単になる。
-これにより、どこ端末でも同じドキュメントや情報を見る事ができるようになる。
+As long as Windows10 can be installed to the device, file shareing will be very easy.
+You can use same file in anywhere, anytime.
 
-ただ、ビジネス利用としては昨今のウィルス・スパイウェアの攻撃が激増している中、セキュリティの面では不安が残る。
+However, we also need to be careful about Malware attached that is increasing lately.
 
-## Windows10への準備
+## Prepearation of Windows10
 
-今回のOSのアップグレードがどのような形で提供されるかはまだ不明だが、
-基本的には従来通りアップグレードインストールという形をまず推奨されると思われる。
+As you might already seeing icon in task bar, Windows10 seems to be ready for "Upgrade" mode.
+However, any IT administrators knows about risk of "upgrade" installation and prefer clean installation.
 
-ただ、IT管理者であればアップグレードインストールのリスクを重々承知だろう。
-やはりクリーンインストールをした方がよいと思われるが、それには常にデータ紛失のリスクが伴う。
+To prepare for clean installation ugrade, we should plan for data backup for avoiding deletetion risk, 
+It could be good chacne to start planning Cloud system(such as Thin Client) in this timing.
 
-今から大事なデータはローカルではなく、少しずつサーバなどのクラウド側にコピーしておく仕組みを作るのが好ましい。
-もしくはこの機会に、今後主流となるクラウド型のシステム（シンクライアントなど）の導入を検討してもよいのかもしれない。
+Also we have to think about Security policy update as mentioned in above, and very good user training to prevent any confusions that affaects to business quolity.
 
-また上記でも述べたが、Windows10からは他端末との共有が容易になる事から、
-セキュリティ面でのポリシーを見直し、ユーザに十分なトレーニングをする必要がある。
 
-## Windows10へ移行のタイミング
+## When to migrate to Windows10
 
-知っての通りどんなシステムにでもいえる事だが、最初の1年は使い物にならないケースがほとんどだ。
-ただ、Microsoft Windowsは常に2バージョン毎にテスト版と安定板を繰り返している。
+As you know, any sytems are unstable in first 1 year.
+but Microsft alwasy relases test version and stabule version.
 
-MEの後のXP、Vistaの後の7といったように。
+Just like XP after ME, 7 after Vista.
 
-となると今回の10は既に8でのテスト済みになるので、初めからかなり安定した状態で出てくる事が期待できる。
-また、最後のOSとなるといったことから、Windowsを使う以上絶対に避けては通れないOSとなる。
+New we are having 10 after 8, we could say 10 will be stable version.
+Also Microsoft is mentioning that 10 is very last version.
+So we can not avoid this OS, we have to lean this OS at some point.
 
-当然ユーザ側への配布は1年を待った方がいいのは変わりないが、少なくともIT側としては早々に移行にチャレンジをしてもよいのかもしれない。
+Ofcause, deploying user shoulbe waited for a year, but any IT engineers should try Windows 10 fast as possible.
 
-ちなみに、なぜWindows8から9を飛び越えて10になったかというと、どうやらWindows9xシリーズとの混同を避けるためらしい。
+By the way, the reason why Windows skipped Windows9 is, to avoide confusion to Windows9x, they say.
 
-## 最後に
+## In Closing
 
-OSマイグレーションはいつも多大な労力が伴う。データの紛失や操作トレーニング、なによりスケジューリングが大事だ。
-こういった場合はOSマイグレーションの経験が豊富な会社のサービスを利用するのがいいだろう。
-そう、イソリアのアウトソーシングのようなね。
+OS migration requires huge load of tasks, there are many risk of data lose, Operation traning, and most hard part is scheduling.
+
+In this sort of project, you should use the company that has enough experimence and skill of migration, like eSolia.
