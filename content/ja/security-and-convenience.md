@@ -12,7 +12,8 @@ alternatelocales:
   - en-US
 tags:
   - 利便性
-title: セキュリティと<wbr><nobr>利便性</nobr>
+title: セキュリティと利便性
+titlewbr: セキュリティと<wbr><nobr>利便性</nobr>
 topics:
   - セキュリティ
 authors:
