@@ -92,4 +92,8 @@ MEの後のXP、Vistaの後の7といったように。
 
 ちなみに、なぜWindows8から9を飛び越えて10になったかというと、どうやらWindows9xシリーズとの混同を避けるためらしい。
 
-PUT SOMETHING HERE ABOUT HOW ESOLIA CAN HELP WITH THIS...PUT SOMETHING HERE ABOUT HOW ESOLIA CAN HELP WITH THIS...PUT SOMETHING HERE ABOUT HOW ESOLIA CAN HELP WITH THIS...PUT SOMETHING HERE ABOUT HOW ESOLIA CAN HELP WITH THIS...PUT SOMETHING HERE ABOUT HOW ESOLIA CAN HELP WITH THIS...
+## 最後に
+
+OSマイグレーションはいつも多大な労力が伴う。データの紛失や操作トレーニング、なによりスケジューリングが大事だ。
+こういった場合はOSマイグレーションの経験が豊富な会社のサービスを利用するのがいいだろう。
+そう、イソリアのアウトソーシングのようなね。
