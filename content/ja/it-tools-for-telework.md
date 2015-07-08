@@ -5,9 +5,9 @@ date: 2015-07-07T14:46:15+09:00
 publishdate: 2015-07-06T08:46:15+09:00
 description: 福利厚生だけじゃない、"攻めのテレワーク"実現に向けて
 draft: true
-slug: telework
+slug: it-tools-for-telework
 subtitle: 福利厚生だけじゃない、"攻めのテレワーク"実現に向けて
-postsummary: 政府が推進しているテレワーク、なかなか普及しないのは何故でしょうか？
+postsummary: テレワークとは、情報通信技術を活用した、場所や時間にとらわれない柔軟な働き方のことです。政府が推進しているテレワーク、なかなか普及しないのは何故でしょうか？
 alternatelocales:
   - en-US
 tags:
@@ -18,25 +18,24 @@ tags:
   - 職場意識改善助成金
   - ワークライフバランス推進助成金
 title: 攻めのテレワーク
-titlewbr: 攻めのテレワーク
 topics:
-  - ソフトウェア
+  - 経験談
 authors:
   - Ena Ishikawa
 images:
-
+  - /img/eSolia-Post-Telework-01.png
+  - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
-# テレワーク #
+## テレワークとは
 
-> **テレワークとは　「tele = 離れた所」と「work = 働く」をあわせた造語、日本語です。**
+**テレワークとは**　「tele = 離れた所」と「work = 働く」をあわせた造語、日本語です。[一般社団法人テレワーク協会](http://www.japan-telework.or.jp/intro/tw_about.html "一般社団法人テレワーク協会")では下記のように定義しています。
 
-[一般社団法人テレワーク協会](http://www.japan-telework.or.jp/intro/tw_about.html "一般社団法人テレワーク協会")では下記のように定義しています。<br>
-****
-**テレワーク**とは、情報通信技術(ICT = Information and Communication Technology)を活用した、場所や時間にとらわれない柔軟な働き方のことです。
-***
+> **テレワーク**とは、情報通信技術(ICT = Information and Communication Technology)を活用した、場所や時間にとらわれない柔軟な働き方のことです。
 
-テレワークと同等の用語として外資系企業でよく使用されているのが、**「Remote access」、「Remote user」、「Work from home」**と場合によって表現は変わりますが、場所や時間にとらわれないという意味では、日本語で言うテレワークは幅広いリモートアクセス環境をさしているともとれます。
+テレワークと同等の用語として外資系企業でよく使用されているのが、「**Remote access**」、「**Remote user**」、「**Work from home**」 と場合によって表現は変わりますが、場所や時間にとらわれないという意味では、日本語で言うテレワークは幅広いリモートアクセス環境をさしているともとれます。
+
+### よくある質問
 
 > **週1日以上、終日在宅で就業する会社員は実際のところ、どのぐらいいるのでしょうか？**
 
@@ -45,10 +44,16 @@ images:
 
 > **推進しているはずが、減っている。なぜでしょうか?**
 
-ICTの技術は日々進化しており、技術的視点のみで見ると導入は容易です。実際に、総務省の調べによると社外からのPC・携帯電話等の接続環境も過半数の企業で導入されており、営業担当や、IT担当等モバイルワークを必要とする業務について言えばすでに普及しています。<br>
-![](https://pro.dbflex.net/secure/db/15331/attachment.aspx?fid=1349399&guid=25cc1ab6-f556-43d3-834f-7a75c0a8e579&ext=.png)
+ICTの技術は日々進化しており、技術的視点のみで見ると導入は容易です。実際に、総務省の調べによると社外からのPC・携帯電話等の接続環境も過半数の企業で導入されており、営業担当や、IT担当等モバイルワークを必要とする業務について言えばすでに普及しています。
+
+<figure class="image-container">
+<img class="materialboxed responsive-img" width="500" data-caption="Zoom caption" alt="Alt caption" src="/img/eSolia-Post-Telework-01.png" >
+<figcaption><em>DOKODOKO KARA</em> - 社外からの企業通信網への接続環境</figcaption>
+</figure>
 
 要するに、雇用型在宅型テレワーカーが定着しないのは技術的な問題だけではないと言えます。
+
+### 私の経験
 
 私事で恐縮ですが、11年前に長男を妊娠した際、6年前に次男を妊娠した際と2回の妊娠中にテレワークを利用しました。
 その時点で弊社にテレワークという制度があった訳でありませんが、幸い、理解のある上司に恵まれ、業務に支障のない範囲でテレワークを実施できました。実際に大きいお腹を抱えたり、つわりで苦しみながら無理して往復2時間の通勤を要するのであれば、その時間は在宅で効率よく業務をこなし、会社の為に生産性を挙げるほうが効率的な場合もあります。
@@ -63,9 +68,10 @@ ICTの技術は日々進化しており、技術的視点のみで見ると導�
 * 通勤、移動時間短縮によるコスト削減
 * 非常災害時の事業継続(BCPの一環)
 
-
 例えば、終日オフィスに篭って報告書やプレゼン資料等を製作するのであれば、在宅で集中作業を行ったほうが効率的な場合もあります。
 テレワークを浸透させるには、まず企業がその利点を理解することにあります。福利厚生ではない、生産性を挙げる＝「攻めのテレワーク」を実現する為にはあらゆるITツールを駆使し、在宅でも社内と変わらない業務品質を保つ必要があるでしょう。
+
+## どのITツールが必要か
 
 > **テレワークの形態は様々ですが、下記のようなITツールがあると便利でしょう。**
 
@@ -77,7 +83,7 @@ ICTの技術は日々進化しており、技術的視点のみで見ると導�
 **あると便利なシステム**
 
 - クラウド勤怠管理システム
-- VPNやリモートアクセス 
+- VPNやリモートアクセス
 - 社内インスタントメッセージシステム　
 - ビデオ会議 or ビデオチャットシステム
 - クラウド電話システム
@@ -88,10 +94,8 @@ ICTの技術は日々進化しており、技術的視点のみで見ると導�
 また、テレワーク推進の為、中小企業を対象に下記のような助成金制度もあります。
 上手に活用する事で経営に役立てることができるのではないでしょうか。
 
-- 厚生労働省　「職場意識改善助成金」(テレワークコース)
-http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/jikan/syokubaisikitelework.html
-
-- 東京都　「ワークライフバランス推進助成金」
-http://www.hataraku.metro.tokyo.jp/equal/ryoritu/josei/
+- 厚生労働省　「[職場意識改善助成金](http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/jikan/syokubaisikitelework.html)」(テレワークコース)
+- 東京都　「[ワークライフバランス推進助成金](http://www.hataraku.metro.tokyo.jp/equal/ryoritu/josei/)」
 
 弊社ではテレワーク導入のコンサルティングや実際の導入までお手伝い可能です。お気軽にお問い合わせください。
+MAYBE ADD SOME LINKS TO THE RELEVANT PAGES????
