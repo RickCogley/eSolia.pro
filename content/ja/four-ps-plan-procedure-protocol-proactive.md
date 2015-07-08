@@ -1,6 +1,6 @@
 ---
-author: Yorihisa Nakada
-authorkey: yorihisanakada
+author: eSolia
+authorkey: esolia
 date: 2015-07-04T08:45:15+09:00
 publishdate: 2015-07-04T08:45:15+09:00
 description: イソリアから、eSolia.proのブログポスト、備えあれば憂いなし

@@ -3,20 +3,20 @@ authorkey: hideakihoriuchi
 author: Hideaki Horiuchi
 date: 2015-07-07T14:46:15+09:00
 publishdate: 2015-07-06T08:46:15+09:00
-description: イソリアから、eSolia.proのブログポスト、Windows 10 リリース
+description: Windows 10 Release - a blog post on eSolia.pro from eSolia Inc.
 draft: true
 slug: windows-10-release
-subtitle: 2015年7月29日についに配布が開始される
-postsummary: 7月29日についにWindows10の配布が開始される。既に多くのメディアで紹介されている通り、MicrosoftはWindows10を最後のOSとすると発表している。今後はMacOSなどと同じように、無料でのパッチという形で更新されると思われる。
+subtitle: Distribution to begin on 29 July 2015
+postsummary: On 29th July, 2015, Windows 10 distribution will begin. As has been reported in various media, Microsoft intends to make Windows 10 their "last OS". Future upgrades will likely take the approach of Mac OS X, adding features with free patches.
 alternatelocales:
   - en-US
 tags:
   - Windows 10
   - 2015
-  - アップグレード
-title: Windows10にむけて
+  - Upgrade
+title: Windows 10 Release
 topics:
-  - ソフトウェア
+  - Software
 authors:
   - Hideaki Horiuchi
 images:
@@ -24,19 +24,15 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
-## 配布の開始
+## Start of Distribution
 
 <figure class="image-container">
 <img class="materialboxed right responsive-img z-depth-1" width="200" data-caption="Windows 10 Logo" alt="Logo for Windows 10" src="/img/eSolia-Post-Windows-10_orange.jpg" >
 </figure>
 
-7月29日についにWindows10の配布が開始される。　　
+On 29th July, 2015, Windows 10 distribution will begin. As has been reported in various media, Microsoft intends to make Windows 10 their "last OS". Future upgrades will likely take the approach of Mac OS X, adding features with free patches.
 
-既に多くのメディアで紹介されている通り、MicrosoftはWindows10を最後のOSとすると発表している。
-
-今後はMacOSなどと同じように、無料でのパッチという形で更新されると思われる。
-
-## Windows10の新機能
+## New Features in Windows 10
 
 Windows10には様々な新機能が搭載されるが、いくつかの機能を紹介してみよう。
 
