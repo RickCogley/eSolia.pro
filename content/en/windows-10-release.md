@@ -14,6 +14,9 @@ tags:
   - Windows 10
   - 2015
   - Upgrade
+  - Cortana
+  - Start Button
+  - Edge Browser
 title: Windows 10 Release
 topics:
   - Software
@@ -34,64 +37,44 @@ On 29th July, 2015, Windows 10 distribution will begin. As has been reported in 
 
 ## New Features in Windows 10
 
-Following is the some new features in Windows10.
-Windows10には様々な新機能が搭載されるが、いくつかの機能を紹介してみよう。
+The following are a selection of some of the new features in Windows 10.
 
-### Start Menu is back.
+### Start Menu is back
 
-Start Menu, that has been deleted in Windows8, is coming back.
-For users were using 2 different UI in Win8 but from Win10, OS can be operated hierarchially just like Windows7.
-Many people are desiring this feacure back for sure.
+The Start Menu which had been removed in Windows 8, is making a return. For users were taking the trouble to use 2 different UIs in Windows 8, Windows 10 will operate similar to Windows 7. This is sure to be a popular feature.
 
 ### Cortana is ready
 
-Cortana, was implimented in Windows Phone8, is coming with Windows10.
-It is basically same feature as Siri in iPhone.
-Unfortunately it is hard to say "usuful" in current vocal recognition technology nowdays though.
+Cortana, first implemented in Windows Phone 8, is coming with Windows 10. It is basically the same feature as Siri in an iPhone. Unfortunately, it is still hard to call such features "useful" given the current vocal recognition technology.
 
-### Spartan, the new browser
+### Edge Browser, a new hope
 
-We are finally getting away of IE! new defaulted brouswer, Spartan is coming out.
-The remarked function of Spartan, 1. notes writing, 2. Text Reading mode.
+We are finally getting away from IE! The new default browser, "Edge" (previously known as "Spartan") is coming out, and we'd say the remarkable features are 1) its note-taking, and 2) its text reading mode.
 
-Regarding noteswriting, you can write down notes on the browser and can be shared with other users as the file format.
-and regarding Test reading mode, you can eliminate all layouts or pictures and can speed up showing in text.
+Regarding note-taking, you can annotate a website in the browser, then share this with other users as a file. Regarding text reading mode, you can eliminate all layouts or pictures, to give yourself an uncluttered view of the site.
 
 ### Easy share to Smartphone, PC and others
 
-As long as Windows10 can be installed to the device, file shareing will be very easy.
-You can use same file in anywhere, anytime.
+Provided Windows 10 can be installed to the device, file sharing will be very easy. This means you can use same files anywhere, anytime. However, we feel the need to mention that vigilance against malware will be needed, since it is increasing lately.
 
-However, we also need to be careful about Malware attached that is increasing lately.
+## Preparation for Windows 10
 
-## Prepearation of Windows10
+While we are not sure how Windows 10 upgrade will present itself to users (such as via a popup in the system tray or status bar), we assume it will be similar to the process so far. However, as IT administrators, we at eSolia know very well about the risk of upgrades, and lean toward preferring a "clean" upgrade, from scratch.
 
-As you might already seeing icon in task bar, Windows10 seems to be ready for "Upgrade" mode.
-However, any IT administrators knows about risk of "upgrade" installation and prefer clean installation.
+To prepare for a clean installation upgrade, one should plan for data backup to avoid loss of data risk. It may be good timing to consider a strong centralized storage system (on a file server or in the cloud), or even moving to thin clients, with this upgrade.  
 
-To prepare for clean installation ugrade, we should plan for data backup for avoiding deletetion risk, 
-It could be good chacne to start planning Cloud system(such as Thin Client) in this timing.
+Furthermore, we have to consider security policy updates and thorough user training, since Windows 10 makes it so easy to share data.
 
-Also we have to think about Security policy update as mentioned in above, and very good user training to prevent any confusions that affaects to business quolity.
+## When to migrate to Windows 10
 
+As you know, most new system releases are unstable for the first year. And Microsoft historically has released more stable OS versions after less stable "test" OS versions. For instance, Windows XP after ME, or Windows 7 after Vista. Since Windows 10 is coming after the relatively unstable Windows 8, we can infer Windows 10 will be a "stable" version. Since Windows 10 is also said to be the "last" version, it is safe to assume that we simply have to upgrade to this version and use it.
 
-## When to migrate to Windows10
+Buy the way, Microsoft says they released version 10 after version 8, skipping 9, to "avoid confusing users".
 
-As you know, any sytems are unstable in first 1 year.
-but Microsft alwasy relases test version and stabule version.
-
-Just like XP after ME, 7 after Vista.
-
-New we are having 10 after 8, we could say 10 will be stable version.
-Also Microsoft is mentioning that 10 is very last version.
-So we can not avoid this OS, we have to lean this OS at some point.
-
-Ofcause, deploying user shoulbe waited for a year, but any IT engineers should try Windows 10 fast as possible.
-
-By the way, the reason why Windows skipped Windows9 is, to avoide confusion to Windows9x, they say.
+Companies will usually wait for a while after a new release, to plan and wait for full stability, before releasing a new version of Windows on their company systems. eSolia recommends IT engineers try it as soon as possible.
 
 ## In Closing
 
-OS migration requires huge load of tasks, there are many risk of data lose, Operation traning, and most hard part is scheduling.
+OS migration in an organization requires a daunting set of activities, and carries with it risk of data loss, a requirement for operational training, and particularly rough scheduling, since users need to be able to work.
 
-In this sort of project, you should use the company that has enough experimence and skill of migration, like eSolia.
+For this sort of project, please contact eSolia, since we have solid experience and skill in this and related areas.
