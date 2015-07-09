@@ -48,9 +48,9 @@ ICTの技術は日々進化しており、技術的視点のみで見ると導�
 
 <figure class="image-container">
 <img class="materialboxed responsive-img" width="500" data-caption="Zoom caption" alt="Alt caption" src="/img/eSolia-Post-Telework-01.png" >
-<figcaption><em>DOKODOKO KARA</em> - 社外からの企業通信網への接続環境</figcaption>
+<figcaption><em>総務省「我が国の企業におけるICTの導入率推移より」</em> - 社外からの企業通信網への接続環境</figcaption>
 </figure>
-
+<br>
 要するに、雇用型在宅型テレワーカーが定着しないのは技術的な問題だけではないと言えます。
 
 ### パラダイムシフトでテレワークを成功に導く
