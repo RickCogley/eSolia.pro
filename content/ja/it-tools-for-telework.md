@@ -6,7 +6,7 @@ publishdate: 2015-07-06T08:46:15+09:00
 description: 福利厚生だけじゃない、"攻めのテレワーク"実現に向けて
 draft: true
 slug: it-tools-for-telework
-subtitle: 福利厚生だけじゃない、"攻めのテレワーク"実現に向けて
+subtitle: 福利厚生だけじゃない、<wbr><nobr>「攻めのテレワーク」 実現に向けて</nobr>
 postsummary: テレワークとは、情報通信技術を活用した、場所や時間にとらわれない柔軟な働き方のことです。政府が推進しているテレワーク、なかなか普及しないのは何故でしょうか？
 alternatelocales:
   - en-US
@@ -78,12 +78,12 @@ ICTの技術は日々進化しており、技術的視点のみで見ると導�
 
 > **テレワークの形態は様々ですが、下記のようなICTツールがあると便利でしょう。**
 
-**必須システム**
+**_必須システム_**
 
 - インターネット接続
 - メールシステム
 
-**あると便利なシステム**
+**_あると便利なシステム_**
 
 - クラウド勤怠管理システム
 - VPNやリモートアクセス
@@ -100,10 +100,8 @@ ICTの技術は日々進化しており、技術的視点のみで見ると導�
 - 厚生労働省　「[職場意識改善助成金](http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/jikan/syokubaisikitelework.html)」(テレワークコース)
 - 東京都　「[ワークライフバランス推進助成金](http://www.hataraku.metro.tokyo.jp/equal/ryoritu/josei/)」
 
-弊社ではテレワーク導入のコンサルティングや実際の導入までお手伝い可能です。お気軽にお問い合わせください。
+弊社ではテレワーク導入のコンサルティングや実際の導入までお手伝い可能です。お気軽に[お問い合わせ](http://esolia.co.jp/info-request)ください。
 
-*[イソリアのクラウドデーターベースPROdb](http://esolia.co.jp/prodb/)*
-
-*[IP電話、クラウド型電話サービスでビジネスの効率化を](http://esolia.co.jp/telephone/)*
-
-*[プロジェクト・購買・資産・コンプライアンスなどプロセス管理はイソリアへ](http://esolia.co.jp/process/)*
+* [イソリアのクラウドデーターベースPROdb](http://esolia.co.jp/prodb/)
+* [IP電話、クラウド型電話サービスでビジネスの効率化を](http://esolia.co.jp/telephone/)
+* [プロジェクト・購買・資産・コンプライアンスなどプロセス管理はイソリアへ](http://esolia.co.jp/process/)
