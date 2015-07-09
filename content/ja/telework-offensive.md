@@ -3,7 +3,7 @@ authorkey: enaishikawa
 author: Ena Ishikawa
 date: 2015-07-07T14:46:15+09:00
 publishdate: 2015-07-06T08:46:15+09:00
-description: 福利厚生だけじゃない、"攻めのテレワーク"実現に向けて
+description: 福利厚生だけじゃない、「攻めのテレワーク」実現に向けて
 draft: true
 slug: it-tools-for-telework
 subtitle: 福利厚生だけじゃない、<wbr><nobr>「攻めのテレワーク」 実現に向けて</nobr>
@@ -47,8 +47,8 @@ images:
 ICTの技術は日々進化しており、技術的視点のみで見ると導入は容易です。実際に、総務省の調べによると社外からのPC・携帯電話等の接続環境も過半数の企業で導入されており、営業担当や、IT担当等モバイルワークを必要とする業務について言えばすでに普及しています。
 
 <figure class="image-container">
-<img class="materialboxed responsive-img" width="500" data-caption="Zoom caption" alt="Alt caption" src="/img/eSolia-Post-Telework-01.png" >
-<figcaption><em>総務省「我が国の企業におけるICTの導入率推移より」</em> - 社外からの企業通信網への接続環境</figcaption>
+<img class="materialboxed responsive-img" width="550" data-caption="Zoom caption" alt="Alt caption" src="/img/eSolia-Post-Telework-01.png" >
+<figcaption><em>総務省「特集 <a href="http://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h26/html/nc141220.html">ICTがもたらす世界規模でのパラダイムシフト</a>」より</em> <br>社外からの企業通信網への接続環境</figcaption>
 </figure>
 <br>
 要するに、雇用型在宅型テレワーカーが定着しないのは技術的な問題だけではないと言えます。
