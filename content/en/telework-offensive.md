@@ -30,22 +30,25 @@ images:
 
 ## What is "Telework"?
 
-**テレワークとは**　「tele = 離れた所」と「work = 働く」をあわせた造語、日本語です。[一般社団法人テレワーク協会](http://www.japan-telework.or.jp/intro/tw_about.html "一般社団法人テレワーク協会")では下記のように定義しています。
+**Telework** is Japanese coined word and it means telecommuting. Ministry of Internal Affairs and Communicatins in Japan defined below.
 
-> **テレワーク**とは、情報通信技術(ICT = Information and Communication Technology)を活用した、場所や時間にとらわれない柔軟な働き方のことです。
 
-テレワークと同等の用語として外資系企業でよく使用されているのが、「**Remote access**」、「**Remote user**」、「**Work from home**」 と場合によって表現は変わりますが、場所や時間にとらわれないという意味では、日本語で言うテレワークは幅広いリモートアクセス環境をさしているともとれます。
+>**Telework** is flexible working style using ICT(Informatin and Communication Technology), free from location or time constraints. <br> 
+Reference: [Efforts to promote telework in Japan](http://www.soumu.go.jp/main_sosiki/joho_tsusin/eng/presentation/pdf/110908_1.pdf)
+
+We usually use the words 「**Remote access**」、「**Remote user**」、「**Work from home**」, but those are the same meaning in a flexible working style in a larger sense. 
 
 ### Telework _Status Quo_
 
-> **週1日以上、終日在宅で就業する会社員は実際のところ、どのぐらいいるのでしょうか？**
+> **How many office workers who work at home once a week currently in Japan?**
 
-2015年3月に国土交通省にて発表された、平成26年度の[雇用型在宅型テレワーカー数の割合](http://www.mlit.go.jp/report/press/toshi02_hh_000046.html)は3.9%となっています。また、こちらは前年より0.6ポイント減っており、前年対比40万人減の約220万人となっています。
-政府は、2020年までに週1日以上は在宅で働く「雇用型在宅型テレワーカー」を全労働者の10％以上にする目標を掲げていますが、道半ばにして目標達成にはまだ程遠い印象を受けます。
+As you can see in below link (sorry we only provide it in Japanese), the ratio of teleworker who work at home more than once a week is 3.9% according to Ministry of land, Infrastructure and Transport in 2014 fiscal year. It means it decreases 0.6 point and 400,000 people compare with the previous year.<br>  [雇用型在宅型テレワーカー数の割合](http://www.mlit.go.jp/report/press/toshi02_hh_000046.html)
+<br>
+Japanese government aims to increase teleworkers by 10% of the total office workers by 2020. However, it looks like to far to the achivement. 
 
-> **推進しているはずが、減っている。なぜでしょうか?**
+> **Why is is decreasing in spite of government contribution?**
 
-ICTの技術は日々進化しており、技術的視点のみで見ると導入は容易です。実際に、総務省の調べによると社外からのPC・携帯電話等の接続環境も過半数の企業で導入されており、営業担当や、IT担当等モバイルワークを必要とする業務について言えばすでに普及しています。
+ICT is ever-progressing. It's easy to install new technology. As a matter of fact, more than half companies have already used mobile work system from outside of the offices, so that from this point of view we should say it is already in common especially sales reps or IT engineers.  
 
 <figure class="image-container">
 <img class="materialboxed responsive-img" width="550" data-caption="Zoom caption" alt="Alt caption" src="/img/eSolia-Post-Telework-01.png" >
