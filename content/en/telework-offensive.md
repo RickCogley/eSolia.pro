@@ -30,25 +30,24 @@ images:
 
 ## What is "Telework"?
 
-**Telework** is Japanese coined word and it means telecommuting. Ministry of Internal Affairs and Communicatins in Japan defined below.
+**Telework** is what we call telecommuting in Japan. The Ministry of Internal Affairs and Communications in Japan defines it as follows:
 
-
->**Telework** is flexible working style using ICT(Informatin and Communication Technology), free from location or time constraints. <br> 
+>**Telework** is a flexible working style using ICT (Information and Communication Technology), free from location or time constraints. <br>
 Reference: [Efforts to promote telework in Japan](http://www.soumu.go.jp/main_sosiki/joho_tsusin/eng/presentation/pdf/110908_1.pdf)
 
-We usually use the words 「**Remote access**」、「**Remote user**」、「**Work from home**」, but those are the same meaning in a flexible working style in a larger sense. 
+We usually use the words 「**Remote access**」、「**Remote user**」、「**Work from home**」, but those have the same meaning in a flexible working style in a larger sense.
 
 ### Telework _Status Quo_
 
-> **How many office workers who work at home once a week currently in Japan?**
+> **How many office workers work at home once a week currently, in Japan?**
 
-As you can see in below link (sorry we only provide it in Japanese), the ratio of teleworker who work at home more than once a week is 3.9% according to Ministry of land, Infrastructure and Transport in 2014 fiscal year. It means it decreases 0.6 point and 400,000 people compare with the previous year.<br>  [雇用型在宅型テレワーカー数の割合](http://www.mlit.go.jp/report/press/toshi02_hh_000046.html)
+As you can see in below link (available only in Japanese), the percentage of teleworkers who work at home more than once a week is 3.9% in the 2014 fiscal year, according to Ministry of land, Infrastructure and Transport. This is a decrease of 0.6 points or 400,000 people compare with the previous year.<br>  [雇用型在宅型テレワーカー数の割合](http://www.mlit.go.jp/report/press/toshi02_hh_000046.html)
 <br>
-Japanese government aims to increase teleworkers by 10% of the total office workers by 2020. However, it looks like to far to the achivement. 
+The Japan government aims to increase teleworkers by 10% of total office workers by 2020, but this seems overly difficult to achieve.
 
-> **Why is is decreasing in spite of government contribution?**
+> **Why is telework decreasing in spite of government contribution?**
 
-ICT is ever-progressing. It's easy to install new technology. As a matter of fact, more than half companies have already used mobile work system from outside of the offices, so that from this point of view we should say it is already in common especially sales reps or IT engineers.  
+ICT is ever-progressing. It's easy to implement new technology. As a matter of fact, more than half of companies have already implemented a mobile work system from outside of the offices, so from this point of view we should say it is already somewhat common, especially for sales reps or IT engineers.  
 
 <figure class="image-container">
 <img class="materialboxed responsive-img" width="550" data-caption="Zoom caption" alt="Alt caption" src="/img/eSolia-Post-Telework-01.png" >
