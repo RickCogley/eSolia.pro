@@ -30,7 +30,7 @@ images:
 
 ## What is "Telework"?
 
-**テレワークとは**　「tele = 離れた所」と「work = 働く」をあわせた造語、日本語です。[一般社団法人テレワーク協会](http://www.japan-telework.or.jp/intro/tw_about.html "一般社団法人テレワーク協会")では下記のように定義しています。
+**Telework**　Telework is Japanese coined word and it means telecommuting. Japanese government Ministry of Internal Affairs and Communicatins defined that it is (http://www.soumu.go.jp/main_sosiki/joho_tsusin/eng/presentation/pdf/110908_1.pdf "Efforts to promote telework in Japan")
 
 > **テレワーク**とは、情報通信技術(ICT = Information and Communication Technology)を活用した、場所や時間にとらわれない柔軟な働き方のことです。
 
