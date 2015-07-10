@@ -30,15 +30,17 @@ images:
 
 ## What is "Telework"?
 
-**Telework**　Telework is Japanese coined word and it means telecommuting. Japanese government Ministry of Internal Affairs and Communicatins defined that it is (http://www.soumu.go.jp/main_sosiki/joho_tsusin/eng/presentation/pdf/110908_1.pdf "Efforts to promote telework in Japan")
+**Telework** is Japanese coined word and it means telecommuting. Ministry of Internal Affairs and Communicatins in Japan defined below.
 
-> **テレワーク**とは、情報通信技術(ICT = Information and Communication Technology)を活用した、場所や時間にとらわれない柔軟な働き方のことです。
 
-テレワークと同等の用語として外資系企業でよく使用されているのが、「**Remote access**」、「**Remote user**」、「**Work from home**」 と場合によって表現は変わりますが、場所や時間にとらわれないという意味では、日本語で言うテレワークは幅広いリモートアクセス環境をさしているともとれます。
+>**Telework** is flexible working style using ICT(Informatin and Communication Technology), free from location or time constraints. <br> 
+Reference: [Efforts to promote telework in Japan](http://www.soumu.go.jp/main_sosiki/joho_tsusin/eng/presentation/pdf/110908_1.pdf)
+
+We usually use the words 「**Remote access**」、「**Remote user**」、「**Work from home**」, but those are the same meaning in a flexible working style in a larger sense. 
 
 ### Telework _Status Quo_
 
-> **週1日以上、終日在宅で就業する会社員は実際のところ、どのぐらいいるのでしょうか？**
+> **How many office workers who work at home once a week currently in Japan?**
 
 2015年3月に国土交通省にて発表された、平成26年度の[雇用型在宅型テレワーカー数の割合](http://www.mlit.go.jp/report/press/toshi02_hh_000046.html)は3.9%となっています。また、こちらは前年より0.6ポイント減っており、前年対比40万人減の約220万人となっています。
 政府は、2020年までに週1日以上は在宅で働く「雇用型在宅型テレワーカー」を全労働者の10％以上にする目標を掲げていますが、道半ばにして目標達成にはまだ程遠い印象を受けます。
