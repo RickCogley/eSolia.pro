@@ -35,8 +35,10 @@
   </div>
   <div class="footer-copyright">
     <div class="container">
-      &copy;1999-{{ .Now.Year }} {{ ( index $.Site.Data.translations "en-US" ).footerallrightsreserved }}
+      <small>
+      &copy;1999-{{ .Now.Year }} {{ ( index $.Site.Data.translations "en-US" ).footerallrightsreserved }}&nbsp;(<a class="grey-text text-lighten-4" href="http://esolia.com/license">{{ ( index $.Site.Data.translations "en-US" ).genlicensename }}</a>)
       <a class="grey-text text-lighten-4 right" href="/colophon">{{ ( index $.Site.Data.translations "en-US" ).gencolophonname }}</a>
+      </small>
     </div>
   </div>
 </footer>

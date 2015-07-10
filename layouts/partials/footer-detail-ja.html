@@ -28,15 +28,17 @@
         <a href="http://www.linkedin.com/company/esolia-inc" target="_blank"><i class="tiny icon-linkedin white-text"></i></a>
         <a href="http://www.facebook.com/eSolia" target="_blank"><i class="tiny icon-facebook indigo-text text-darken-2"></i></a>
         <a href="https://vimeo.com/channels/esolia" target="_blank"><i class="tiny icon-vimeo lime-text text-accent-3"></i></a>
-        <div id="divRss5" class="esListFooter"></div>  
+        <div id="divRss5" class="esListFooter"></div>
         <div id="divRss3" class="esListFooter"></div>
       </div>
     </div>
   </div>
   <div class="footer-copyright">
     <div class="container">
-      &copy;1999-{{ .Now.Year }} {{ ( index $.Site.Data.translations "ja-JP" ).footerallrightsreserved }}
+      <small>
+      &copy;1999-{{ .Now.Year }} {{ ( index $.Site.Data.translations "ja-JP" ).footerallrightsreserved }}&nbsp;(<a class="grey-text text-lighten-4" href="http://esolia.co.jp/license">{{ ( index $.Site.Data.translations "ja-JP" ).genlicensename }}</a>)
       <a class="grey-text text-lighten-4 right" href="/colophon">{{ ( index $.Site.Data.translations "ja-JP" ).gencolophonname }}</a>
+      </small>
     </div>
   </div>
 </footer>
