@@ -9,9 +9,9 @@
 <meta property="og:url" content="{{ .Permalink }}" />
 <!-- Optional Open Graph Info -->
 <meta property="og:description" content="{{ .Site.Params.description }}" />
-<meta property="og:locale" content="{{ .Site.Params.locale }}" />
+<meta property="og:locale" content="{{ replace .Site.Params.locale "-" "_" }}" />
 {{ with .Site.Params.alternatelocales }}{{ range . }}
-<meta property="og:locale:alternate" content="{{ . }}" />
+<meta property="og:locale:alternate" content="{{ replace . "-" "_" }}" />
 {{ end }}
 {{ end }}
 {{ with $.Site.Data.general.videos }}{{ range . }}<meta property="og:video" content="{{ . }}" />
@@ -28,9 +28,15 @@
 <meta property="og:url" content="{{ .Permalink }}" />
 <!-- Optional Open Graph Info -->
 <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}" />
-<meta property="og:locale" content="{{ if .Params.locale }}{{ .Params.locale }}{{ else }}en_US{{ end }}" />
+
+{{ if eq .Type "ja"}}
+<meta property="og:locale" content="ja_JP" />
+{{ else }}
+<meta property="og:locale" content="en_US" />
+{{ end }}
+
 {{ with .Params.alternatelocales }}{{ range . }}
-<meta property="og:locale:alternate" content="{{ . }}" />
+<meta property="og:locale:alternate" content="{{ replace . "-" "_" }}" />
 {{ end }}
 {{ end }}
 {{ with .Params.audio }}<meta property="og:audio" content="{{ . }}" />{{ end }}
