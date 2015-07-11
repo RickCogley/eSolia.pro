@@ -27,7 +27,7 @@
 {
     "@context" : "http://schema.org",
     "@type" : "BlogPosting",
-    "articleSection" : "{{ if isset .Params "menusection" }}{{ .Params.menusection }}{{ else if ne .Section "" }}{{ .Section }}{{ else }}eSolia{{ end }}",
+    "articleSection" : "English Blog Posts on {{ if isset .Params "articlesection" }}{{ .Params.articlesection }}{{ else }}eSolia.pro{{ end }}",
     "name" : "{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}",
     "headline" : "{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}",
     "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
@@ -57,7 +57,7 @@
 {
     "@context" : "http://schema.org",
     "@type" : "BlogPosting",
-    "articleSection" : "{{ if isset .Params "menusection" }}{{ .Params.menusection }}{{ else if ne .Section "" }}{{ .Section }}{{ else }}eSolia{{ end }}",
+    "articleSection" : "eSolia.proの{{ if isset .Params "articlesection" }}{{ .Params.articlesection }}に関する{{ else }}日本語ポスト{{ end }}",
     "name" : "{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}",
     "headline" : "{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}",
     "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
