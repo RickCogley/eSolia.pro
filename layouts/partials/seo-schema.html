@@ -22,21 +22,55 @@
 </script>
 {{ end }}
 {{ if .IsPage }}
-{{ if eq .Type "post" }}
+{{ if eq .Type "en" }}
 <script type="application/ld+json">
 {
     "@context" : "http://schema.org",
     "@type" : "BlogPosting",
-    "articleSection" : "{{ .Section }}",
+    "articleSection" : "{{ if isset .Params "menusection" }}{{ .Params.menusection }}{{ else if ne .Section "" }}{{ .Section }}{{ else }}eSolia{{ end }}",
     "name" : "{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}",
     "headline" : "{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}",
     "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
     "inLanguage" : "en-US",
-    "license" : "/license",
-    "author" : "{{ .Params.author }}",
-    "creator" : "{{ .Params.author }}",
-    "accountablePerson" : "{{ .Params.author }}",
-    "copyrightHolder" : "{{ .Params.author }}",
+    "license" : "http://esolia.com/license",
+    {{ if isset .Params "authorkey" }}
+    {{ $author := index $.Site.Data.authors .Params.authorkey }}
+    {{ $dispname := ( index $author "en-US" ).display_name }}
+    "author" : "{{ $dispname }} of eSolia Inc.",
+    "creator" : "{{ $dispname }} of eSolia Inc.",
+    {{ end }}
+    "accountablePerson" : "Rick Cogley",
+    "copyrightHolder" : "eSolia Inc.",
+    "copyrightYear" : "{{ .Date.Format "2006" }}",
+    "datePublished": "{{ .PublishDate.Format $.Site.Params.ISO8601 }}",
+    "dateModified" : "{{ .Date.Format $.Site.Params.ISO8601 }}",
+    "url" : "{{ .Permalink }}",
+    "wordCount" : "{{ .WordCount }}",
+    "image" : {{ apply .Params.images "absURL" "." }},
+    "keywords" : [ {{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} ]
+}
+</script>
+
+{{ else if eq .Type "ja" }}
+
+<script type="application/ld+json">
+{
+    "@context" : "http://schema.org",
+    "@type" : "BlogPosting",
+    "articleSection" : "{{ if isset .Params "menusection" }}{{ .Params.menusection }}{{ else if ne .Section "" }}{{ .Section }}{{ else }}eSolia{{ end }}",
+    "name" : "{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}",
+    "headline" : "{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}",
+    "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
+    "inLanguage" : "ja-JP",
+    "license" : "http://esolia.co.jp/license",
+    {{ if isset .Params "authorkey" }}
+    {{ $author := index $.Site.Data.authors .Params.authorkey }}
+    {{ $dispname := ( index $author "ja-JP" ).display_name }}
+    "author" : "イソリアの{{ $dispname }}",
+    "creator" : "イソリアの{{ $dispname }}",
+    {{ end }}
+    "accountablePerson" : "コグレー ジェームズ",
+    "copyrightHolder" : "株式会社イソリア",
     "copyrightYear" : "{{ .Date.Format "2006" }}",
     "datePublished": "{{ .PublishDate.Format $.Site.Params.ISO8601 }}",
     "dateModified" : "{{ .Date.Format $.Site.Params.ISO8601 }}",
