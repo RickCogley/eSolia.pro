@@ -9,7 +9,7 @@ slug: windows-10-release
 subtitle: Distribution to begin on 29 July 2015
 postsummary: On 29th July, 2015, Windows 10 distribution will begin. As has been reported in various media, Microsoft intends to make Windows 10 their "last OS". Future upgrades will likely take the approach of Mac OS X, adding features with free patches.
 alternatelocales:
-  - en-US
+  - ja-JP
 tags:
   - Windows 10
   - 2015
