@@ -1,15 +1,15 @@
 ---
 authorkey: hideakihoriuchi
 author: Hideaki Horiuchi
-date: 2015-07-07T14:46:15+09:00
-publishdate: 2015-07-06T08:46:15+09:00
+date: 2015-07-21T14:00:15+09:00
+publishdate: 2015-07-21T14:00:15+09:00
 description: Windows 10 Release - a blog post on eSolia.pro from eSolia Inc.
-draft: true
+draft: false
 slug: windows-10-release
 subtitle: Distribution to begin on 29 July 2015
 postsummary: On 29th July, 2015, Windows 10 distribution will begin. As has been reported in various media, Microsoft intends to make Windows 10 their "last OS". Future upgrades will likely take the approach of Mac OS X, adding features with free patches.
 alternatelocales:
-  - en-US
+  - ja-JP
 tags:
   - Windows 10
   - 2015
@@ -39,21 +39,21 @@ On 29th July, 2015, Windows 10 distribution will begin. As has been reported in 
 
 The following are a selection of some of the new features in Windows 10.
 
-### Start Menu is back
+### <i class="material-icons small">done</i> Start Menu is back
 
 The Start Menu which had been removed in Windows 8, is making a return. For users were taking the trouble to use 2 different UIs in Windows 8, Windows 10 will operate similar to Windows 7. This is sure to be a popular feature.
 
-### Cortana is ready
+### <i class="material-icons small">done</i> Cortana is ready
 
 Cortana, first implemented in Windows Phone 8, is coming with Windows 10. It is basically the same feature as Siri in an iPhone. Unfortunately, it is still hard to call such features "useful" given the current vocal recognition technology.
 
-### Edge Browser, a new hope
+### <i class="material-icons small">done</i> Edge Browser, a new hope
 
 We are finally getting away from IE! The new default browser, "Edge" (previously known as "Spartan") is coming out, and we'd say the remarkable features are 1) its note-taking, and 2) its text reading mode.
 
 Regarding note-taking, you can annotate a website in the browser, then share this with other users as a file. Regarding text reading mode, you can eliminate all layouts or pictures, to give yourself an uncluttered view of the site.
 
-### Easy share to Smartphone, PC and others
+### <i class="material-icons small">done</i> Easy share to Smartphone, PC and others
 
 Provided Windows 10 can be installed to the device, file sharing will be very easy. This means you can use same files anywhere, anytime. However, we feel the need to mention that vigilance against malware will be needed, since it is increasing lately.
 
@@ -77,4 +77,4 @@ Companies will usually wait for a while after a new release, to plan and wait fo
 
 OS migration in an organization requires a daunting set of activities, and carries with it risk of data loss, a requirement for operational training, and particularly rough scheduling, since users need to be able to work.
 
-For this sort of project, please contact eSolia, since we have solid experience and skill in this and related areas.
+For this sort of project, [please contact eSolia](http://esolia.com/info-request/), since we have solid experience and skill in this and related areas.

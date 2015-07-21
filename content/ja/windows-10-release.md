@@ -1,13 +1,13 @@
 ---
 authorkey: hideakihoriuchi
 author: Hideaki Horiuchi
-date: 2015-07-07T14:46:15+09:00
-publishdate: 2015-07-06T08:46:15+09:00
+date: 2015-07-21T14:00:15+09:00
+publishdate: 2015-07-21T14:00:15+09:00
 description: イソリアから、eSolia.proのブログポスト、Windows 10 リリース
-draft: true
+draft: false
 slug: windows-10-release
 subtitle: 2015年7月29日に<wbr><nobr>ついに配布が開始される</nobr>
-postsummary: 7月29日についにWindows 10の配布が開始される。既に多くのメディアで紹介されている通り、MicrosoftはWindows 10を最後のOSとすると発表している。今後はMacOSなどと同じように、無料でのパッチという形で更新されると思われる。
+postsummary: 2015年7月29日についにWindows 10の配布が開始される。既に多くのメディアで紹介されている通り、MicrosoftはWindows 10を最後のOSとすると発表している。今後はMacOSなどと同じように、無料でのパッチという形で更新されると思われる。
 alternatelocales:
   - en-US
 tags:
@@ -34,7 +34,7 @@ images:
 <img class="materialboxed right responsive-img z-depth-1" width="200" data-caption="Windows 10 Logo" alt="Logo for Windows 10" src="/img/eSolia-Post-Windows-10_orange.jpg" >
 </figure>
 
-7月29日についにWindows 10の配布が開始される。　　
+2015年7月29日についにWindows 10の配布が開始される。　　
 
 既に多くのメディアで紹介されている通り、MicrosoftはWindows 10を最後のOSとすると発表している。
 
@@ -44,18 +44,18 @@ images:
 
 Windows 10には様々な新機能が搭載されるが、いくつかの機能を紹介してみよう。
 
-### スタート機能の復活
+### <i class="material-icons small">done</i> スタート機能の復活
 
 Windows 8で消えてしまったスタートメニューが10で復活する。
 これにより8でわざわざ二つのUIを使い分けいていた人も、7の頃のように階層メニュー化されたUIで操作することができる。
 これを求めていた人はきっと少なくはないだろう。
 
-### コルタナの実装
+### <i class="material-icons small">done</i> コルタナの実装
 
 Windows Phone8で既に搭載されている、いわばiPhoneのSiriと同じ機能だ。
 音声認識によって操作を簡略することが可能になるそうだが、現在の技術レベルを見る限りそこまで期待できるものではないのかもしれない。
 
-### 新ブラウザ、Edgeの実装
+### <i class="material-icons small">done</i> 新ブラウザ、Edgeの実装
 
 従来のIEに代わる新ブラウザが実装される。
 注目する機能としては、メモ書き機能と読書モードだろうか。
@@ -63,7 +63,7 @@ Windows Phone8で既に搭載されている、いわばiPhoneのSiriと同じ�
 メモ書き機能は表示したWebページにペンやマーカーで直接書き込みができるようになり、ファイルとして共有できるようになる。
 また、読書モードでは余分なレイアウトを排除した簡易テキストモードで表示することができるようになる。
 
-### スマートフォン、PC等の共有
+### <i class="material-icons small">done</i> スマートフォン、PC等の共有
 
 Windows 10が乗る端末同士での共有がとても簡単になる。
 これにより、どこ端末でも同じドキュメントや情報を見る事ができるようになる。
@@ -102,4 +102,5 @@ MEの後のXP、Vistaの後の7といったように。
 
 OSマイグレーションはいつも多大な労力が伴う。データの紛失や操作トレーニング、なによりスケジューリングが大事だ。
 こういった場合はOSマイグレーションの経験が豊富な会社のサービスを利用するのがいいだろう。
-そう、イソリアのアウトソーシングのようなね。
+
+そう、イソリアのアウトソーシングのようなね。ぜひ[お問い合わせください](http://esolia.co.jp/info-request/)。

@@ -9,7 +9,7 @@ slug: 16th-anniversary-and-new-website
 subtitle: It's been a sweet 16
 postsummary: Join eSolia in celebrating our 16th anniversary on 7th July 2015, and the launch of our new website.
 alternatelocales:
-  - en-US
+  - ja-JP
 tags:
   - 16th Anniversary
 title: Our 16th Anniversary and New Website
