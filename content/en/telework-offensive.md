@@ -33,9 +33,9 @@ images:
 **Telework** is what we call telecommuting in Japan. The Ministry of Internal Affairs and Communications in Japan defines it as follows:
 
 >**Telework** is a flexible working style using ICT (Information and Communication Technology), free from location or time constraints. <br>
-Reference: [Efforts to promote telework in Japan](http://www.soumu.go.jp/main_sosiki/joho_tsusin/eng/presentation/pdf/110908_1.pdf)
+_Reference_: [Efforts to promote telework in Japan](http://www.soumu.go.jp/main_sosiki/joho_tsusin/eng/presentation/pdf/110908_1.pdf)
 
-We usually use the words 「**Remote access**」、「**Remote user**」、「**Work from home**」, but those have the same meaning in a flexible working style in a larger sense.
+We usually use the words **remote access**, **remote user**, **work from home**, but those have the same meaning from the perspective of a flexible working style in the larger sense.
 
 ### Telework _Status Quo_
 
@@ -47,24 +47,25 @@ The Japan government aims to increase teleworkers by 10% of total office workers
 
 > **Why is telework decreasing in spite of government contribution?**
 
-ICT is ever-progressing. It's easy to implement new technology. As a matter of fact, more than half of companies have already implemented a mobile work system from outside of the offices, so from this point of view we should say it is already somewhat common, especially for sales reps or IT engineers.  
+ICT is ever-progressing. It's easy to implement new technology. As a matter of fact, more than half of companies have already implemented a system to allow mobile work from outside of the offices, so from this point of view we should say it is already somewhat common, especially for sales reps or IT engineers.  
 
 <figure class="image-container">
 <img class="materialboxed responsive-img" width="550" data-caption="Zoom caption" alt="Alt caption" src="/img/eSolia-Post-Telework-01.png" >
 <figcaption><em>総務省「特集 <a href="http://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h26/html/nc141220.html">ICTがもたらす世界規模でのパラダイムシフト</a>」より</em> <br>社外からの企業通信網への接続環境</figcaption>
 </figure>
 <br>
-In short, it is not a technical problem that the employed teleworkers are not here to stay.
+
+In short, it is not a technical problem that teleworker employment is not really catching on.
 
 ### Telework success via a paradigm shift
 
-When I got pregnant at 11 years ago  and at 6 years ago, I actually used telework. We didn't have the telework system in our company, but thanks to my understanding boss I was able to work at home without any interference with business. In fact,  it is more efficient and productive for a company to work at home while suffering with terrible morning sickness or big tummy for 2 hours round-trip on the clouded train in some cases.
+Allow me to share a personal experience: When I was pregnant 11 and 6 years ago, I actually used telework. We didn't have a formal telework system in our company, but thanks to my understanding boss, I was able to work at home without interference to our business. In fact, I thought it was more efficient and productive for a company to allow work at home, especially in the case of suffering with terrible morning sickness or big tummy for the 2-hour round-trip on a crowded train.
 
-However, it is just an example for using telework during women pregnancy or maternity leave. 
+However, that is just an example for using telework during pregnancy or maternity leave, but there are other cases. For example, it is more efficient to work at home when you need to concentrate on creating reports or presentation documents in some cases. In order to get familiar with telework, it is indispensable for companies to gain more understand of the advantages of telework.
 
-For example, it is more efficient to work at home when you concentrate on creating reports or presentation documents in some cases. In order to familiarize telework, it is indispensable for company to get more understand for the advantage of telework. Not just a Welfare, Productive = In order to implement  "Offensive telework", it is essential to maintain working environment which provide the same level of an in-house working environment with using various latest ICT tool.
+It's not just a social welfare, or a "telework offensive" with productivity as a goal, but rather simply a matter of using the latest various ICT tools to provide the same working environment at home, as one has in the office.
 
-The reason why telework hasn't prevailed yet is there is the paradigm that the telework isn't productive and it is only for a welfare.  Telework will lead your business more productive.  So, the secret of success is Paradigm shift.
+The reason why telework hasn't prevailed yet is there is still the paradigm that the telework isn't productive, and it is only for social welfare. Telework will let your business be more productive, so, the secret of success is a paradigm shift.
 
 生産性というポイントに焦点を当てても、下記のようなメリットが考えられます。
 
