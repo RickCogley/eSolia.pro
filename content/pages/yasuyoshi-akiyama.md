@@ -23,14 +23,11 @@ aliases:
 
 ## About Yasuyoshi Akiyama
 
-Spent high school youth time in Massachusetts, Yasuyoshi has taken a bachelor’s degree of Computer Engineering in Boston.
-He was desperate to have some experience working in Asia Pacific region and decided to move on to Electric parts industry in China and Taiwan as International sales and tech staff after he quits advertising company in Japan. He finally found a company in Tokyo where he can make the best of all the global and IT experience.
+Having spent his high school youth years in Massachusetts, Yasuyoshi went on to get a bachelor’s degree in Computer Engineering in Boston. He was eager to get some experience working in the Asia Pacific region, and decided to get into the Electric parts industry in China and Taiwan, as an International sales and tech staff after leaving an advertising company in Japan. He finally found a company in Tokyo where he can make the best of all his global and IT experience.
 
-Expertise in IT systems but he consider that communication and relation to users are the most significant 
-His philosophy is to put same weight on system as well as user themselves.
+He has expertise in IT systems, but he considers communication with, and relation to users to be the most significant. His philosophy is to put the same weight on systems as well as users themselves.
 
-Likes to read, photograph and natural science.
-He is a geek type of person that keeps seeking both sense of wonder and new technologies. 
+He likes to read, photograph and learn about natural science. He is a 'geek' type of person who keeps seeking both a sense of wonder and new technologies. 
 
 ## 秋山泰慶について
 
