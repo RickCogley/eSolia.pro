@@ -54,19 +54,17 @@ ICT is ever-progressing. It's easy to implement new technology. As a matter of f
 <figcaption><em>総務省「特集 <a href="http://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h26/html/nc141220.html">ICTがもたらす世界規模でのパラダイムシフト</a>」より</em> <br>社外からの企業通信網への接続環境</figcaption>
 </figure>
 <br>
-要するに、雇用型在宅型テレワーカーが定着しないのは技術的な問題だけではないと言えます。
+In short, it is not a technical problem that the employed teleworkers are not here to stay.
 
 ### Telework success via a paradigm shift
 
-私事で恐縮ですが、11年前に長男を妊娠した際、6年前に次男を妊娠した際と2回の妊娠中にテレワークを利用しました。
-その時点で弊社にテレワークという制度があった訳でありませんが、幸い、理解のある上司に恵まれ、業務に支障のない範囲でテレワークを実施できました。実際に大きいお腹を抱えたり、つわりで苦しみながら無理して往復2時間の通勤を要するのであれば、その時間は在宅で効率よく業務をこなし、会社の為に生産性を挙げるほうが効率的な場合もあります。
+When I got pregnant at 11 years ago  and at 6 years ago, I actually used telework. We didn't have the telework system in our company, but thanks to my understanding boss I was able to work at home without any interference with business. In fact,  it is more efficient and productive for a company to work at home while suffering with terrible morning sickness or big tummy for 2 hours round-trip on the clouded train in some cases.
 
-しかし、女性の妊娠・育児休暇中等のテレワークはあくまで一例に過ぎません。
+However, it is just an example for using telework during women pregnancy or maternity leave. 
 
-例えば、終日オフィスに篭って報告書やプレゼン資料等を製作するのであれば、在宅で集中作業を行ったほうが効率的な場合もあります。
-テレワークを浸透させるには、まず企業がその利点を理解することにあります。福利厚生ではない、生産性を挙げる＝「攻めのテレワーク」を実現する為にはあらゆるITツールを駆使し、在宅でも社内と変わらない業務品質を保つ必要があるでしょう。
+For example, it is more efficient to work at home when you concentrate on creating reports or presentation documents in some cases. In order to familiarize telework, it is indispensable for company to get more understand for the advantage of telework. Not just a Welfare, Productive = In order to implement  "Offensive telework", it is essential to maintain working environment which provide the same level of an in-house working environment with using various latest ICT tool.
 
-テレワークが浸透しないのは、どうしても福利厚生のイメージが強く「生産性を上げる」という利点が理解されにくいようです。テレワークを成功に導く為には、「テレワーク＝生産性向上」とパラダイムの変換が必要です。
+The reason why telework hasn't prevailed yet is there is the paradigm that the telework isn't productive and it is only for a welfare.  Telework will lead your business more productive.  So, the secret of success is Paradigm shift.
 
 生産性というポイントに焦点を当てても、下記のようなメリットが考えられます。
 
