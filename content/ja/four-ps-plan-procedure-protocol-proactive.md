@@ -1,9 +1,10 @@
 ---
-author: 中田よりひさ
-date: 2015-06-29T00:05:19.000Z
-publishdate: 2015-06-29T00:05:19.000Z
+author: eSolia
+authorkey: esolia
+date: 2015-07-04T08:45:15+09:00
+publishdate: 2015-07-04T08:45:15+09:00
 description: イソリアから、eSolia.proのブログポスト、備えあれば憂いなし
-draft: false
+draft: true
 slug: four-ps-plan-procedure-protocol-proactive
 subtitle: 備えあれば憂いなし
 postsummary: 最近大きな地震が立て続けに起きており、久々に鳴った緊急地震速報のアラームに肝を冷やした方も多いのでは無いでしょうか。未曾有の自然災害を齎した東日本大震災以降、地震国日本に住む人々の非常時の安全意識は高まっており、オフィスでの避難訓練、BCP対策等が計画されている昨今ではあるが、予想もしない出来事は地震に限ったことではない。
@@ -16,6 +17,8 @@ tags:
 title: ４つのP
 topics:
   - プラニング
+authors:
+  - Yorihisa Nakada
 images:
 - /img/eSolia-Chicklet-Color-1024px.png
 ---

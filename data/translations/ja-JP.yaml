@@ -35,6 +35,7 @@ genfeature2url: /sip-print
 gengalleryname: ギャラリー
 genhomename: ホーム
 gencolophonname: 奥付
+genlicensename: ライセンス
 genlatestfeature: 最新おすすめ
 genlatestposts: 最新プロ ブログ
 genmoreinfo: つづきを読む
@@ -64,10 +65,14 @@ taxotopicalltopics: 閲覧する。
 taxoseriesbrowse: シリーズ付きコンテンツの一覧
 taxoseriesorbrowse: ...又は全シーリズを
 taxoseriesallseries: 閲覧する。
+taxoauthorsbrowse: 作者コンテンツの一覧
+taxoauthorsorbrowse: ...又は全シーリズを
+taxoauthorsallauthors: 閲覧する。
 topics: トピック
 tags: タグ
 series: シリーズ
 labels: ラベル
+authors: 作者
 topsectionbsf: 強固な基盤を構築いたします
 topsectioncus: お問い合わせ
 topsectionwhy: なぜイソリアか？

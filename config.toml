@@ -20,6 +20,7 @@ languageCode = "en-US"
     tag = "tags"
     topic = "topics"
     series = "series"
+    author = "authors"
 
 [blackfriday]
     plainIdAnchors = true
@@ -36,7 +37,7 @@ languageCode = "en-US"
     defaultDescription = "Content by eSolia Inc."
     defaultKeywords = "eSolia"
     ISO8601 = "2006-01-02T15:04:05JST"
-    googleAnalytics = "UA-1040233-7"
+    googleAnalytics = "UA-57401935-2"
 
 [[menu.sideen]]
     name = "eSolia Inc"
@@ -96,6 +97,13 @@ languageCode = "en-US"
     url = "/tags"
     parent = "topics"
     weight = 2
+
+[[menu.sideen]]
+    name = "All Authors"
+    identifier = "allauthors"
+    url = "/authors"
+    parent = "topics"
+    weight = 3
 
 [[menu.sideen]]
     name = "Tools"

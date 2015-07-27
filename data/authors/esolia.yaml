@@ -1,0 +1,31 @@
+en-US:
+  given_name: eSolia
+  family_name: Inc
+  display_name: eSolia
+  short_bio: ⚀ Helping people in Japan since 1987! 日本語もOK ⚁ CEO + Founder, @eSolia_Inc ⚂ I love to create, manage, negotiate, photograph, drum, run, cycle & curate the odd.
+  long_bio: asdfasfdasdfasdfasdfasdfasdfasdfasdfasdf
+  bio_url: http://esolia.com/about
+ja-JP:
+  given_name: イソリア
+  family_name: イソリア
+  display_name: イソリア
+  short_bio: asdfasdfasdfasdfasdf
+  long_bio: asdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdf
+  bio_url: http://esolia.co.jp/about
+common:
+  personal_email: info@esolia.co.jp
+  work_email: info@esolia.co.jp
+  main_img: /img/eSolia-Chicklet-Color-1024px.png
+  thumbnail: /img/eSolia-Chicklet-Color-1024px.png
+  images:
+    - /img/eSolia-Chicklet-Color-1024px.png
+    - /img/eSolia-Logo-Flat-2015.png
+social:
+  website: http://esolia.com
+  blog_rss: http://esolia.pro/index.xml
+  about_page: http://esolia.com/about
+  twitter: http://www.twitter.com/eSolia_Inc
+  google_plus: https://plus.google.com/+Esolia?rel=author
+  facebook: http://www.facebook.com/eSolia
+  linkedin: http://www.linkedin.com/company/esolia-inc
+  vimeo: https://vimeo.com/channels/esolia

@@ -14,7 +14,14 @@
 
             {{ if not .Params.hideheaderblock }}
             <div class="card-panel grey lighten-4">
-            {{ if not .Params.hidedate }}<span class="post-date grey-text"><i class="tiny material-icons">today</i>&nbsp;{{ .Date.Format "2-Jan-2006" }}</span>{{ end }}{{ if not .Params.hideauthor }}&nbsp;<span class="post-date grey-text"><i class="tiny material-icons">perm_identity</i>&nbsp;{{ .Params.author }}</span>{{ end }}
+            {{ if not .Params.hidedate }}<span class="post-date grey-text"><i class="tiny material-icons">today</i>&nbsp;{{ .Date.Format "2-Jan-2006" }}</span>{{ end }}{{ if not .Params.hideauthor }}&nbsp;<span class="post-date grey-text"><i class="tiny material-icons">perm_identity</i>&nbsp;
+              {{ if isset .Params "authorkey" }}
+                {{ $author := index $.Site.Data.authors .Params.authorkey }}
+                {{ $dispname := ( index $author "en-US" ).display_name }}
+                {{ $biourl := ( index $author "en-US" ).bio_url }}
+                <a href="{{ $biourl }}" target="_blank">{{ $dispname }}</a>
+              {{ end }}
+              </span>{{ end }}
             {{ $Site := .Site }}
             {{ if .Params.topics }}
                 <div class="post-topics grey-text"><i class="tiny material-icons">label_outline</i>&nbsp;
@@ -23,12 +30,16 @@
                 {{ end }}
                 </div>
             {{ end }}
+
             </div>
             {{ end }}
 
             {{ .Content }}
             {{if isset .Params "showtopics" }}
               {{ partial "detailpage-topics.html" . }}
+            {{ end }}
+            {{ if not .Params.hidecomments }}
+              {{ partial "discourse.html" . }}
             {{ end }}
             {{if isset .Params "gallery_id" }}
               {{ partial "gallery.html" . }}
