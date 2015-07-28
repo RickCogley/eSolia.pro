@@ -8,7 +8,7 @@ draft: true
 slug: why-did-esolia-choose-hugo
 title: 何故Hugoを選択したのか?
 subtitle: パフォーマンスを重視した静的サイトジェネレータ
-postsummary: eSolia has used various systems to generate and publish our websites over the years, but recently settled on and re-built our sites using the static site generator "Hugo". Hugo is not only easy to use, and fast when building our sites, but also is available as a single, easy-to-install binary file for Mac, Linux and Windows.
+postsummary: 社歴を渡って、イソリアが様々なシステムを利用してウェブサイトの作製と公開を使ってきたが、最近に全サイト再構築プロジェクトを静的サイトゲネレーターHugoで、行うことに決定した。ヒューゴは使いやすく、早いでけでなく、Mac、Windows、Linuxに簡単にインストールと管理が可能。
 alternatelocales:
   - en-US
 tags:
@@ -31,15 +31,15 @@ images:
 
 ## 歴史・バックグランド
 
-eSolia has used various systems to generate and publish our websites over the years. We've used several standalone website "builder" apps that you run on a local PC or Mac, such as Microsoft's FrontPage, IBM Home Page Builder, Macromedia DreamWeaver and Realmac RapidWeaver. And we've used a couple of server-side CMS systems as well: WordPress, Drupal, Typo3.
+イソリアは様々なシステムを利用して、当社ウェビサイトを作製して出版してきました。例えば、Microsoftフォロントページ、IBMホームページビルダー、マクロメディア ドリームウィーバーやRealMacラピッドウィーバーなど、PCやマックのローカルハードディスクにインストールする幾つかの「ビルダー」タイプのアプリで。又、WordPress、Drupal、Typo3などサーバ側にインストールするCMSタイプのシステムも利用したことある。
 
-However, when a site does not _need_ to be driven by a database, then a class of site known as a "static" site should be more than sufficient. Static websites are comprised simply of html, css, javascript and multi-media files. Many developers author these sites manually, and copy them up to a web server via FTP or SSH for serving.
+しかし、データベースを元にしなくて良いサイトがあれば、「静的」サイトゲネレーターで十分なはず。静的ウェブサイトは、HTML、CSS、Javascript ファイルで構成される物です。サイト開発する人はよく静的サイトを手動で作製して、FTPやSSHでウェブサーバにアップして公開する物です。
 
 ## 静的サイトジェネレータのベネフィット
 
-eSolia has many web pages, but, none of them really _require_ us to use a CMS. If a site has no need for transactions in a database to be driving the content visitors see in a dynamic manner, then why add the overhead of a CMS? We decided to put weight on the superior security and performance of a static site.
+イソリアはいろんなウェブページを管理してますが、弊社の場合、特にCMSを必要としていません。データベースの書き込み・読み込みからサイトのページを自動的に発行する必要が特になければ、CMSを利用するオーバーヘッド勿体無い。我々は、セキュリティとパーフォマンスが充実した静的サイトに決定しました。
 
-A simple comparison between static sites and CMSs is as follows:
+簡単ですが、動的CMSでホストされているものと静的Webサイトに関して考慮されるべき事項を次の表に示します。
 
 _項目_  |静的    | 動的CMS
 ----------|----------|------
@@ -54,11 +54,11 @@ _アップグレード_    |任意   |継続的かつ脆弱
 
 ## 一般静的サイトジェネレータの難しいところ
 
-These days, open source "static site generators" (SSGs) are all the rage, and use some kind of application you install on your Mac or PC to weave together html template files, content files usually written in markdown, css files for style, javascript scripts for UI tricks, and your media files like photos and videos. The problem with SSGs is that you have to install some programming language like Perl, Ruby or Python on your system, to get them working.
+近頃オーペンソース流行の「静的サイトゲネレーター」(SSG)の何らかのアプリをマックやPCにインストールして、HTMLテンプレート、CSS、Javascript、メディア ファイルと、マークダウン形式コンテンツを合体させて、サイトを構成するだけです。SSGの難しいところは、使うのにPerl、RubyやPythonのようなプログラミング言語の環境が必要となります。
 
-Most SSGs therefore come with the overhead of maintaining a development environment for a required programming language, and all its myriad dependencies. What that really means is the environment has to be _kept_ updated, and that trouble will likely occur when you upgrade or patch the OS. Sometimes, this can get really difficult and irritating. Your site then cannot be updated until you get everything installed just right.
+従ってSSGは、必要な開発環境とその環境に必要なサポートプログラムを管理し続けるオーバーヘッドも負担しなければならない。面倒なことにOSをパッチするだけで環境が壊れる可能性も、多いにある。つまり、OSも開発環境のアプグレードを万膳に完了させないといけなければ、サイトのコンテンツ更新が不可能。
 
-Another problem with SSGs is build performance. It may take a fair amount of time to generate the site, because SSGs generally have to iterate through all your files and build each page, every time you update.
+もう一つの問題は、サイトの構成時間です。SSGは一つ一つファイルを見て、再構成しなければならないため、時間が必要です。
 
 ## そしてHugoの登場
 
@@ -66,23 +66,26 @@ Another problem with SSGs is build performance. It may take a fair amount of tim
 <img class="materialboxed right responsive-img" width="300" data-caption="Hugo Logo" alt="Hugo Logo" src="/img/hugo-logo.png" >
 </figure>
 
-We did a lot of searching for an SSG which would be easy to use, and fast when building the site. [Hugo](http://gohugo.io), written in the modern "Go" language, fits that requirement perfectly. It is not only available as a single, easy-to-install binary file for Mac, Linux and Windows, it was built by [Steve Francia](http://spf13.com) ([@spf13](https://github.com/spf13)) and [contributors](https://github.com/spf13/hugo/graphs/contributors) to be insanely great in terms of speed and performance.
+イソリアはとにかく、「簡単に使える」、「面倒な開発環境不要」、「サイトビルドが早い」と言う条件を満たすSSGをじっくり探しました。その条件にぴったり合う、モダンなGo言語で開発された[Hugo](http://gohugo.io)と言う優れた静的サイトジェネレーターを発見し、選定しました。
 
-As a result, most Hugo sites build in milliseconds; in fact it usually takes longer to sync them to your web host (via rsync or ftp) than it does to generate the site files!
+インストールが簡単なWindows、Mac、Linux向けのアプリになっているだけでなく、Hugoクリエーターの[スティーブ フランキア 氏](http://spf13.com) ([@spf13](https://github.com/spf13)) とヒューゴの作成に携わり沢山の苦労の形にしてくれた[関係者の皆様](https://github.com/spf13/hugo/graphs/contributors)が、極力早くサイト作製を可能にしたのである。
 
-Hugo is distributed as a single executable binary file, which you can easily install on Windows, Mac or Linux. There _are_ no dependencies, since it's just the one file, that contains everything you need.
+結果的に、Hugoサイトはミリセカンド単位でファイルから作製される。ファイル作製の時間よりも、出来上がったファイルをウェブサーバーにアップロードする時間がとても長い！
+
+それに、Hugoは一つだけのファイルで配布されていますので、アップグレードは問題ありません。その一つのファイルに、必要な物全てが含まれている。
 
 ## Hugoを使うには
 
-To use Hugo, a web designer builds html "template" files that reference css and javascript, as well as various variables that Hugo understands (like the title, description or keyboards of the page). Content files are written in [Markdown](http://daringfireball.net/projects/markdown/) text format. The designer then simply runs Hugo to merge folders of content text files, into the HTML templates, CSS and Javascript files. The result, in a few milliseconds, is a fully-built website folder that can be transferred to a web host.
+Hugoを使うにはウェブデザイナーが、cssとjavascriptやHugoが特別に理解できるコード(ページのタイトル、キーワードなど)を参照するhtmlの「テンプレート」ファイルを作製する。
+コンテンツは、[マークダウン](http://daringfireball.net/projects/markdown/)形式のテキストファイルで作る。サイトをゲネレーションするには、Hugoを実行することによって数ミリセカンド後、Hugoがコンテンツとテンプレートをマージさせて、ファイルがサイトフォルダーに出力されて、出来上がり。最後にそのフォルダーをウェブサーバに転送させて、完了。
 
 <figure class="image-container">
-<img class="materialboxed responsive-img" width="500" data-caption="Hugo High-level flow" alt="Diagram showing high level flow for Hugo static site generator" src="/img/eSolia-Post-Hugo-Flow-ja.png" >
-<figcaption><em>Hugo High-level Flow</em></figcaption>
+<img class="materialboxed responsive-img" width="500" data-caption="Hugoフロー図" alt="Hugoと言う静的コンテンツゲネレーションの、ワークフロー図。" src="/img/eSolia-Post-Hugo-Flow-ja.png" >
+<figcaption><em>Hugoのフロー図</em></figcaption>
 </figure>
 
 ## イソリアはどこでHugoを使っているか
 
-When we tested various SSGs, we liked Hugo's ease-of-use and excellent performance so much that we decided to re-build a few of our sites using it. So far we have built our main [English](http://esolia.com) and [Japanese](http://esolia.co.jp) sites, as well as the site your are looking at, our [eSolia.pro](http://esolia.pro) blog site.
+SSGをテストをした時、Hugoの簡単さとパーフォーマンスに驚き、弊社の全サイトに再構築に決定した。現在まで、[英語](http://esolia.com) と [日本語](http://esolia.co.jp) のサイトと、当サイト[eSolia.pro](http://esolia.pro) ブログも含む。
 
-As of July 2015, Hugo's open source [community](http://discuss.gohugo.io/latest) is vibrant, [development](https://github.com/spf13/hugo) is actively proceeding, and we'd love to welcome new users to the fold. Please join in!
+2015年現在、Hugoのオーペンソース [コミュニティー](http://discuss.gohugo.io/latest) がとても良い感じで、[開発](https://github.com/spf13/hugo) もアクティブに進んでいる。是非ご参考ください。
