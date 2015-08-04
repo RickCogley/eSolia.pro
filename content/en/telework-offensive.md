@@ -101,7 +101,7 @@ And, there are subsidy systems as below for small and medium-sized companies in 
 - Ministry of Health, Labor and Welfare, 「["Telework course subsidy system"] (http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/jikan/syokubaisikitelework.html)」)
 - The Tokyo Metropolitan Government Bureau「["Work life balance propellant subsidy system"](http://www.hataraku.metro.tokyo.jp/equal/ryoritu/josei/)」
 
-eSolia can help you to implement Telework, consulting and actual installation. Please do not hesitate to contacting us. [お問い合わせ](http://esolia.co.jp/info-request)ください。
+eSolia can help you to implement Telework, consulting and actual installation. Please do not hesitate to contacting us. [Contact](http://esolia.co.jp/info-request)
 
 * [eSolia Cloud Database "PROdb"](http://esolia.com/prodb/)
 * [Efficient Business via IP Telephone, Cloud Phone Service](http://esolia.com/telephone/)
