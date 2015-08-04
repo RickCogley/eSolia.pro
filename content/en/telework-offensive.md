@@ -67,18 +67,18 @@ It's not just a social welfare, or a "telework offensive" with productivity as a
 
 The reason why telework hasn't prevailed yet is there is still the paradigm that the telework isn't productive, and it is only for social welfare. Telework will let your business be more productive, so, the secret of success is a paradigm shift.
 
-生産性というポイントに焦点を当てても、下記のようなメリットが考えられます。
+Focusing on productive, there are below advantages for telework. 
 
-* 勤務形式にとらわれない優秀な人材の確保
-* 営業効率の向上による業務のスピードアップ
-* 通勤、移動時間短縮によるコスト削減
-* 非常災害時の事業継続(BCPの一環)
+* Retain superior human resources in various working styles
+* Operational efficiency will make businesses speed up 
+* Cost reduction with shorten commutes
+* As the part of business continuity planning
 
-このように、テレワークの利点を改めて認識し、そこで初めて目的を持って戦略的にテレワークを導入できるようになるのではないでしょうか？
+As seen above, Telework would be finally able to implement once those benefits are recognized with having sense of purposes.
 
 ## ICT Tool deployment and usage
 
-> **テレワークの形態は様々ですが、下記のようなICTツールがあると便利でしょう。**
+> **There are various Telework styles, but it will be useful having below ICT tools.**
 
 **_Necessary Systems_**
 
@@ -89,20 +89,19 @@ The reason why telework hasn't prevailed yet is there is still the paradigm that
 
 - Cloud time-tracking system
 - VPN and remote access
-- 社内インスタントメッセージシステム　
-- ビデオ会議 or ビデオチャットシステム
-- クラウド電話システム
-- プリンター
+- Internal Instant message system
+- Video conference or Video chat system　
+- Cloud Phone system
+- Printer
 
-まず、どのようにテレワークを実施するか、企業内で話し合いの場を設け、**「攻め」**のテレワークを実現することで、結果的に生産性、職場満足度の向上、しいては優秀な人材の確保に繋がっていく事でしょう。
+First, you need to discuss how to implement Telework internally. Once **"Offensive telework"** becomes reality, it will lead result in increased productivity, improving employee satisfaction and retain superior human resources.
 
-また、テレワーク推進の為、中小企業を対象に下記のような助成金制度もあります。
-上手に活用する事で経営に役立てることができるのではないでしょうか。
+And, there are subsidy systems as below for small and medium-sized companies in order to go ahead with Telework.  It will help your business with making effective use of those subsidy system.
 
-- 厚生労働省　「[職場意識改善助成金](http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/jikan/syokubaisikitelework.html)」(テレワークコース)
-- 東京都　「[ワークライフバランス推進助成金](http://www.hataraku.metro.tokyo.jp/equal/ryoritu/josei/)」
+- Ministry of Health, Labor and Welfare, ["Telework course subsidy system"] (http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/jikan/syokubaisikitelework.html)」(テレワークコース)
+- The Tokyo Metropolitan Government Bureau「["Work life balance propellant subsidy system"](http://www.hataraku.metro.tokyo.jp/equal/ryoritu/josei/)」
 
-弊社ではテレワーク導入のコンサルティングや実際の導入までお手伝い可能です。お気軽に[お問い合わせ](http://esolia.co.jp/info-request)ください。
+eSolia can help you to implement Telework, consulting and actual installation. Please do not hesitate to contacting us. [お問い合わせ](http://esolia.co.jp/info-request)ください。
 
 * [eSolia Cloud Database "PROdb"](http://esolia.com/prodb/)
 * [Efficient Business via IP Telephone, Cloud Phone Service](http://esolia.com/telephone/)
