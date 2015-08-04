@@ -98,7 +98,7 @@ First, you need to discuss how to implement Telework internally. Once **"Offensi
 
 And, there are subsidy systems as below for small and medium-sized companies in order to go ahead with Telework.  It will help your business with making effective use of those subsidy system.
 
-- Ministry of Health, Labor and Welfare, ["Telework course subsidy system"] (http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/jikan/syokubaisikitelework.html)」(テレワークコース)
+- Ministry of Health, Labor and Welfare, 「["Telework course subsidy system"] (http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/jikan/syokubaisikitelework.html)」)
 - The Tokyo Metropolitan Government Bureau「["Work life balance propellant subsidy system"](http://www.hataraku.metro.tokyo.jp/equal/ryoritu/josei/)」
 
 eSolia can help you to implement Telework, consulting and actual installation. Please do not hesitate to contacting us. [お問い合わせ](http://esolia.co.jp/info-request)ください。
