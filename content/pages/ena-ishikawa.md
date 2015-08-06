@@ -12,6 +12,8 @@ alternatelocales:
   - ja-JP
 tags:
   - teamITMS
+  - bio
+  - プロフィール
 topics:
   - Authors
 images:

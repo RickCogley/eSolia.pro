@@ -12,6 +12,8 @@ alternatelocales:
   - ja-JP
 tags:
   - COO
+  - bio
+  - プロフィール
 topics:
   - Authors
 images:

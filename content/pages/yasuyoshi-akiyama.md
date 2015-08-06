@@ -12,6 +12,8 @@ alternatelocales:
   - ja-JP
 tags:
   - teamITMS
+  - bio
+  - プロフィール
 topics:
   - Authors
 images:
@@ -27,7 +29,7 @@ Having spent his high school youth years in Massachusetts, Yasuyoshi went on to 
 
 He has expertise in IT systems, but he considers communication with, and relation to users to be the most significant. His philosophy is to put the same weight on systems as well as users themselves.
 
-He likes to read, photograph and learn about natural science. He is a 'geek' type of person who keeps seeking both a sense of wonder and new technologies. 
+He likes to read, photograph and learn about natural science. He is a 'geek' type of person who keeps seeking both a sense of wonder and new technologies.
 
 ## 秋山泰慶について
 
