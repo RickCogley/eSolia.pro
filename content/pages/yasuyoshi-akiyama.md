@@ -1,5 +1,5 @@
 ---
-date: 2015-05-09T00:05:19.000Z
+date: 2015-07-27T00:05:19.000Z
 publishdate: 2012-01-10T00:05:19.000Z
 description: eSolia Yasuyoshi Akiyama Author Page
 draft: false
