@@ -1,8 +1,8 @@
 ---
 authorkey: enaishikawa
 author: Ena Ishikawa
-date: 2015-07-07T14:46:15+09:00
-publishdate: 2015-07-06T08:46:15+09:00
+date: 2015-08-07T12:58:15+09:00
+publishdate: 2015-08-07T12:58:15+09:00
 description: 福利厚生だけじゃない、「攻めのテレワーク」実現に向けて
 draft: false
 slug: telework-offensive
