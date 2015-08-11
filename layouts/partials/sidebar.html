@@ -1,6 +1,6 @@
 {{ "<!-- ENTERING layouts/partials/sidebar.html -->" | safeHTML }}
 <aside>
-  <div class="container"><a href="#" data-activates="nav-mobile" class="button-collapse top-nav waves-effect waves-light circle"><i class="mdi-navigation-menu"></i></a></div>
+  <div class="container"><a href="#" data-activates="nav-mobile" class="button-collapse top-nav waves-effect waves-light-purple circle"><i class="mdi-navigation-menu"></i></a></div>
   <ul id="nav-mobile" class="side-nav fixed">
     <li class="logo">
       <a id="logo-container" href="{{ .Site.BaseURL }}" class="brand-logo">
@@ -15,7 +15,7 @@
         {{ if isset .Params "alternatelocales" }}
 
         <!-- Dropdown Trigger -->
-        <a class="dropdown-button btn waves-effect waves-light-blue green white-text center" href="#" data-activates="dropdown1"><i class="mdi-action-language right white-text"></i>{{ ( index $.Site.Data.translations "en-US" ).languageswitch }}</a>
+        <a class="dropdown-button btn waves-effect waves-yellow purple white-text center" href="#" data-activates="dropdown1"><i class="mdi-action-language right white-text"></i>{{ ( index $.Site.Data.translations "en-US" ).languageswitch }}</a>
         <!-- Dropdown Structure -->
         <ul id="dropdown1" class="dropdown-content">
           {{ $perma := .Permalink }}
@@ -35,13 +35,13 @@
         {{ end }}
         <!-- END LANGUAGE SWITCHER -->
         {{ $currentNode := . }}{{ range .Site.Menus.sideen }}{{ if .HasChildren }}
-        <li class="bold"><a class="collapsible-header waves-effect waves-light-blue{{if or ($currentNode.IsMenuCurrent "side" .) ($currentNode.HasMenuCurrent "side" .) }} active{{end}}" target="{{ .Post }}">{{ .Pre }}<span>{{ .Name }}</span></a>
+        <li class="bold"><a class="collapsible-header waves-effect waves-purple{{if or ($currentNode.IsMenuCurrent "side" .) ($currentNode.HasMenuCurrent "side" .) }} active{{end}}" target="{{ .Post }}">{{ .Pre }}<span>{{ .Name }}</span></a>
           <div class="collapsible-body">
             <ul>{{ range .Children }}
               <li {{if $currentNode.IsMenuCurrent "side" . }}class="active purple accent-3" {{end}}><a href="{{.URL}}" target="{{ .Post }}">{{ .Pre }}<span>{{ .Name }}</span></a></li>{{ end }}
             </ul>
           </div>
-          {{ else }}<li class="bold{{if $currentNode.IsMenuCurrent " side " . }} active{{end}}"><a href="{{.URL}}" class="collapsible-header waves-effect waves-light-blue" target="{{ .Post }}">{{ .Pre }}<span>{{ .Name }}</span></a> {{ end }}</li>{{ end }}
+          {{ else }}<li class="bold{{if $currentNode.IsMenuCurrent " side " . }} active{{end}}"><a href="{{.URL}}" class="collapsible-header waves-effect waves-purple" target="{{ .Post }}">{{ .Pre }}<span>{{ .Name }}</span></a> {{ end }}</li>{{ end }}
         {{ end }}
         <!-- MENU FOR NODES -->
         {{ if .IsNode }}
@@ -51,13 +51,13 @@
 
         {{ $currentNode := . }}
         {{ range .Site.Menus.sideen }}{{ if .HasChildren }}
-        <li class="bold"><a class="collapsible-header waves-effect waves-light-blue{{if or ($currentNode.IsMenuCurrent "side" .) ($currentNode.HasMenuCurrent "side" .) }} active{{end}}" target="{{ .Post }}">{{ .Pre }}<span>{{ .Name }}</span></a>
+        <li class="bold"><a class="collapsible-header waves-effect waves-purple{{if or ($currentNode.IsMenuCurrent "side" .) ($currentNode.HasMenuCurrent "side" .) }} active{{end}}" target="{{ .Post }}">{{ .Pre }}<span>{{ .Name }}</span></a>
           <div class="collapsible-body">
             <ul>{{ range .Children }}
               <li {{if $currentNode.IsMenuCurrent "side" . }}class="active purple accent-3" {{end}}><a href="{{.URL}}" target="{{ .Post }}">{{ .Pre }}<span>{{ .Name }}</span></a></li>{{ end }}
             </ul>
           </div>
-          {{ else }}<li class="bold{{if $currentNode.IsMenuCurrent " side " . }} active{{end}}"><a href="{{.URL}}" class="collapsible-header waves-effect waves-light-blue" target="{{ .Post }}">{{ .Pre }}<span>{{ .Name }}</span></a> {{ end }}</li>{{ end }}
+          {{ else }}<li class="bold{{if $currentNode.IsMenuCurrent " side " . }} active{{end}}"><a href="{{.URL}}" class="collapsible-header waves-effect waves-purple" target="{{ .Post }}">{{ .Pre }}<span>{{ .Name }}</span></a> {{ end }}</li>{{ end }}
         {{ end }}
 
 
