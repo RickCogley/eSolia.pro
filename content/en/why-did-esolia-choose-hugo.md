@@ -1,8 +1,8 @@
 ---
 authorkey: rickcogley
 author: Rick Cogley
-date: 2015-07-14T14:46:15+09:00
-publishdate: 2015-07-14T08:46:15+09:00
+date: 2015-08-11T12:46:15+09:00
+publishdate: 2015-08-11T12:46:15+09:00
 description: Why eSolia chose the static site generator Hugo - a blog post on eSolia.pro from eSolia Inc.
 draft: true
 slug: why-did-esolia-choose-hugo
@@ -85,4 +85,4 @@ To use Hugo, a web designer builds html "template" files that reference css and 
 
 When we tested various SSGs, we liked Hugo's ease-of-use and excellent performance so much that we decided to re-build a few of our sites using it. So far we have built our main [English](http://esolia.com) and [Japanese](http://esolia.co.jp) sites, as well as the site your are looking at, our [eSolia.pro](http://esolia.pro) blog site.
 
-As of July 2015, Hugo's open source [community](http://discuss.gohugo.io/latest) is vibrant, [development](https://github.com/spf13/hugo) is actively proceeding, and we'd love to welcome new users to the fold. Please join in!
+As of Aug 2015, Hugo's open source [community](http://discuss.gohugo.io/latest) is vibrant, [development](https://github.com/spf13/hugo) is actively proceeding, and we'd love to welcome new users to the fold. Please join in!
