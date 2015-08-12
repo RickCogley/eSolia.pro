@@ -1,10 +1,10 @@
 ---
 authorkey: rickcogley
 author: Rick Cogley
-date: 2015-08-11T12:46:15+09:00
-publishdate: 2015-08-11T12:46:15+09:00
+date: 2015-08-12T16:20:15+09:00
+publishdate: 2015-08-12T16:20:15+09:00
 description: イソリアから、eSolia.proのブログポスト、イソリアが何故Hugoと言うサイトジェネレーターを選択したのか。
-draft: true
+draft: false
 slug: why-did-esolia-choose-hugo
 title: 何故Hugoを選択したのか?
 subtitle: パフォーマンスを重視した静的サイトジェネレータ
@@ -31,7 +31,7 @@ images:
 
 ## 背景
 
-イソリアはかつて様々なシステムを利用して、当社ウェブサイトを作製し出版してきました。例えば、Microsoft FrontPage、IBMホームページビルダー、Macromedia  DreamWeaverやRealMacRapidWeaver等、PCのローカルハードディスクにインストールする「ビルダー」タイプのアプリケーション。また、WordPress、Drupal、Typo3などサーバ側で動作するCMSタイプのシステムも多く利用してきました。
+イソリアはかつて様々なシステムを利用して、当社ウェブサイトを作製し出版してきました。例えば、Microsoft FrontPage、IBM ホームページビルダー、Macromedia DreamWeaverやRealmac Software RapidWeaver等、PCのローカルハードディスクにインストールする「ビルダー」タイプのアプリケーション。また、WordPress、Drupal、Typo3などサーバ側で動作するCMSタイプのシステムも多く利用してきました。
 
 しかし、データベースを必要としないサイトであれば、「静的」サイトゲネレーターで十分なはずです。静的ウェブサイトは、HTML、CSS、Javascript ファイルで構成されています。開発者はこれらのサイトを手動で作成し、FTPやSSHでウェブサーバーにアップし公開します。
 
@@ -77,7 +77,9 @@ Hugoは一つの実行可能ファイルで提供されているため、簡単�
 ## Hugoを使うには
 
 Hugoを使うにはウェブデザイナーが、cssとjavascriptやHugoが特別に理解できるコード(ページのタイトル、キーワードなど)を参照するhtmlの「テンプレート」ファイルを作製します。
-コンテンツは、[マークダウン](http://daringfireball.net/projects/markdown/)形式のテキストファイルで作ります。サイトをジェネレーションするには、Hugoを実行することによって数ミリセカンド後、Hugoがコンテンツとテンプレートを統合させて、ファイルがサイトフォルダーに出力されて完成します。最後にそのフォルダーをウェブサーバーに転送します。
+コンテンツは、[マークダウン](http://daringfireball.net/projects/markdown/)形式のテキストファイルで作ります。
+
+サイトをジェネレーションするには、Hugoを実行することによって数ミリセカンド後、Hugoがコンテンツとテンプレートを統合させて、ファイルがサイトフォルダーに出力されて完成します。最後にそのフォルダーをウェブサーバーに転送します。
 
 <figure class="image-container">
 <img class="materialboxed responsive-img" width="500" data-caption="Hugoフロー図" alt="Hugoという静的コンテンツゲネレーションの、ワークフロー図。" src="/img/eSolia-Post-Hugo-Flow-ja.png" >
@@ -89,3 +91,5 @@ Hugoを使うにはウェブデザイナーが、cssとjavascriptやHugoが特�
 多くのSSGをテストをした時、Hugoの簡単さとパーフォーマンスに驚き、当社の全てのサイトの構築に使用することとしました。現状、[英語](http://esolia.com) と [日本語](http://esolia.co.jp) のサイトや、ブログ[eSolia.pro](http://esolia.pro) でも使用されています。
 
 2015年現在、Hugoのオーペンソース [コミュニティー](http://discuss.gohugo.io/latest) がとても良く、[開発](https://github.com/spf13/hugo) もアクティブに進んでいます。是非ご参考ください。
+
+又、あなたのサイトをHugoで立て直したければ、ご縁量なくイソリアに[お任せください](http://esolia.co.jp/info-request)。
