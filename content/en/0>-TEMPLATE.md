@@ -25,13 +25,17 @@ images:
 
 ## The intro
 
-<div class="image-container">
-<img class="materialboxed right responsive-img" data-caption="Security vs Convenience" width="300" src="/img/eSolia-Post-Security-vs-Convenience.png">
-</div>
+<figure class="image-container">
+<img class="materialboxed right responsive-img" width="300" data-caption="Security vs Convenience" alt="Chart showing Security versus Convenience" src="/img/eSolia-Post-Security-vs-Convenience.png">
+</figure>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ## The details
+
+<figure class="image-container">
+<img class="materialboxed right responsive-img z-depth-1" width="200" data-caption="Windows 10 Logo" alt="Logo for Windows 10" src="/img/eSolia-Post-Windows-10_orange.jpg" >
+</figure>
 
 Lorem ipsum dolor sit amet [eSolia.co.jp](http://esolia.co.jp) sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
@@ -41,8 +45,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 ## HOW TO USE
 
-* Copy paste this; don't edit it.
-* use English for the file name and hyphens for the spaces.
+* Copy paste the content of this file; don't edit it.
+* use English for the file name and hyphens for the spaces. Make sure the file has the .md extension, so that our Hugo site generator understands what to do with it. 
 * Edit the frontmatter area.
    * Start with the slug, making it the same as the filename.
    * Keep "draft" set to true until ready to publish. Update draft and the dates at the same time.
