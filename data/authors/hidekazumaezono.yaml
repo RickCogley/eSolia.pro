@@ -1,0 +1,31 @@
+en-US:
+  given_name: Hidekazu
+  family_name: Maezono
+  display_name: Hidekazu Maezono
+  short_bio: asdfasdf
+  long_bio: asdfasfdasdfasdfasdfasdfasdfasdfasdfasdf
+  bio_url: /pages/hidekazu-maezono
+ja-JP:
+  given_name: 秀和
+  family_name: 前園
+  display_name: 前園 秀和
+  short_bio: asdfasdfasdfasdfasdf
+  long_bio: asdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdf
+  bio_url: /pages/hidekazu-maezono
+common:
+  personal_email: asdf@asdf.com
+  work_email: hidekazu.maezono@esolia.co.jp
+  main_img: /img/eSolia-Hidekazu-Maezono.jpg
+  thumbnail: /img/zono.png
+  images:
+    - /img/eSolia-Hidekazu-Maezono.jpg
+    - /img/zono.png
+social:
+  website: http://esolia.com
+  blog_rss: http://esolia.pro/index.xml
+  about_page: http://esolia.com/about
+  twitter: http://www.twitter.com/eSolia_Inc
+  google_plus: https://plus.google.com/+Esolia?rel=author
+  facebook: http://www.facebook.com/eSolia
+  linkedin: http://www.linkedin.com/company/esolia-inc
+  vimeo: https://vimeo.com/channels/esolia
