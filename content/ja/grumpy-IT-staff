@@ -1,34 +1,36 @@
 ---
-author: eSolia
-authorkey: esolia
+author: Ena Ishikawa
+authorkey: enaishikawa
 date: 2015-07-07T08:45:15+09:00
 publishdate: 2015-07-07T08:45:15+09:00
 draft: true
-slug: make-this-the-same-as-the-file-name-without-extension
-title: This is the Title
+slug: grumpy-IT-staff
+title: 不機嫌なIT担当、アウトソースを考えてみるべき？
 subtitle: and this is the subtitle
-description: イソリアから、eSolia.proのブログポスト、One or two sentence description.
-postsummary: This is the summary seen on the top page of the site, describing the post.
+description: 不機嫌なIT担当、アウトソースを考えてみるべき？
+postsummary: 従業員200名以下であれば、ITはアウトソースした方が効率的の場合があります。
 alternatelocales:
   - en-US
 tags:
-  - あれ
-  - これ
-  - その他
+  - IT担当者
+  - バイリンガルIT
+  - ITアウトソーシング
+  - ITアウトソース
 topics:
   - アナウンス
 authors:
   - eSolia
 images:
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/eSolia-Post-Have-You-Tried-Restarting.gif
 ---
 
-##不機嫌なIT担当　
+###不機嫌なIT担当
 
 
 皆さんは「IT crowd」 という海外ドラマをご覧になった事はありますでしょうか？
 本当に面白いイギリスのシットコムなのですが、　主人公の一人の口癖が、「Hello IT, have you tried turning it off and on again?(IT課、再起動した？)」と、不機嫌そうに電話に出るというものです。
-
+<figure class="image-container">
+<img class="materialboxed responsive-img" width="550" data-caption="Zoom caption" alt="Alt caption" src="/img/eSolia-Post-Have-You-Tried-Restarting.gif" >
 
 ドラマとしてはとてもよく出来ていて大変面白いのですが、御社の場合はいかがでしょうか？
 
@@ -46,18 +48,14 @@ images:
 
 またこの様な規模の場合IT担当者が1名のみというのも少なくありません。IT担当者が1名だけの場合、下記のようなリスクがあります。
 
+* IT担当者の体調不良時に対応できる人がいなくなる
+* IT担当者が急に退職した場合、IT管理者を急に失う
+* 独りで担当しているので、情報共有を前提にしていない為、情報管理が乱雑
+* そもそもスキルが不十分(偏りがある)
+* 土日作業等、個人にかかる負担が多い
+* 発生するプロジェクトによって仕事のボリュームが一定でないので人件費等のコスト管理が困難
 
->
-- IT担当者の体調不良時に対応できる人がいなくなる
-- IT担当者が急に退職した場合、IT管理者を急に失う
-- 独りで担当しているので、情報共有を前提にしていない為、情報管理が乱雑
-- そもそもスキルが不十分(偏りがある)
-- 土日作業等、個人にかかる負担が多い
-- 発生するプロジェクトによって仕事のボリュームが一定でないので人件費等のコスト管理が困難
-
-
-
-##まとめ
+##最後に
 
 社内に情報システム部門を持たず、IT担当者が1名もしくは2名の場合、この機会に本気でアウトソーシングを考えてみる事で、御社の将来を明るくするかもしれません。
 
