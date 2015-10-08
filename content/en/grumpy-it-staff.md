@@ -39,27 +39,26 @@ Have you ever seen the famous TV drama called "IT Crowd"? It's a really funny Br
 
 ## Is your Internal IT Grumpy?
 
-A IT helpdesk engineer needs to intaract with various departpents and various employees so the person who works in this position is very important to have a human skills.  
-You probably want to think calling a more pleasant staff than a grumpy staff if you receive the same advice as 「Have you tried turning it off and on again?」
+A IT helpdesk engineer needs to interact with various departments and their employees, so a person working in this position has to have a high EQ or emotional quotient to be able to work well with others.
 
-There are probably some reason for being grumpy, someting like busy, lack of sleep, etc... 
+Even the same terse advice of "Have you tried turning it off and on again?", will be perceived differently if delivered by a pleasant staffer than a grumpy one. Most people would want to interact with the pleasant staffer.
 
-You might think it's OK if he does what he needs to do even he is grumpy. But if there is only one IT staff in your comany, there are some risks to consider.
+There indeed might be reasons for being grumpy, like being overly busy or a lack of sleep and so on, and you might even think it's ok if a staffer is grumpy, if they do their job as they need to do. But if there is only one IT staff in your company, there are some risks to consider.
 
 ## Should you Outsource your IT?
 
-Altough it depends on the size of a company, the IT outsourcing is efficient in a comprehensive manner especially in case of a midium-sized company which is under 200 employee. 
+Although it depends on the size of a company, looking at the situation comprehensively, IT outsourcing is very efficient especially in case of a medium-sized company or a foreign branch, which is under 200 employees.
 
-And it is not easy to find a right IT staff for foreign affriated comany who can speak English, do what needs to do and also have sperior human skills, if you find someone like this, he or she should be very expensive. 
+And it is certainly not easy to find the right IT staff for foreign affiliated companies, who can speak English, do what needs done, and also possess superior human interaction skills. If you find someone like this, she or he should be very expensive.
 
-And, in this size of company, there often only one IT staff who is handling everything on IT related issue. If you only have one IT staff, there are following risks;
+Furthermore, it's often true that in this size of company, the one IT staff handles everything regarding IT issues. If that describes your organization, there are the following risks:
 
-* There are no one who can do IT work in case a IT staff is sick.
-* IT担当者が急に退職した場合、IT管理者を急に失う
-* 独りで担当しているので、情報共有を前提にしていない為、情報管理が乱雑
-* そもそもスキルが不十分(偏りがある)
-* 土日作業等、個人にかかる負担が多い
-* 発生するプロジェクトによって仕事のボリュームが一定でないので人件費等のコスト管理が困難
+* There is nobody who can do the IT work, when the IT staffer is out sick.
+* If the IT staffer quits suddenly, the ability to manage IT is suddenly lost.
+* Because all IT activities are being done by one person, critical information is not shared, and is likely kept in a rather chaotic state.
+* In the first place, his or her IT skills will be insufficient and unbalanced, naturally, compared to those of an organization.
+* Various stresses of typical IT work, such as doing projects on weekends or holidays, are borne solely by the individual staffer.
+* It's very difficult to control the cost of labor on projects, which are of course never flat or fixed.
 
 ## How can eSolia's Bilingual Helpdesk Help?
 
