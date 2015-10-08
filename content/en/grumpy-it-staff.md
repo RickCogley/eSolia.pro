@@ -1,60 +1,77 @@
 ---
-author: eSolia
-authorkey: esolia
-date: 2015-07-07T08:45:15+09:00
-publishdate: 2015-07-07T08:45:15+09:00
+authorkey: enaishikawa
+author: Ena Ishikawa
+date: 2015-07-08T11:30:15+09:00
+publishdate: 2015-07-08T11:30:15+09:00
 draft: true
-slug: make-this-the-same-as-the-file-name-without-extension
-title: This is the Title
-subtitle: and this is the subtitle
-description: One or two sentence description - a blog post on eSolia.pro from eSolia Inc.
-postsummary: This is the summary seen on the top page of the site, describing the post.
+slug: grumpy-it-staff
+title: Grumpy IT Staffers
+subtitle: Should you outsource your IT?
+description: Got grumpy IT staffers? Should you outsource? - a blog post on eSolia.pro from eSolia Inc.
+postsummary: With less than 200 employees, companies might benefit from outsourcing their IT operations to an expert team like eSolia.
 alternatelocales:
   - ja-JP
 tags:
-  - this
-  - that
-  - the other
+  - IT Staffer
+  - Bilingual IT
+  - IT Outsourcing
+  - IT Outsource
 topics:
-  - Announcements
+  - Experience Stories
 authors:
-  - eSolia
+  - Ena Ishikawa
 images:
+  - /img/eSolia-Post-Have-You-Tried-Restarting.gif
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
-## The intro
+## That famous line from "IT Crowd"
 
 <figure class="image-container">
-<img class="materialboxed right responsive-img" width="300" data-caption="Security vs Convenience" alt="Chart showing Security versus Convenience" src="/img/eSolia-Post-Security-vs-Convenience.png">
+<img class="materialboxed right responsive-img z-depth-2" data-caption="Famous like from IT crowd" width="250" src="/img/eSolia-Post-Have-You-Tried-Restarting.gif" alt="Image showing text that says have you turned it on and off again?">
 </figure>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Have you ever seen the famous TV drama called "IT Crowd"? It's a really funny British sitcom, in which the protagonists always rather grumpily say:
 
-## The details
+> Hello, IT. Have you tried turning it off and on again?
 
-<figure class="image-container">
-<img class="materialboxed right responsive-img z-depth-1" width="200" data-caption="Windows 10 Logo" alt="Logo for Windows 10" src="/img/eSolia-Post-Windows-10_orange.jpg" >
-</figure>
+... when answering support calls over the phone. It's really well-done as a TV series, but, how about the situation at your company?
 
-Lorem ipsum dolor sit amet [eSolia.co.jp](http://esolia.co.jp) sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Is your Internal IT Grumpy?
 
-> A quote: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+社内IT担当者は、あらゆる社員、部署との直接やり取りが多く、ヒューマンスキルが非常に大切なポジションとなります。
+同じ「再起動して下さい」でも、気持ちよい対応をしてくれる人と、ぶっきらぼうな対応の人とでは誰でも前者のエンジニアへ連絡したいと感じると思います。
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+不機嫌なIT担当になってしまう要因は色々とあると思います。忙しい、睡眠不足、etc...
 
-## HOW TO USE
+不機嫌でも、仕事さえしっかりしてくれれば良い、そう思う方もいるかも知れません。しかし、IT担当者を1人だけしかおかない場合、さまざまなリスクが発生します。
 
-* Copy paste the content of this file; don't edit it.
-* use English for the file name and hyphens for the spaces. Make sure the file has the .md extension, so that our Hugo site generator understands what to do with it. 
-* Edit the frontmatter area.
-   * Start with the slug, making it the same as the filename.
-   * Keep "draft" set to true until ready to publish. Update draft and the dates at the same time.
-   * Date and PublishDate are the same at first. If you edit after publishing, update the Date.
-   * Update author and authorkey as, for example, Hideaki Horiuchi and hideakihoriuchi respectively.
-   * Also put the full name version of the Author in the authors array.
-   * Remember SEO is determined by Title, Subtitle, Description, Tags, and the key phrase near the top of the article.
-   * Topics should be high level and limited. Details can go in Tags, but we should limit the major topics. Look at others to compare.
-   * Send Rick a JPEG or PNG file if you want to use an image in the post.
-   * Leave eSolia Chicklet as a default image. Add any new images above it.
-* Paste your body text in, using h2 as the top-level header. Break up with headers to help with SEO.
+## Should you Outsource your IT?
+
+規模にもよりますが、中小企業、もしくは日本支社の従業員数が200名以下の場合には、ITはアウトソースした方が総合的にみて効率が良いでしょう。
+
+また、外資系の場合、英語が話せた上で、やって欲しい事が全て出来て、さらにヒューマンスキルの高いIT担当を見つけるのは簡単ではありません。もし、そのような人がいても相当な報酬を支払わないとならないでしょう。
+
+またこの様な規模の場合、IT担当者が1名のみというのも少なくありません。IT担当者が1名だけの場合、下記のようなリスクがあります。
+
+* IT担当者の体調不良時に対応できる人がいなくなる
+* IT担当者が急に退職した場合、IT管理者を急に失う
+* 独りで担当しているので、情報共有を前提にしていない為、情報管理が乱雑
+* そもそもスキルが不十分(偏りがある)
+* 土日作業等、個人にかかる負担が多い
+* 発生するプロジェクトによって仕事のボリュームが一定でないので人件費等のコスト管理が困難
+
+## How can eSolia's Bilingual Helpdesk Help?
+
+社内に情報システム部門を持たず、IT担当者が1名もしくは2名の場合、この機会に本気でアウトソーシングを考えてみる事で、御社の将来を明るくするかもしれません。
+
+弊社の[バイリンガルITヘルプデスク](http://esolia.co.jp/helpdesk/)はメイン担当者＋αのチーム体制でサポート体制を万全にする事が可能です。
+
+また、訪問日についても、常駐、半日、オンデマンドと様々なニーズに合わせてのプラン作成が可能です。
+
+上記リスクに少しでも思い当たる節がある場合、お気軽にご相談下さい。
+
+* [Bilingual IT Helpdesk](http://esolia.co.jp/helpdesk/)
+* [On-site Support](http://esolia.co.jp/on-site/)
+* [Process Management](http://esolia.co.jp/process/)
+* [Project Management](http://esolia.co.jp/project-management/)

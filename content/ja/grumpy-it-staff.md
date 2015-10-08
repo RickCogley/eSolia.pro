@@ -1,8 +1,8 @@
 ---
 authorkey: enaishikawa
 author: Ena Ishikawa
-date: 2015-07-07T17:30:15+09:00
-publishdate: 2015-07-07T17:30:15+09:00
+date: 2015-07-08T11:30:15+09:00
+publishdate: 2015-07-08T11:30:15+09:00
 draft: true
 slug: grumpy-it-staff
 title: 不機嫌なIT担当
@@ -63,7 +63,7 @@ images:
 * 土日作業等、個人にかかる負担が多い
 * 発生するプロジェクトによって仕事のボリュームが一定でないので人件費等のコスト管理が困難
 
-## イソリアのバイリンガルITヘルプデスクなら。。。
+## イソリアのバイリンガルITヘルプデスクなら…
 
 社内に情報システム部門を持たず、IT担当者が1名もしくは2名の場合、この機会に本気でアウトソーシングを考えてみる事で、御社の将来を明るくするかもしれません。
 
@@ -77,4 +77,3 @@ images:
 * [訪問サポート](http://esolia.co.jp/on-site/)
 * [プロセス管理](http://esolia.co.jp/process/)
 * [プロジェクト管理](http://esolia.co.jp/project-management/)
-
