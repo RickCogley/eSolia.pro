@@ -39,22 +39,22 @@ Have you ever seen the famous TV drama called "IT Crowd"? It's a really funny Br
 
 ## Is your Internal IT Grumpy?
 
-社内IT担当者は、あらゆる社員、部署との直接やり取りが多く、ヒューマンスキルが非常に大切なポジションとなります。
-同じ「再起動して下さい」でも、気持ちよい対応をしてくれる人と、ぶっきらぼうな対応の人とでは誰でも前者のエンジニアへ連絡したいと感じると思います。
+A IT helpdesk engineer needs to intaract with various departpents and various employees so the person who works in this position is very important to have a human skills.  
+You probably want to think calling a more pleasant staff than a grumpy staff if you receive the same advice as 「Have you tried turning it off and on again?」
 
-不機嫌なIT担当になってしまう要因は色々とあると思います。忙しい、睡眠不足、etc...
+There are probably some reason for being grumpy, someting like busy, lack of sleep, etc... 
 
-不機嫌でも、仕事さえしっかりしてくれれば良い、そう思う方もいるかも知れません。しかし、IT担当者を1人だけしかおかない場合、さまざまなリスクが発生します。
+You might think it's OK if he does what he needs to do even he is grumpy. But if there is only one IT staff in your comany, there are some risks to consider.
 
 ## Should you Outsource your IT?
 
-規模にもよりますが、中小企業、もしくは日本支社の従業員数が200名以下の場合には、ITはアウトソースした方が総合的にみて効率が良いでしょう。
+Altough it depends on the size of a company, the IT outsourcing is efficient in a comprehensive manner especially in case of a midium-sized company which is under 200 employee. 
 
-また、外資系の場合、英語が話せた上で、やって欲しい事が全て出来て、さらにヒューマンスキルの高いIT担当を見つけるのは簡単ではありません。もし、そのような人がいても相当な報酬を支払わないとならないでしょう。
+And it is not easy to find a right IT staff for foreign affriated comany who can speak English, do what needs to do and also have sperior human skills, if you find someone like this, he or she should be very expensive. 
 
-またこの様な規模の場合、IT担当者が1名のみというのも少なくありません。IT担当者が1名だけの場合、下記のようなリスクがあります。
+And, in this size of company, there often only one IT staff who is handling everything on IT related issue. If you only have one IT staff, there are following risks;
 
-* IT担当者の体調不良時に対応できる人がいなくなる
+* There are no one who can do IT work in case a IT staff is sick.
 * IT担当者が急に退職した場合、IT管理者を急に失う
 * 独りで担当しているので、情報共有を前提にしていない為、情報管理が乱雑
 * そもそもスキルが不十分(偏りがある)
