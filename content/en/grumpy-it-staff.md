@@ -48,13 +48,13 @@ You might think it's OK if he does what he needs to do even he is grumpy. But if
 
 ## Should you Outsource your IT?
 
-規模にもよりますが、中小企業、もしくは日本支社の従業員数が200名以下の場合には、ITはアウトソースした方が総合的にみて効率が良いでしょう。
+Altough it depends on the size of a company, the IT outsourcing is efficient in a comprehensive manner especially in case of a midium-sized company which is under 200 employee. 
 
-また、外資系の場合、英語が話せた上で、やって欲しい事が全て出来て、さらにヒューマンスキルの高いIT担当を見つけるのは簡単ではありません。もし、そのような人がいても相当な報酬を支払わないとならないでしょう。
+And it is not easy to find a right IT staff for foreign affriated comany who can speak English, do what needs to do and also have sperior human skills, if you find someone like this, he or she should be very expensive. 
 
-またこの様な規模の場合、IT担当者が1名のみというのも少なくありません。IT担当者が1名だけの場合、下記のようなリスクがあります。
+And, in this size of company, there often only one IT staff who is handling everything on IT related issue. If you only have one IT staff, there are following risks;
 
-* IT担当者の体調不良時に対応できる人がいなくなる
+* There are no one who can do IT work in case a IT staff is sick.
 * IT担当者が急に退職した場合、IT管理者を急に失う
 * 独りで担当しているので、情報共有を前提にしていない為、情報管理が乱雑
 * そもそもスキルが不十分(偏りがある)
