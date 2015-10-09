@@ -1,19 +1,19 @@
 ---
-author: hidekazumaezono
-authorkey: Hidekazu Maezono
-date: 2015-07-07T08:45:15+09:00
-publishdate: 2015-07-07T08:45:15+09:00
+author: Hidekazu Maezono
+authorkey: hidekazumaezono
+date: 2015-10-09T15:15:15+09:00
+publishdate: 2015-10-09T15:15:15+09:00
 draft: true
-slug: Never_Funny_Packe-Dead
-title: 笑えないパケ死
-subtitle: データローミングについて
+slug: bill-shock-is-never-funny
+title: Bill Shock is Never Funny
+subtitle: Thoughts on Data Roaming
 description: イソリアから、eSolia.proのブログポスト、笑えないパケ死、データローミングについて
 postsummary: 海外出張時にはデータローミング機能に気をつけて
 alternatelocales:
   - en-US
 tags:
-  - パケ死
-  - データローミング
+  - Bill Shock
+  - Data Roaming
   - バイリンガルIT
   - ITアウトソーシング
   - ITアウトソース

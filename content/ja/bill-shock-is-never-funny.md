@@ -1,10 +1,10 @@
 ---
-author: hidekazumaezono
-authorkey: Hidekazu Maezono
-date: 2015-07-07T08:45:15+09:00
-publishdate: 2015-07-07T08:45:15+09:00
+author: Hidekazu Maezono
+authorkey: hidekazumaezono
+date: 2015-10-09T15:15:15+09:00
+publishdate: 2015-10-09T15:15:15+09:00
 draft: true
-slug: Never_Funny_Packe-Dead
+slug: bill-shock-is-never-funny
 title: 笑えないパケ死
 subtitle: データローミングについて
 description: イソリアから、eSolia.proのブログポスト、笑えないパケ死、データローミングについて
