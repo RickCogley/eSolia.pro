@@ -62,13 +62,11 @@ Furthermore, it's often true that in this size of company, the one IT staff hand
 
 ## How can eSolia's Bilingual Helpdesk Help?
 
-社内に情報システム部門を持たず、IT担当者が1名もしくは2名の場合、この機会に本気でアウトソーシングを考えてみる事で、御社の将来を明るくするかもしれません。
+Your company would be prospered by seriously considering IT oursoursing in this oppotunity if there is only one or two IT staff or doesn't have IT department.
+Our Billingul helpdesk[Billingul Helpdesk](http://esolia.com/helpdesk/) will be able to build on strong foundations with main engineer + α team system.
 
-弊社の[バイリンガルITヘルプデスク](http://esolia.co.jp/helpdesk/)はメイン担当者＋αのチーム体制でサポート体制を万全にする事が可能です。
-
-また、訪問日についても、常駐、半日、オンデマンドと様々なニーズに合わせてのプラン作成が可能です。
-
-上記リスクに少しでも思い当たる節がある場合、お気軽にご相談下さい。
+Also, we can create  a on-site visit plan with depending on your needs like full-day, half-day and on-demand.
+If you have something in your mind above, please rely on eSolia.
 
 * [Bilingual IT Helpdesk](http://esolia.co.jp/helpdesk/)
 * [On-site Support](http://esolia.co.jp/on-site/)
