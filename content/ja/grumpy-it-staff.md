@@ -1,9 +1,9 @@
 ---
 authorkey: enaishikawa
 author: Ena Ishikawa
-date: 2015-07-09T15:30:15+09:00
-publishdate: 2015-07-09T15:30:15+09:00
-draft: true
+date: 2015-10-09T15:30:15+09:00
+publishdate: 2015-10-09T15:30:15+09:00
+draft: false
 slug: risks-with-grumpy-it-staff
 title: 不機嫌なIT担当のリスク
 subtitle: アウトソースを考えてみるべき？
