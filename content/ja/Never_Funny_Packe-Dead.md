@@ -14,10 +14,10 @@ alternatelocales:
 tags:
   - パケ死
   - データローミング
-　- バイリンガルIT
+  - バイリンガルIT
   - ITアウトソーシング
   - ITアウトソース
-　- ヘルプデスク
+  - ヘルプデスク
 topics:
   - 経験談
 authors:
