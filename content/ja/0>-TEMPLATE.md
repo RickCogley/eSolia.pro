@@ -1,62 +1,60 @@
 ---
-author: hidekazumaezono
-authorkey: Hidekazu Maezono
+author: eSolia
+authorkey: esolia
 date: 2015-07-07T08:45:15+09:00
 publishdate: 2015-07-07T08:45:15+09:00
 draft: true
-slug: Never_Funny_Packe-Dead
-title: 笑えないパケ死
-subtitle: データローミングについて
-description: イソリアから、eSolia.proのブログポスト、笑えないパケ死、データローミングについて
-postsummary: 海外出張時にはデータローミング機能に気をつけて
+slug: make-this-the-same-as-the-file-name-without-extension
+title: This is the Title
+subtitle: and this is the subtitle
+description: イソリアから、eSolia.proのブログポスト、One or two sentence description.
+postsummary: This is the summary seen on the top page of the site, describing the post.
 alternatelocales:
   - en-US
 tags:
-  - パケ死
-  - データローミング
-  - バイリンガルIT
-  - ITアウトソーシング
-  - ITアウトソース
-  - ヘルプデスク
+  - あれ
+  - これ
+  - その他
 topics:
-  - 経験談
+  - アナウンス
 authors:
-  - Hidekazu Maezono
+  - eSolia
 images:
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
-## 海外出張の落とし穴　－　電子機器は海外でも利用出来て便利
+## The intro
 
 <figure class="image-container">
 <img class="materialboxed right responsive-img" width="300" data-caption="Security vs Convenience" alt="Chart showing Security versus Convenience" src="/img/eSolia-Post-Security-vs-Convenience.png">
 </figure>
 
-今やあっという間に自身が部屋で火事を起こしてしまう映像が世界へ配信されてしまう時代、きっと英語が出来ても出来なくてもあなたは急な海外出張へ行くことがあるかもしれません。そんな時に会社支給のスマートフォンやポケットワイファイ等の電子機器を持っていくことは、もはや当たり前になりつつある様に感じます。
-今回お伝えしたいのは、よく聞くよなぁと思いつつ、定期的に繰り返される海外での電子機器の利用にまつわる話です。
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-## データローミングって一体何者？　－　御社では海外での利用についてもユーザへ正しく周知はされておりますか。
+## The details
 
 <figure class="image-container">
 <img class="materialboxed right responsive-img z-depth-1" width="200" data-caption="Windows 10 Logo" alt="Logo for Windows 10" src="/img/eSolia-Post-Windows-10_orange.jpg" >
 </figure>
 
-海外へ出張される時、気をつけなければいけないのは、データローミング機能です。
-通話機能はこれには一切関係なく、いわゆるパケット通信がコレにあたります。これがONになっていると海外にいても提携キャリアの通信網へ接続し、メールが受信出来たり、ブラウザで調べ物したり、Google Mapを見たりと、日本にいる時と同じ様に使えます。でもあなたは知らなければいけません。海外でのパケット通信料はべらぼうに高いことを・・。
+Lorem ipsum dolor sit amet [eSolia.co.jp](http://esolia.co.jp) sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-先日たった一晩にして海外出張先で約70万円もの通信料が発生するという事件がありました。。
+> A quote: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-あなたは思うかもしれません、海外でもパケット使い放題って各キャリア毎にあるじゃあないか、、と。
-その通りです。しかしながらこれはしっかりご自身で機器の設定をしてあげないと、いつも勝手に適用される様な親切な設計にはなっていません。パケ死なんて言葉が流行ったのはもう何年前でしょうか。。しかしまだ実際に現場ではあるんです。
-もし御社の社内にそういった事を周知してくれる立場の人がいなかったり、もしくは管理している総務担当やシステム担当がきちんと周知をしていなかった場合、あなたも一晩で何十万という請求を引き起こすことになるかもしれません。
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## eSoliaのヘルプデスクなら
+## 使い方
 
-弊社のバイリンガルITヘルプデスクは豊富な経験と知識から、予めそういった危険性を周知し、適切にご案内することが可能です。上記リスクに思い当たりのある場合、お気軽にご相談下さい。
-
-（明日海外出張に行くんだけど私パケ"死ぬ"かもしれないといういう方は、まず端末上のデータローミング機能をOFFにすることから始めましょう。そして担当者へ予め問い合わせしておく事をお薦めいたします。）
-
-* [バイリンガルITヘルプデスク](http://esolia.co.jp/helpdesk/)
-* [訪問サポート](http://esolia.co.jp/on-site/)
-* [プロセス管理](http://esolia.co.jp/process/)
-* [プロジェクト管理](http://esolia.co.jp/project-management/)
+* Copy paste this; don't edit it.
+* use English for the file name and hyphens for the spaces. Make sure the file has the .md extension, so that our Hugo site generator understands what to do with it.
+* Edit the frontmatter area.
+   * Start with the slug, making it the same as the filename.
+   * Keep "draft" set to true until ready to publish. Update draft and the dates at the same time.
+   * Date and PublishDate are the same at first. If you edit after publishing, update the Date.
+   * Update author and authorkey as, for example, Hideaki Horiuchi and hideakihoriuchi respectively.
+   * Also put the full name version of the Author in the authors array.
+   * Remember SEO is determined by Title, Subtitle, Description, Tags, and the key phrase near the top of the article.
+   * Topics should be high level and limited. Details can go in Tags, but we should limit the major topics. Look at others to compare.
+   * Send Rick a JPEG or PNG file if you want to use an image in the post.
+   * Leave eSolia Chicklet as a default image. Add any new images above it.
+* Paste your body text in, using h2 as the top-level header. Break up with headers to help with SEO.
