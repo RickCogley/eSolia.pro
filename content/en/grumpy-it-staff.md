@@ -1,9 +1,9 @@
 ---
 authorkey: enaishikawa
 author: Ena Ishikawa
-date: 2015-07-08T11:30:15+09:00
-publishdate: 2015-07-08T11:30:15+09:00
-draft: true
+date: 2015-07-09T15:30:15+09:00
+publishdate: 2015-07-09T15:30:15+09:00
+draft: false
 slug: risks-with-grumpy-it-staff
 title: Risks of Grumpy IT Staffers
 subtitle: Should you outsource your IT?
@@ -62,11 +62,12 @@ Furthermore, it's often true that in this size of company, the one IT staff hand
 
 ## How can eSolia's Bilingual Helpdesk Help?
 
-Your company would be prospered by seriously considering IT oursoursing in this oppotunity if there is only one or two IT staff or doesn't have IT department.
-Our Billingul helpdesk[Billingul Helpdesk](http://esolia.com/helpdesk/) will be able to build on strong foundations with main engineer + α team system.
+Your company's future might be brighter if you might seriously consider outsourcing to eSolia, especially if you have only 1 or 2 IT staff, or even, no staff.
 
-Also, we can create  a on-site visit plan with depending on your needs like full-day, half-day and on-demand.
-If you have something in your mind above, please rely on eSolia.
+Our [Bilingual Helpdesk](http://esolia.com/helpdesk/) will build on strong foundations with our primary engineer + α team system.
+
+Also, we can devise an on-site visit plan according to your needs for full-day, half-day or on-demand support.
+Did the above pique your interest? If so, please rely on eSolia.
 
 * [Bilingual IT Helpdesk](http://esolia.co.jp/helpdesk/)
 * [On-site Support](http://esolia.co.jp/on-site/)
