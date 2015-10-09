@@ -1,6 +1,6 @@
 ---
-date: 2015-10-07T00:05:19.000Z
-publishdate: 2015-10-07T00:05:19.000Z
+date: 2015-10-08T00:05:19.000Z
+publishdate: 2015-10-08T00:05:19.000Z
 description: eSolia Hidekazu Maezono Author Page
 draft: false
 slug: hidekazu-maezono
@@ -25,17 +25,11 @@ aliases:
 
 ## About Hidekazu "Zono" Maezono
 
-After graduation of school, Hidekazu Maezono was dedicated for several part-time jobs and that was for going to Toronto in Canada. 
-He spent a year over there to learn the multi-culture and to study English. 
-Then he started his career in one of major network company's global helpdesk. And as a supervisor, 
-he performed the operations with the carriers in asian countries, also was engaged in training for local subsidiaries.
-In 2012, he joined eSolia as an ITMS engineer, started broadening various knowledge as well as network skills to provides a good service.  
+After graduating school, Hidekazu Maezono was devoted to several part-time jobs, in order to go to Toronto, Canada. He spent a year over there to learn different cultures and to study English. Afterwards he started his career in a major network company's global helpdesk. And as a supervisor, he coordinated operations with carriers in asian countries, as well as being engaged in training for local subsidiaries. In 2012, he joined eSolia as a teamITMS engineer, and started broadening various areas of knowledge including network skills to provide superior service.  
 
-Zono tackles any kind of problems seriously and is always conscious of client satifuction to keep it higher.
-He will continue to make efforts to solve any issues that could happen in the office, and provides the best service to establish a good relation with customer.
+Zono tackles any kind of problem seriously and is always conscious of keeping client satisfaction high. He will continue to make efforts to solve any sort of issues that could happen in an office, and to provide the best service while establishing good relations with clients.
 
-He rather thinks himself an indoor-type that can go with outdoor-types, and likes playing the electric guitar. 
-He keeps a cat and recently often goes to bouldering as an exercize. 
+He thinks of himself as an indoor-type that can go with outdoor-types, and likes playing the electric guitar. He keeps a cat and recently often goes bouldering for exercise.
 
 ## 前園秀和について
 
