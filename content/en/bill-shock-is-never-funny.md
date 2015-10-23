@@ -1,65 +1,69 @@
 ---
 author: Hidekazu Maezono
 authorkey: hidekazumaezono
-date: 2015-10-09T15:15:15+09:00
-publishdate: 2015-10-09T15:15:15+09:00
+date: 2015-10-23T14:15:15+09:00
+publishdate: 2015-10-23T14:15:15+09:00
 draft: true
 slug: bill-shock-is-never-funny
 title: Bill Shock is Never Funny
 subtitle: Thoughts on Data Roaming
-description: イソリアから、eSolia.proのブログポスト、笑えないパケ死、データローミングについて
-postsummary: 海外出張時にはデータローミング機能に気をつけて
+description: Bill shock is never funny, about data roaming risks - a blog post on eSolia.pro from eSolia Inc.
+postsummary: Has your company properly notified users of the risks and pitfalls of data roaming overseas? When it comes to business trips abroad, international roaming fees on your smart-phone are truly something to be concerned with.
 alternatelocales:
-  - en-US
+  - ja-JP
 tags:
   - Bill Shock
   - Data Roaming
-  - バイリンガルIT
-  - ITアウトソーシング
-  - ITアウトソース
-  - ヘルプデスク
+  - Bilingual IT
+  - IT Outsourcing
+  - IT Outsource
+  - Helpdesk
 topics:
-  - 経験談
+  - Experience Stories
 authors:
   - Hidekazu Maezono
 images:
+  - /img/eSolia-Post-Bill-Shock-01.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
-## A trap in Business Trip – Electronic devices are always useful even in foreign countries
+## A Business Trip Trap
 
 <figure class="image-container">
-<img class="materialboxed right responsive-img" width="300" data-caption="Security vs Convenience" alt="Chart showing Security versus Convenience" src="/img/eSolia-Post-Security-vs-Convenience.png">
+<img class="materialboxed right responsive-img z-depth-2" width="250" data-caption="The Cry of Anger by Allan Donque" alt="Photo of child crying angrily, by Allan Donque" src="/img/eSolia-Post-Bill-Shock-01.jpg">
 </figure>
 
-This is an era that someone can even broadcast himself setting fire to home by accident, no matter you speaks English or not, you might need to go on a business trip to other countries. With such an opportunity, bringing your smart-phone, portable Wi-Fi router and such is becoming pretty common, I feel.
-What I would like to tell this time is, about a story that you often hear about, but still being repeated periodically, related to those electronic devices.
+_Electronic devices are always useful even in foreign countries, but not at any cost._
 
-## What on the earth is data-roaming ? – Has the oversea usage been properly notified to users in your company ?
+This is an age in which one can broadcast oneself burning down his own house by accident, to a global audience, so no matter whether you speak English or not, the eventual business trip would be inevitable.
 
-<figure class="image-container">
-<img class="materialboxed right responsive-img z-depth-1" width="200" data-caption="Windows 10 Logo" alt="Logo for Windows 10" src="/img/eSolia-Post-Windows-10_orange.jpg" >
-</figure>
+With such an opportunity, bringing your smart-phone, or portable Wi-Fi router and such, is the norm.
 
-When it comes to the business trip abroad, what you needs to be careful is, about the international roaming on your smart-phone.
-Call function is separated and not related, the packet transmission is what is about. (In Japan, data-roaming is basically about only transmission, but in other country you should see a separated menu ”voice-roaming” probably.)
-If this function is ON, wherever you are in foreign countries, it enables your cellphone to connect a local carrier and allow to send/receive mails, browse, or even to check the Google map, just like you’re in Japan. But you should know one thing, that the transmission fee is really really expensive in other countries.
+Let me tell you in this post a story that is common, yet is still being repeated periodically, related to those electronic devices.
 
-The other day, there was an incident that caused a 700,000 yen of transmission fee at 1 night. (Just 1 night..)
+## What on earth is data-roaming?
 
-You may think, “he/she was just stupid because there must be the oversea-unlimited-packet-plan by each carrier..”, like this.
-Exactly you are right. But it is probably not so kind as you think and won’t be applied unless you set the devices properly. 
-Do you know the word “Pake-shi” (≠bill shock) was popular many years ago. I have to say, it still does exist in the scene.
-If there is no one to notify it correctly, or the admin-section in charge has never notified it, you could be the one to cause the bill shock at 1 night. 
+Has your company properly notified users of the risks and pitfalls of data roaming overseas? When it comes to business trips abroad, international roaming fees on your smart-phone are truly something to be concerned with.
+
+They are unrelated to the phone call function, and rather all about the transmission of packets. In Japan, data-roaming is basically about transmission only, but in other countries you may see a separate menu related to "voice roaming".
+
+If this function is set to "on", wherever you are in foreign countries, it enables your cellphone to connect to a local carrier to send or receive emails, browse the web, or even check Google maps, just like you're in Japan. But you should be acutely aware, that transmission fees are really, really expensive ian other countries.
+
+The other day, there was an incident at a client, that **caused a 700,000 yen transmission fee in just 1 night**. (Just _one_ night..)
+
+You may think, "s/he was just reckless because there must be an overseas unlimited packet plan available from each carrier." And in a way, you'd be right. But it is probably the case that some prep is required, and the plan wouldn't be applied unless you set the device properly.
+
+Have you heard the phrase "bill shock"? I have to say, this still exists in reality, and we have a humorous phrase for it in Japan: _pake-shi_ or "death from packets". If there is nobody to raise awareness of it in a company, you yourself might be the one to cause a shocking bill in just one night!
 
 ## In closing
 
-For this sort of matters, please contact eSolia. 
-eSolia’s bilingual IT helpdesk can help you by foreseeing the risks of those and support you with the solid experience and knowledge.
+For this sort of matter, please contact eSolia. eSolia’s bilingual IT helpdesk can help you by foreseeing the risks of such matters, and support you with our solid experience and knowledge.
 
-(For those who supposed to go oversea tomorrow and is possibly afraid of creating the “scene”, it is not still too late! Just let your devices’ data-roaming OFF and inquire to your support desk in advance.)
+If you're going overseas tomorrow and are afraid of creating a sudden scene, it is still not to late! At the very least, turn your devices' data roaming to "off", and let your support desk know.
 
-* [バイリンガルITヘルプデスク](http://esolia.co.jp/helpdesk/)
-* [訪問サポート](http://esolia.co.jp/on-site/)
-* [プロセス管理](http://esolia.co.jp/process/)
-* [プロジェクト管理](http://esolia.co.jp/project-management/)
+_And be sure to contact eSolia after you return._
+
+* [Bilingual Helpdesk](http://esolia.co.jp/helpdesk/)
+* [On-site Visits](http://esolia.co.jp/on-site/)
+* [Process Management](http://esolia.co.jp/process/)
+* [Project Management](http://esolia.co.jp/project-management/)
