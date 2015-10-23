@@ -26,35 +26,38 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
-## 海外出張の落とし穴　－　電子機器は海外でも利用出来て便利
+## A trap in Business Trip – Electronic devices are always useful even in foreign countries
 
 <figure class="image-container">
 <img class="materialboxed right responsive-img" width="300" data-caption="Security vs Convenience" alt="Chart showing Security versus Convenience" src="/img/eSolia-Post-Security-vs-Convenience.png">
 </figure>
 
-今やあっという間に自身が部屋で火事を起こしてしまう映像が世界へ配信されてしまう時代、きっと英語が出来ても出来なくてもあなたは急な海外出張へ行くことがあるかもしれません。そんな時に会社支給のスマートフォンやポケットワイファイ等の電子機器を持っていくことは、もはや当たり前になりつつある様に感じます。
-今回お伝えしたいのは、よく聞くよなぁと思いつつ、定期的に繰り返される海外での電子機器の利用にまつわる話です。
+This is an era that someone can even broadcast himself setting fire to home by accident, no matter you speaks English or not, you might need to go on a business trip to other countries. With such an opportunity, bringing your smart-phone, portable Wi-Fi router and such is becoming pretty common, I feel.
+What I would like to tell this time is, about a story that you often hear about, but still being repeated periodically, related to those electronic devices.
 
-## データローミングって一体何者？　－　御社では海外での利用についてもユーザへ正しく周知はされておりますか。
+## What on the earth is data-roaming ? – Has the oversea usage been properly notified to users in your company ?
 
 <figure class="image-container">
 <img class="materialboxed right responsive-img z-depth-1" width="200" data-caption="Windows 10 Logo" alt="Logo for Windows 10" src="/img/eSolia-Post-Windows-10_orange.jpg" >
 </figure>
 
-海外へ出張される時、気をつけなければいけないのは、データローミング機能です。
-通話機能はこれには一切関係なく、いわゆるパケット通信がコレにあたります。これがONになっていると海外にいても提携キャリアの通信網へ接続し、メールが受信出来たり、ブラウザで調べ物したり、Google Mapを見たりと、日本にいる時と同じ様に使えます。でもあなたは知らなければいけません。海外でのパケット通信料はべらぼうに高いことを・・。
+When it comes to the business trip abroad, what you needs to be careful is, about the international roaming on your smart-phone.
+Call function is separated and not related, the packet transmission is what is about. (In Japan, data-roaming is basically about only transmission, but in other country you should see a separated menu ”voice-roaming” probably.)
+If this function is ON, wherever you are in foreign countries, it enables your cellphone to connect a local carrier and allow to send/receive mails, browse, or even to check the Google map, just like you’re in Japan. But you should know one thing, that the transmission fee is really really expensive in other countries.
 
-先日たった一晩にして海外出張先で約70万円もの通信料が発生するという事件がありました。。
+The other day, there was an incident that caused a \700,000 of transmission fee at 1 night. (Just 1 night..)
 
-あなたは思うかもしれません、海外でもパケット使い放題って各キャリア毎にあるじゃあないか、、と。
-その通りです。しかしながらこれはしっかりご自身で機器の設定をしてあげないと、いつも勝手に適用される様な親切な設計にはなっていません。パケ死なんて言葉が流行ったのはもう何年前でしょうか。。しかしまだ実際に現場ではあるんです。
-もし御社の社内にそういった事を周知してくれる立場の人がいなかったり、もしくは管理している総務担当やシステム担当がきちんと周知をしていなかった場合、あなたも一晩で何十万という請求を引き起こすことになるかもしれません。
+You may think, “he/she was just stupid because there is a so called unlimited-packet plan by each carrier!”, like this.
+Exactly you are right. But it is probably not so kind as you think and won’t be applied unless you set the devices properly. 
+Do you know the word “Pake-shi” (≠bill shock) was popular many years ago. I have to say, it still does exist in the scene.
+If there is no one to notify it correctly, or the admin-section in charge has never notified it, you could be the one to cause the bill shock at 1 night. 
 
-## eSoliaのヘルプデスクなら
+## In closing
 
-弊社のバイリンガルITヘルプデスクは豊富な経験と知識から、予めそういった危険性を周知し、適切にご案内することが可能です。上記リスクに思い当たりのある場合、お気軽にご相談下さい。
+For this sort of matters, please contact eSolia. 
+eSolia’s bilingual IT helpdesk can help you by foreseeing the risks of those and support you with the solid experience and knowledge.
 
-（明日海外出張に行くんだけど私パケ"死ぬ"かもしれないといういう方は、まず端末上のデータローミング機能をOFFにすることから始めましょう。そして担当者へ予め問い合わせしておく事をお薦めいたします。）
+(For those who supposed to go oversea tomorrow and is possibly afraid of creating the “scene”, it is not still too late! Just let your devices’ data-roaming OFF and inquire to your support desk in advance.)
 
 * [バイリンガルITヘルプデスク](http://esolia.co.jp/helpdesk/)
 * [訪問サポート](http://esolia.co.jp/on-site/)
