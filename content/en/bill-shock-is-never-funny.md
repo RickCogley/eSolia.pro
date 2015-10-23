@@ -45,9 +45,9 @@ When it comes to the business trip abroad, what you needs to be careful is, abou
 Call function is separated and not related, the packet transmission is what is about. (In Japan, data-roaming is basically about only transmission, but in other country you should see a separated menu ”voice-roaming” probably.)
 If this function is ON, wherever you are in foreign countries, it enables your cellphone to connect a local carrier and allow to send/receive mails, browse, or even to check the Google map, just like you’re in Japan. But you should know one thing, that the transmission fee is really really expensive in other countries.
 
-The other day, there was an incident that caused a \700,000 of transmission fee at 1 night. (Just 1 night..)
+The other day, there was an incident that caused a 700,000 yen of transmission fee at 1 night. (Just 1 night..)
 
-You may think, “he/she was just stupid because there is a so called unlimited-packet plan by each carrier!”, like this.
+You may think, “he/she was just stupid because there must be the oversea-unlimited-packet-plan by each carrier..”, like this.
 Exactly you are right. But it is probably not so kind as you think and won’t be applied unless you set the devices properly. 
 Do you know the word “Pake-shi” (≠bill shock) was popular many years ago. I have to say, it still does exist in the scene.
 If there is no one to notify it correctly, or the admin-section in charge has never notified it, you could be the one to cause the bill shock at 1 night. 
