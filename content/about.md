@@ -7,6 +7,7 @@ draft: false
 slug: about
 title: About eSolia.pro
 subtitle: Professionals' Blog
+hidecomments: true
 weight: 10
 tags:
   - eSolia
