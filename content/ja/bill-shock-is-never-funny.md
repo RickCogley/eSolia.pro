@@ -1,9 +1,9 @@
 ---
 author: Hidekazu Maezono
 authorkey: hidekazumaezono
-date: 2015-10-09T15:15:15+09:00
-publishdate: 2015-10-09T15:15:15+09:00
-draft: true
+date: 2015-10-29T12:15:15+09:00
+publishdate: 2015-10-29T12:15:15+09:00
+draft: false
 slug: bill-shock-is-never-funny
 title: 笑えないパケ死
 subtitle: データローミングについて
