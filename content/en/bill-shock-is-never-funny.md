@@ -47,7 +47,7 @@ Has your company properly notified users of the risks and pitfalls of data roami
 
 They are unrelated to the phone call function, and rather all about the transmission of packets. In Japan, data-roaming is basically about transmission only, but in other countries you may see a separate menu related to "voice roaming".
 
-If this function is set to "on", wherever you are in foreign countries, it enables your cellphone to connect to a local carrier to send or receive emails, browse the web, or even check Google maps, just like you're in Japan. But you should be acutely aware, that transmission fees are really, really expensive ian other countries.
+If this function is set to "on", wherever you are in foreign countries, it enables your cellphone to connect to a local carrier to send or receive emails, browse the web, or even check Google maps, just like you're in Japan. But you should be acutely aware, that transmission fees are really, really expensive in other countries.
 
 The other day, there was an incident at a client, that **caused a 700,000 yen transmission fee in just 1 night**. (Just _one_ night..)
 
@@ -59,7 +59,7 @@ Have you heard the phrase "bill shock"? I have to say, this still exists in real
 
 For this sort of matter, please contact eSolia. eSolia’s bilingual IT helpdesk can help you by foreseeing the risks of such matters, and support you with our solid experience and knowledge.
 
-If you're going overseas tomorrow and are afraid of creating a sudden scene, it is still not to late! At the very least, turn your devices' data roaming to "off", and let your support desk know.
+If you're going overseas tomorrow and are afraid of creating a sudden scene, it is still not too late! At the very least, turn your devices' data roaming to "off", and let your support desk know.
 
 _And be sure to contact eSolia after you return._
 
