@@ -8,7 +8,7 @@ slug: bill-shock-is-never-funny
 title: 笑えないパケ死
 subtitle: データローミングについて
 description: イソリアから、eSolia.proのブログポスト、笑えないパケ死、データローミングについて
-postsummary: 海外出張時にはデータローミング機能に気をつけて
+postsummary: 御社では海外での利用についてもユーザへ正しく周知はされておりますか。海外出張時にはデータローミング機能に気をつけるのが必須です。
 alternatelocales:
   - en-US
 tags:
