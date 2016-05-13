@@ -39,7 +39,7 @@
               {{ partial "detailpage-topics.html" . }}
             {{ end }}
             {{ if not .Params.hidecomments }}
-              {{ partial "discourse.html" . }}
+              {{ template "_internal/disqus.html" . }}
             {{ end }}
             {{if isset .Params "gallery_id" }}
               {{ partial "gallery.html" . }}
