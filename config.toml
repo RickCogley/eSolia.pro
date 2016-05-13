@@ -1,5 +1,6 @@
 baseurl = "http://esolia.pro/"
 title = "eSolia Inc. Pro Blog"
+disqusShortname = "esoliapro" # Optional, enable Disqus integration
 contentdir = "content/"
 publishdir = "public/"
 canonifyurls = "false"
